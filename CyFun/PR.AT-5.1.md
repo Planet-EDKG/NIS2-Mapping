@@ -1,0 +1,19 @@
+---
+tags:
+  - CyFun
+id: "PR.AT-5.1"
+tier: "IMPORTANT"
+---
+
+# BE-CyFun PR.AT-5.1
+
+**Tier:** IMPORTANT
+
+## Referenziert von DVO-Punkten
+
+- [[DVO/1.2 Roles, responsibilities and authorities|Punkt 1.2 – Roles, responsibilities and authorities]]
+- [[DVO/8.2 Security training|Punkt 8.2 – Security training]]
+
+## Übergeordnet
+
+[[CyFun/000 BE-CyFun 2025|BE-CyFun 2025]]

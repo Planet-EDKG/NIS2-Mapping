@@ -1,0 +1,18 @@
+---
+tags:
+  - CyFun
+id: "PR.AT-3.3"
+tier: "IMPORTANT"
+---
+
+# BE-CyFun PR.AT-3.3
+
+**Tier:** IMPORTANT
+
+## Referenziert von DVO-Punkten
+
+- [[DVO/2.2 Compliance monitoring|Punkt 2.2 – Compliance monitoring]]
+
+## Übergeordnet
+
+[[CyFun/000 BE-CyFun 2025|BE-CyFun 2025]]

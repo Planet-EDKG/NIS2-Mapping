@@ -1,0 +1,18 @@
+---
+tags:
+  - CyFun
+id: "PR.PT-2.1"
+tier: "IMPORTANT"
+---
+
+# BE-CyFun PR.PT-2.1
+
+**Tier:** IMPORTANT
+
+## Referenziert von DVO-Punkten
+
+- [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]
+
+## Übergeordnet
+
+[[CyFun/000 BE-CyFun 2025|BE-CyFun 2025]]

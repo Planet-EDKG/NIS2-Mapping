@@ -1,0 +1,384 @@
+
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 28 
+Die Ergebnisse der Planungsphase MÜSSEN in einer geeigneten Form dokumentiert werden. Die Doku-
+mentation MUSS alle Netzbereiche, die Protokoll- und Protokollierungsdatenquellen, deren Beziehungen 
+untereinander und den Datenfluss der Protokoll- und Protokollierungsdaten im Anwendungsbereich 
+umfassen. Hierbei ist ein angemessener Abstraktions- und Detailgrad zu wählen, sodass der effektive Einsatz 
+von SzA bewertet werden kann. Um dies zu unterstützen, SOLLTE insbesondere eine Gruppierung gleicher 
+Systemgruppen innerhalb der Dokumentation erfolgen. Gleiche bzw. sehr ähnliche Netze (beispielsweise
+verschiedene Standorte mit gleichem Netzaufbau) können zusammengefasst werden. Darüber hinaus MUSS 
+für jedes System bzw. für jede Systemgruppe dokumentiert werden, welche Ereignisse dieses bzw. diese 
+protokolliert. 
+Es MUSS ein Prozess eingerichtet werden, der sicherstellt, dass die Protokollierung bei Veränderungen im 
+Anwendungsbereich (Changes) entsprechend angepasst wird.
+102. Erstellung einer Sicherheitsrichtlinie für die Protokollierung (SIM-01, BSI OH SzA, OPS.1.1.5A1)
+Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheits-
+richtlinie für die Protokollierung erstellt werden. In dieser Sicherheitsrichtlinie MÜSSEN nachvollziehbar 
+Anforderungen und Vorgaben beschrieben sein, wie die Protokollierung zu planen, aufzubauen und sicher 
+zu betreiben ist. In der spezifischen Sicherheitsrichtlinie MUSS geregelt werden, wie, wo und was zu proto-
+kollieren ist. Dabei SOLLTEN sich Art und Umfang der Protokollierung am Schutzbedarf der Informationen 
+orientieren.
+Die spezifische Sicherheitsrichtlinie MUSS von dem oder der ISB gemeinsam mit den Fachverantwortlichen 
+erstellt werden. Sie MUSS allen für die Protokollierung zuständigen Mitarbeitenden bekannt und grund-
+legend für ihre Arbeit sein. Wird die spezifische Sicherheitsrichtlinie verändert oder wird von den Anfor-
+derungen abgewichen, MUSS dies mit dem oder der ISB abgestimmt und dokumentiert werden. Es MUSS 
+regelmäßig überprüft werden, ob die spezifische Sicherheitsrichtlinie noch korrekt umgesetzt ist. Die 
+Ergebnisse der Überprüfung MÜSSEN dokumentiert werden.
+103. Protokollierung auf System- und Netzebene (BSI OH SzA, OPS.1.1.5A3 –A5)
+Alle sicherheitsrelevanten Ereignisse von IT-Systemen und Anwendungen MÜSSEN protokolliert werden. 
+Sofern die in der Protokollierungsrichtlinie als relevant definierten IT-Systeme und Anwendungen über 
+eine Protokollierungsfunktion verfügen, MUSS diese benutzt werden. Wenn die Protokollierung eingerich-
+tet wird, MÜSSEN dabei die Vorgaben des herstellenden Unternehmens für die jeweiligen IT-Systeme oder 
+Anwendungen beachtet werden. In angemessenen Intervallen MUSS stichpunktartig überprüft werden, ob 
+die Protokollierung noch korrekt funktioniert. Die Prüfintervalle MÜSSEN in der Protokollierungsrichtlinie 
+definiert werden. Falls betriebs- und sicherheitsrelevante Ereignisse nicht auf einem IT-System proto-
+kolliert werden können, MÜSSEN zusätzliche IT-Systeme zur Protokollierung (z. B. von Ereignissen auf 
+Netzebene) integriert werden. 
+Die Systemzeit aller protokollierenden IT-Systeme und Anwendungen MUSS immer synchron sein. Es 
+MUSS sichergestellt sein, dass das Datums- und Zeitformat der Protokolldateien einheitlich ist. 
+Bei der Protokollierung MÜSSEN die Bestimmungen aus den aktuellen Gesetzen zum Bundes- sowie Lan-
+desdatenschutz eingehalten werden (siehe CON.2 Datenschutz). Darüber hinaus MÜSSEN eventuelle Per-
+sönlichkeitsrechte bzw. Mitbestimmungsrechte der Mitarbeitendenvertretungen gewahrt werden. Ebenso 
+MUSS sichergestellt sein, dass alle weiteren relevanten gesetzlichen Bestimmungen beachtet werden. Proto-
+kollierungsdaten MÜSSEN nach einem festgelegten Prozess gelöscht werden. Es MUSS technisch unter-
+bunden werden, dass Protokollierungsdaten unkontrolliert gelöscht oder verändert werden.
+Aufbau zentralisierter Protokollierungsinfrastrukturen:
+Alle gesammelten sicherheitsrelevanten Protokoll- und Protokollierungsdaten MÜSSEN an für den jewei-
+ligen Netzbereich zentralen3 Stellen gespeichert werden. Die Zahl an zentralen Stellen zur Speicherung 
+SOLLTE möglichst geringgehalten werden und sich mindestens an funktionalen Einheiten orientieren, 
+sodass der Zugriff auf die gespeicherten Daten einfach erfolgen kann. 
+Die Protokollierungsinfrastruktur MUSS dazu ausreichend dimensioniert sein. Dafür MÜSSEN genügend 
+technische, finanzielle und personelle Ressourcen verfügbar sein. 
+                                                                 3 Zentral im Sinne der Netzarchitektur
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 29 
+Bereitstellung von Protokoll- und Protokollierungsdaten für die Auswertung: 
+Die gesammelten Protokoll- und Protokollierungsdaten MÜSSEN gefiltert, normalisiert, aggregiert und 
+korreliert werden. Die so bearbeiteten Protokoll- und Protokollierungsdaten MÜSSEN geeignet verfügbar 
+gemacht werden, damit sie ausgewertet werden können. 
+Eine zeitlich befristete Speicherung der unbearbeiteten Protokolldaten KANN den Detektionsprozess zu-
+sätzlich unterstützen. 
+Für die Erzielung einer angemessenen Sichtbarkeit von Angriffen SOLLTEN die Protokollierungsdaten-
+quellen auf Netzebene von außen (Netzgrenzen) nach innen (Netzbereiche) erschlossen werden. 
+Die Systemebene (kritische Anwendungen und Applikationen) SOLLTE ausgehend von den zentralen, kri-
+tischen Systemen, wie z. B. Prozessleit- und Automatisierungstechnik und Leitsystemen, erschlossen wer-
+den. Die Priorisierung zur Auswahl der Protokollierungsdatenquellen SOLLTE ausgehend von der Kritikali-
+tät der Systeme abgeleitet werden. 
+Nach erfolgreicher Umsetzung der Protokollierung MUSS geprüft werden, ob alle geplanten Protokollie-
+rungsdatenquellen gemäß der Planung umgesetzt wurden.
+Sollten branchenspezifisch weitergehende gesetzliche oder regulatorische Anforderungen an die Protokol-
+lierung bestehen, so MÜSSEN diese ebenfalls entsprechend umgesetzt werden.
+2.13.2 Detektion
+104. Planung der Detektion (BSI OH SzA)
+Bei der Auswahl und dem Einsatz von Detektionsmaßnahmen MUSS eine umfassende und effiziente Ab-
+deckung der Bedrohungslandschaft erzielt werden. Dazu MÜSSEN die Ergebnisse der Risikoanalyse sowie 
+die Größe und Struktur des Unternehmens in der Planung einbezogen werden. Zur Bestimmung der Ab-
+deckung KANN (und es wird empfohlen) eine standardisierte Methode angewendet werden (z. B. MITRE 
+ATT&CK bzw. ATT&CK for ICS ). In Abhängigkeit der Unternehmensgröße und der Bedrohungslandschaft 
+KANN eine separate Betrachtung von Detektionsmaßnahmen für die IT- und OT-Umgebung erforderlich 
+sein.
+105. Erstellung einer Sicherheitsrichtlinie für die Detektion von sicherheitsrelevanten Ereignissen 
+(SRE) (BSI OH SzA, DER.1.A1)
+Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheits-
+richtlinie für die Detektion von sicherheitsrelevanten Ereignissen erstellt werden. In der spezifischen 
+Sicherheitsrichtlinie MÜSSEN nachvollziehbar Anforderungen und Vorgaben beschrieben werden, wie die 
+Detektion von sicherheitsrelevanten Ereignissen geplant, aufgebaut und sicher betrieben werden kann. Die 
+spezifische Sicherheitsrichtlinie MUSS allen im Bereich Detektion zuständigen Mitarbeitenden bekannt und 
+grundlegend für ihre Arbeit sein. Falls die spezifische Sicherheitsrichtlinie verändert wird oder von den 
+Anforderungen abgewichen wird, dann MUSS dies mit dem oder der verantwortlichen ISB abgestimmt und 
+dokumentiert werden. Es MUSS regelmäßig überprüft werden, ob die spezifische Sicherheitsrichtlinie noch 
+korrekt umgesetzt ist. Die Ergebnisse der Überprüfung MÜSSEN sinnvoll dokumentiert werden.
+106. Einhaltung rechtlicher Bedingungen bei der Auswertung von Protokollierungsdaten (BSI OH SzA, 
+DER.1.A2)
+Wenn Protokollierungsdaten ausgewertet werden, dann MÜSSEN dabei die Bestimmungen aus den aktu-
+ellen Gesetzen zum Bundes- und Landesdatenschutz eingehalten werden. Wenn Detektionssysteme einge-
+setzt werden, dann MÜSSEN die Persönlichkeitsrechte bzw. Mitbestimmungsrechte der Mitarbeitenden-
+vertretungen gewahrt werden. Ebenso MUSS sichergestellt sein, dass alle weiteren relevanten gesetzlichen 
+Bestimmungen beachtet werden, z. B. das Telemediengesetz (TMG), das Betriebsverfassungsgesetz und das 
+Telekommunikationsgesetz.
+107. Festlegung von Meldewegen für sicherheitsrelevante Ereignisse (BSI OH SzA, DER.1.A3)
+Für sicherheitsrelevante Ereignisse MÜSSEN geeignete Melde- und Alarmierungswege festgelegt und doku-
+mentiert werden. Es MUSS bestimmt werden, welche Stellen wann zu informieren sind. Es MUSS aufgeführt 
+sein, wie die jeweiligen Personen erreicht werden können. Je nach Dringlichkeit MUSS ein sicherheitsrele-
+vantes Ereignis über verschiedene Kommunikationswege gemeldet werden.
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 30 
+Alle Personen, die für die Meldung bzw. Alarmierung relevant sind, MÜSSEN über ihre Aufgaben informiert 
+sein. Alle Schritte des Melde- und Alarmierungsprozesses MÜSSEN ausführlich beschrieben sein. Die ein-
+gerichteten Melde- und Alarmierungswege SOLLTEN regelmäßig geprüft, erprobt und aktualisiert werden, 
+falls erforderlich.
+108. Sensibilisierung der Mitarbeitenden [Vorgesetzte, Benutzende, Mitarbeitende] (BSI OH SzA, 
+DER.1.A4)
+Alle Benutzenden MÜSSEN dahingehend sensibilisiert werden, dass sie Ereignismeldungen ihrer Clients 
+nicht einfach ignorieren oder schließen. Sie MÜSSEN die Meldungen entsprechend der Alarmierungswege 
+an das verantwortliche Incident Management weitergeben. 
+Alle Mitarbeitenden MÜSSEN einen von ihnen erkannten Sicherheitsvorfall unverzüglich dem Incident 
+Management melden.
+109. Einsatz von mitgelieferten Systemfunktionen zur Detektion [Fachverantwortliche] (BSI OH SzA, 
+DER.1.A5)
+Falls eingesetzte IT-Systeme oder Anwendungen über Funktionen verfügen, mit denen sich sicherheitsrele-
+vante Ereignisse detektieren lassen, dann MÜSSEN diese aktiviert und benutzt werden. Falls ein sicherheits-
+relevanter Vorfall vorliegt, dann MÜSSEN die Meldungen der betroffenen IT-Systeme ausgewertet werden. 
+Zusätzlich MÜSSEN die protokollierten Ereignisse anderer IT-Systeme überprüft werden. Auch SOLLTEN 
+die gesammelten Meldungen in verbindlich festgelegten Zeiträumen stichpunktartig kontrolliert werden. 
+Es MUSS geprüft werden, ob zusätzliche Schadcodescanner auf zentralen IT-Systemen installiert werden 
+sollen. Falls zusätzliche Schadcodescanner eingesetzt werden, dann MÜSSEN diese es über einen zentralen 
+Zugriff ermöglichen, ihre Meldungen und Protokolle auszuwerten. Es MUSS sichergestellt sein, dass die 
+Schadcodescanner sicherheitsrelevante Ereignisse automatisch an die Zuständigen melden. Die Zuständigen 
+MÜSSEN die Meldungen auswerten und untersuchen.
+110. Kontinuierliche Überwachung und Auswertung von Protokoll- und Protokollierungsdaten (BSI 
+OH SzA)
+Alle Protokoll- und Protokollierungsdaten MÜSSEN kontinuierlich überwacht und ausgewertet werden. 
+Dies KANN automatisiert werden, wenn bei relevanten Ereignissen eine unmittelbare Alarmierung der Ver-
+antwortlichen gewährleistet ist. Die Prüfung des Ereignisses und ggf. die Reaktion MUSS innerhalb einer der 
+Risikoanalyse entsprechend geringen Zeitspanne erfolgen. Es MÜSSEN Mitarbeitende bzw. Mitarbeitende 
+von Dienstleistern benannt werden, die dafür zuständig sind. 
+Müssen die verantwortlichen Mitarbeitenden aktiv nach sicherheitsrelevanten Ereignissen suchen, z. B. 
+wenn sie IT-Systeme kontrollieren oder testen, MÜSSEN solche Aufgaben in entsprechenden Verfahrens-
+anleitungen dokumentiert sein. 
+Für die Detektion von sicherheitsrelevanten Ereignissen MÜSSEN genügend personelle Ressourcen bereit-
+gestellt werden.
+111. Einsatz zusätzlicher Detektionssysteme (BSI OH SzA)
+Es MÜSSEN Schadcodedetektionssysteme eingesetzt und zentral verwaltet werden. Anhand des Netzplans 
+MUSS festgelegt werden, welche Netzsegmente durch zusätzliche Detektionssysteme geschützt werden 
+müssen. Insbesondere MÜSSEN die im Netzplan definierten Übergänge zwischen internen und externen 
+Netzen um netzbasierte Intrusion Detection Systeme (NIDS) ergänzt werden.
+112. Infrastruktur zur Auswertung von Protokoll- und Protokollierungsdaten und Prüfung 
+sicherheitsrelevanter Ereignisse (BSI OH SzA)
+Damit die Protokoll- und Protokollierungsdaten korreliert und abgeglichen werden können, SOLLTEN sie 
+alle zeitlich synchronisiert werden. Die gesammelten Ereignismeldungen MÜSSEN regelmäßig auf Auf-
+fälligkeiten kontrolliert werden. Damit sicherheitsrelevante Ereignisse auch nachträglich erkannt werden 
+können, MÜSSEN die Signaturen der Detektionssysteme immer auf aktuellstem Stand gehalten werden.
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 31 
+113. Auswertung von Informationen aus externen Quellen (BSI OH SzA)
+Um neue Erkenntnisse über sicherheitsrelevante Ereignisse für den eigenen Informationsverbund zu ge-
+winnen, MÜSSEN externe Quellen herangezogen werden. Da Meldungen über unterschiedliche Kanäle in 
+eine Institution gelangen, MUSS sichergestellt sein, dass diese Meldungen von den Mitarbeitenden auch als 
+relevant erkannt und an die richtige Stelle weitergeleitet werden. Informationen aus zuverlässigen Quellen 
+MÜSSEN grundsätzlich ausgewertet werden. Alle gelieferten Informationen MÜSSEN danach bewertet 
+werden, ob sie relevant für den eigenen Informationsverbund sind. Ist dies der Fall, MÜSSEN die Informa-
+tionen entsprechend der Sicherheitsvorfallbehandlung eskaliert werden.
+114. Auswertung der Protokoll- und Protokollierungsdaten durch spezialisiertes Personal (BSI OH SzA)
+Es MÜSSEN Mitarbeitende bzw. Mitarbeitende von Dienstleistern speziell damit beauftragt werden, alle 
+Protokoll- und Protokollierungsdaten auszuwerten. Die Auswertung der Protokoll- und Protokollierungs-
+daten SOLLTE bei diesen höher priorisiert sein, als ihre übrigen Aufgaben. Daher empfiehlt es sich, dass dies 
+ihre überwiegende Aufgabe ist. Dieses Personal SOLLTE spezialisierte weiterführende Schulungen und 
+Qualifikationen erhalten. Ein Personenkreis MUSS benannt werden, der für das Thema Auswertung von 
+Protokoll- und Protokollierungsdaten verantwortlich ist.
+115. Zentrale Detektion und Echtzeitüberprüfungen von Ereignismeldungen (BSI OH SzA)
+Es MÜSSEN zentrale Komponenten eingesetzt werden, um sicherheitsrelevante Ereignisse zu erkennen und 
+auszuwerten. Zentrale automatisierte Analysen mit Softwaremitteln MÜSSEN dazu eingesetzt werden, um 
+alle in der Systemumgebung anfallenden Protokoll- und Protokollierungsdaten aufzuzeichnen, in Bezug 
+zueinander zu setzen und sicherheitsrelevante Vorgänge sichtbar zu machen. Alle eingelieferten Protokoll-
+und Protokollierungsdaten MÜSSEN lückenlos in der Protokollverwaltung einsehbar und auswertbar sein. 
+Die Daten MÜSSEN kontinuierlich ausgewertet werden.
+Werden definierte Schwellenwerte überschritten, MUSS automatisch alarmiert werden. Das zuständige 
+Personal4 MUSS sicherstellen, dass bei einem Alarm nach fachlicher Bewertung und innerhalb einer der 
+Risikoanalyse entsprechend geringen Zeitspanne eine qualifizierte und dem Bedarf entsprechende Reaktion 
+eingeleitet wird. Die Systemverantwortlichen MÜSSEN regelmäßig die Analyseparameter auditieren und 
+anpassen, falls dies erforderlich ist. Zusätzlich MÜSSEN bereits überprüfte Protokoll- und Protokollierungs-
+daten regelmäßig hinsichtlich sicherheitsrelevanter Ereignisse automatisch untersucht werden.
+116. Qualifizierung von sicherheitsrelevanten Ereignissen (BSI OH SzA)
+Als eine zentrale Grundvoraussetzung für die effektive Detektion MÜSSEN zudem Informationen zu aktuel-
+len Angriffsmustern für technische Vulnerabilitäten fortlaufend für die im Anwendungsbereich eingesetz-
+ten Systeme eingeholt werden. Dazu MÜSSEN fortlaufend Meldungen der Hersteller (Hard- und Software), 
+von Behörden, den Medien und weiterer relevanter Stellen geprüft werden und in dokumentierte Prozesse 
+des Schwachstellenmanagements einfließen. 
+Bei der Umsetzung von Detektionsmechanismen SOLLTE initial eine Kalibrierung durchgeführt werden, 
+um festzustellen, welche sicherheitsrelevanten Ereignisse (SRE) im Normalzustand auftreten (Baselining). 
+Dazu SOLLTE bewertet werden, ob dieser Normalzustand in Hinblick auf die Zahl der falsch positiven Mel-
+dungen hingenommen werden kann oder ob Änderungen vorzunehmen sind. Die Kalibrierung SOLLTE bei 
+Änderungen innerhalb des Anwendungsbereichs oder der Bedrohungslage erneut durchgeführt werden. 
+Die SRE MÜSSEN überprüft und dahingehend bewertet werden, ob sie auf einen Sicherheitsvorfall (qualifi-
+zierter SRE) hindeuten. Die zur Angriffserkennung eingesetzten Systeme sollten, in eindeutig zuordenbaren 
+Fällen, eine automatisierte Qualifizierung der SRE ermöglichen. Nur qualifizierte SRE SOLLTEN den Prozess 
+der Reaktion auslösen. Die Qualifizierung SOLLTE in automatisiert nicht eindeutig zuordenbaren Fällen 
+manuell durch festgelegte Verantwortliche vorgenommen werden. Basierend auf den gewonnenen Er-
+kenntnissen der Qualifizierung MÜSSEN die Detektionsmechanismen nachjustiert werden. 
+Sollten branchenspezifisch weitergehende gesetzliche oder regulatorische Anforderungen bestehen, so 
+MÜSSEN diese ebenfalls entsprechend umgesetzt werden.
+                                                                 4 Eigenes oder das eines Dienstleisters 
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 32 
+2.13.3 Reaktion
+117. Definition eines Sicherheitsvorfalls (BSI OH SzA, DER.2.1.A1)
+In einer Institution MUSS klar definiert sein, was ein Sicherheitsvorfall ist. Ein Sicherheitsvorfall MUSS so 
+weit wie möglich von Störungen im Tagesbetrieb abgegrenzt sein. Alle an der Behandlung von Sicherheits-
+vorfällen beteiligten Mitarbeitenden MÜSSEN die Definition eines Sicherheitsvorfalls kennen. Die Defini-
+tion und die Eintrittsschwellen eines solchen Vorfalls SOLLTEN sich nach dem Schutzbedarf der betroffe-
+nen Geschäftsprozesse, IT-Systeme bzw. Anwendungen richten.
+118. Erstellung einer Richtlinie zur Behandlung von Sicherheitsvorfällen (BSI OH SzA, DER.2.1.A2)
+Eine Richtlinie zur Behandlung von Sicherheitsvorfällen MUSS erstellt werden. Darin MÜSSEN Zweck und 
+Ziel der Richtlinie definiert sowie alle Aspekte der Behandlung von Sicherheitsvorfällen geregelt werden. So 
+MÜSSEN Verhaltensregeln für die verschiedenen Arten von Sicherheitsvorfällen beschrieben sein. Zusätz-
+lich MUSS es für alle Mitarbeitenden zielgruppenorientierte und praktisch anwendbare Handlungsanwei-
+sungen geben. Weiterhin SOLLTEN die Schnittstellen zu anderen Managementbereichen berücksichtigt 
+werden, z. B. zum Notfallmanagement. 
+Die Richtlinie MUSS allen Mitarbeitenden bekannt sein. Sie MUSS mit dem IT-Betrieb abgestimmt und 
+durch die Institutionsleitung verabschiedet sein. Die Richtlinie MUSS regelmäßig geprüft und aktualisiert 
+werden.
+119. Festlegung von Verantwortlichkeiten und Ansprechpersonen bei Sicherheitsvorfällen (BSI OH 
+SzA, DER.2.1.A3))
+Es MUSS geregelt werden, wer bei Sicherheitsvorfällen wofür verantwortlich ist. Für alle Mitarbeitenden 
+MÜSSEN die Aufgaben und Kompetenzen bei Sicherheitsvorfällen festgelegt werden. Insbesondere Mit-
+arbeitende, die Sicherheitsvorfälle bearbeiten sollen, MÜSSEN über ihre Aufgaben und Kompetenzen un-
+terrichtet werden. Dabei MUSS auch geregelt sein, wer die mögliche Entscheidung für eine forensische 
+Untersuchung trifft, nach welchen Kriterien diese vorgenommen wird und wann sie erfolgen soll. 
+Die Ansprechpartner oder Ansprechpartnerinnen für alle Arten von Sicherheitsvorfällen MÜSSEN den 
+Mitarbeitenden bekannt sein. Kontaktinformationen MÜSSEN immer aktuell und leicht zugänglich sein.
+120. Benachrichtigung betroffener Stellen bei Sicherheitsvorfällen [Institutionsleitung, IT-Betrieb, 
+Datenschutzbeauftragte, Notfallbeauftragte] (BSI OH SzA, DER.2.1.A4)
+Von einem Sicherheitsvorfall MÜSSEN alle betroffenen internen und externen Stellen zeitnah informiert 
+werden. Dabei MUSS geprüft werden, ob der oder die Datenschutzbeauftragte, der Betriebs- und Personalrat 
+sowie Mitarbeitende aus der Rechtsabteilung einbezogen werden müssen. Ebenso MÜSSEN die Melde-
+pflichten für Behörden und regulierte Branchen berücksichtigt werden. Außerdem MUSS gewährleistet 
+sein, dass betroffene Stellen über die erforderlichen Maßnahmen informiert werden.
+121. Behebung von Sicherheitsvorfällen [IT-Betrieb] (BSI OH SzA, DER.2.1.A5)
+Damit ein Sicherheitsvorfall erfolgreich behoben werden kann, MÜSSEN die Zuständigen zunächst das 
+Problem eingrenzen und die Ursache finden. Danach MÜSSEN die erforderlichen Maßnahmen auswählt 
+werden, um das Problem zu beheben. Die Leitung des IT-Betriebs MUSS eine Freigabe erteilen, bevor die 
+Maßnahmen umgesetzt werden. Anschließend MUSS die Ursache beseitigt und ein sicherer Zustand her-
+gestellt werden.  
+Eine aktuelle Liste von internen und externen Sicherheitsfachleuten MUSS vorhanden sein, die bei Sicher-
+heitsvorfällen für Fragen aus den erforderlichen Themenbereichen hinzugezogen werden können. Es 
+MÜSSEN sichere Kommunikationsverfahren mit diesen internen und externen Stellen etabliert werden.
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 33 
+122. Wiederherstellung der Betriebsumgebung nach Sicherheitsvorfällen [IT-Betrieb] (BSI OH SzA, 
+DER.2.1.A6)
+Nach einem Sicherheitsvorfall MÜSSEN die betroffenen Komponenten vom Netz genommen werden. 
+Zudem MÜSSEN alle erforderlichen Daten gesichert werden, die Aufschluss über die Art und Ursache des 
+Problems geben könnten. Auf allen betroffenen Komponenten MÜSSEN das Betriebssystem und alle 
+Applikationen auf Veränderungen untersucht werden. Die Originaldaten MÜSSEN von schreibgeschützten 
+Datenträgern wieder eingespielt werden. Dabei MÜSSEN alle sicherheitsrelevanten Konfigurationen und 
+Patches mit aufgespielt werden. Wenn Daten aus Datensicherungen wieder eingespielt werden, MUSS 
+sichergestellt sein, dass diese vom Sicherheitsvorfall nicht betroffen waren. Nach einem Angriff MÜSSEN 
+alle Zugangsdaten auf den betroffenen Komponenten geändert werden, bevor sie wieder in Betrieb genom-
+men werden. Die betroffenen Komponenten SOLLTEN einem Penetrationstest unterzogen werden, bevor 
+sie wieder eingesetzt werden. Bei der Wiederherstellung der sicheren Betriebsumgebung MÜSSEN die 
+Benutzenden in die Anwendungsfunktionstests einbezogen werden. Nachdem alles wiederhergestellt 
+wurde, MÜSSEN die Komponenten inklusive der Netzübergänge gezielt überwacht werden.
+123. Etablierung einer Vorgehensweise zur Behandlung von Sicherheitsvorfällen [Institutionsleitung] 
+(BSI OH SzA, DER.2.1.A7)
+Es SOLLTE eine geeignete Vorgehensweise zur Behandlung von Sicherheitsvorfällen definiert werden. Die 
+Abläufe, Prozesse und Vorgaben für die verschiedenen Sicherheitsvorfälle SOLLTEN dabei eindeutig ge-
+regelt und geeignet dokumentiert werden. Die Institutionsleitung SOLLTE die festgelegte Vorgehensweise 
+in Kraft setzen und allen Beteiligten zugänglich machen. Es SOLLTE regelmäßig überprüft werden, ob die 
+Vorgehensweise noch aktuell und wirksam ist. Bei Bedarf SOLLTE die Vorgehensweise angepasst werden.
+124. Aufbau von Organisationsstrukturen zur Behandlung von Sicherheitsvorfällen (BSI OH SzA, 
+DER.2.1.A8)
+Für den Umgang mit Sicherheitsvorfällen SOLLTEN geeignete Organisationsstrukturen festgelegt werden. 
+Es SOLLTE ein Sicherheitsvorfall-Team aufgebaut werden, dessen Mitglieder je nach Art des Vorfalls ein-
+berufen werden können. Auch wenn das Sicherheitsvorfall-Team nur für einen konkreten Fall zusammen-
+tritt, SOLLTEN bereits im Vorfeld geeignete Mitglieder benannt und in ihre Aufgaben eingewiesen sein. Es 
+SOLLTE regelmäßig geprüft werden, ob die Zusammensetzung des Sicherheitsvorfall-Teams noch ange-
+messen ist. Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
+125. Festlegung von Meldewegen für Sicherheitsvorfälle (BSI OH SzA, DER.2.1.A9)
+Für die verschiedenen Arten von Sicherheitsvorfällen SOLLTEN die jeweils passenden Meldewege aufgebaut 
+sein. Es SOLLTE dabei sichergestellt sein, dass Mitarbeitende Sicherheitsvorfälle über verlässliche und ver-
+trauenswürdige Kanäle schnell und einfach melden können. 
+Wird eine zentrale Anlaufstelle für die Meldung von Störungen oder Sicherheitsvorfällen eingerichtet, 
+SOLLTE dies an alle Mitarbeitende kommuniziert werden. 
+Eine Kommunikations- und Kontaktstrategie SOLLTE vorliegen. Darin SOLLTE geregelt sein, wer grund-
+sätzlich informiert werden muss und wer informiert werden darf, durch wen dies in welcher Reihenfolge 
+erfolgt und in welcher Tiefe informiert wird. Es SOLLTE definiert sein, wer Informationen über Sicherheits-
+vorfälle an Dritte weitergibt. Ebenso SOLLTE sichergestellt sein, dass keine unautorisierten Personen 
+Informationen über den Sicherheitsvorfall weitergeben.
+126. Eindämmen der Auswirkung von Sicherheitsvorfällen [Notfallbeauftragte, IT-Betrieb] (BSI OH 
+SzA, DER.2.1.A10)
+Parallel zur Ursachenanalyse eines Sicherheitsvorfalls SOLLTE entschieden werden, ob es wichtiger ist, den 
+entstandenen Schaden einzudämmen oder den Vorfall aufzuklären. Um die Auswirkung eines Sicherheits-
+vorfalls abschätzen zu können, SOLLTEN ausreichend Informationen vorliegen. Für ausgewählte Sicher-
+heitsvorfallszenarien SOLLTEN bereits im Vorfeld Worst-Case-Betrachtungen durchgeführt werden.
+127. Einstufung von Sicherheitsvorfällen [IT-Betrieb] (BSI OH SzA, DER.2.1.A11)
+Ein einheitliches Verfahren SOLLTE festgelegt werden, um Sicherheitsvorfälle und Störungen einzustufen. 
+Das Einstufungsverfahren für Sicherheitsvorfälle SOLLTE zwischen Sicherheitsmanagement und der 
+Störungs- und Fehlerbehebung (Incident Management) abgestimmt sein.
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 34 
+128. Festlegung der Schnittstellen der Sicherheitsvorfallbehandlung zur Störungs- und 
+Fehlerbehebung [Notfallbeauftragte] (BSI OH SzA, DER.2.1.A12)
+Die Schnittstellen zwischen Störungs- und Fehlerbehebung, Notfallmanagement und Sicherheitsmanage-
+ment SOLLTEN analysiert werden. Dabei SOLLTEN auch eventuell gemeinsam benutzbare Ressourcen 
+identifiziert werden. Die bei der Störungs- und Fehlerbehebung beteiligten Mitarbeitenden SOLLTEN für 
+die Behandlung von Sicherheitsvorfällen sowie für das Notfallmanagement sensibilisiert werden. Das 
+Sicherheitsmanagement SOLLTE lesenden Zugriff auf eingesetzte Incident-Management-Werkzeuge haben.
+129. Einbindung in das Sicherheits- und Notfallmanagement [Notfallbeauftragte] (BSI OH SzA, 
+DER.2.1.A13)
+Die Behandlung von Sicherheitsvorfällen SOLLTE mit dem Notfallmanagement abgestimmt sein. Falls es in 
+der Institution eine spezielle Rolle für Störungs- und Fehlerbehebung gibt, SOLLTE auch diese mit einbe-
+zogen werden.
+130. Eskalationsstrategie für Sicherheitsvorfälle [IT-Betrieb] (BSI OH SzA, DER.2.1.A14)
+Über die Kommunikations- und Kontaktstrategie hinaus SOLLTE eine Eskalationsstrategie formuliert wer-
+den. Diese SOLLTE zwischen den Verantwortlichen für Störungs- und Fehlerbehebung und dem Informa-
+tionssicherheitsmanagement abgestimmt werden. 
+Die Eskalationsstrategie SOLLTE eindeutige Handlungsanweisungen enthalten, wer auf welchem Weg bei 
+welcher Art von erkennbaren oder vermuteten Sicherheitsstörungen wann einzubeziehen ist. Es SOLLTE 
+geregelt sein, zu welchen Maßnahmen eine Eskalation führt und wie reagiert werden soll.
+Für die festgelegte Eskalationsstrategie SOLLTEN geeignete Werkzeuge wie z. B. Ticket-Systeme ausgewählt 
+werden. Diese SOLLTEN sich auch dafür eignen, vertrauliche Informationen zu verarbeiten. Es SOLLTE 
+sichergestellt sein, dass die Werkzeuge auch während eines Sicherheitsvorfalls bzw. Notfalls verfügbar sind.
+Die Eskalationsstrategie SOLLTE regelmäßig überprüft und gegebenenfalls aktualisiert werden. Die Check-
+listen (Matching Szenarios) für Störungs- und Fehlerbehebung SOLLTEN regelmäßig um sicherheitsrele-
+vante Themen ergänzt bzw. aktualisiert werden. Die festgelegten Eskalationswege SOLLTEN in Übungen 
+erprobt werden.
+131. Schulung der Mitarbeitenden des Service Desks [IT-Betrieb] (BSI OH SzA, DER.2.1.A15)
+Dem Personal des Service Desks SOLLTEN geeignete Hilfsmittel zur Verfügung stehen, damit sie Sicher-
+heitsvorfälle erkennen können. Sie SOLLTEN ausreichend geschult sein, um die Hilfsmittel selbst anwenden 
+zu können. Die Mitarbeitenden des Service Desks SOLLTEN den Schutzbedarf der betroffenen IT-Systeme 
+kennen.
+132. Dokumentation der Behebung von Sicherheitsvorfällen (BSI OH SzA, DER.2.1.A16)
+Die Behebung von Sicherheitsvorfällen SOLLTE nach einem standardisierten Verfahren dokumentiert wer-
+den. Es SOLLTEN alle durchgeführten Aktionen inklusive der Zeitpunkte sowie die Protokolldaten der be-
+troffenen Komponenten dokumentiert werden. Dabei SOLLTE die Vertraulichkeit bei der Dokumentation 
+und Archivierung der Berichte gewährleistet sein.
+Die benötigten Informationen SOLLTEN in die jeweiligen Dokumentationssysteme eingepflegt werden, 
+bevor die Störung als beendet und als abgeschlossen markiert wird. Im Vorfeld SOLLTEN mit dem oder der 
+ISB die dafür erforderlichen Anforderungen an die Qualitätssicherung definiert werden.
+133. Nachbereitung von Sicherheitsvorfällen (BSI OH SzA, DER.2.1.A17)
+Sicherheitsvorfälle SOLLTEN standardisiert nachbereitet werden. Dabei SOLLTE untersucht werden, wie 
+schnell die Sicherheitsvorfälle erkannt und behoben wurden. Weiterhin SOLLTE untersucht werden, ob die 
+Meldewege funktionierten, ausreichend Informationen für die Bewertung verfügbar und ob die Detektions-
+maßnahmen wirksam waren. Ebenso SOLLTE geprüft werden, ob die ergriffenen Maßnahmen und Aktivi-
+täten wirksam und effizient waren.
+Die Erfahrungen aus vergangenen Sicherheitsvorfällen SOLLTEN genutzt werden, um daraus Handlungs-
+anweisungen für vergleichbare Sicherheitsvorfälle zu erstellen. Diese Handlungsanweisungen SOLLTEN 
+den relevanten Personengruppen bekanntgegeben und auf Basis neuer Erkenntnisse regelmäßig aktualisiert 
+werden.
+Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
+Bundesamt für Sicherheit in der Informationstechnik 35 
+Die Institutionsleitung SOLLTE jährlich über die Sicherheitsvorfälle unterrichtet werden. Besteht sofortiger 
+Handlungsbedarf, MUSS die Institutionsleitung umgehend informiert werden.
+134. Weiterentwicklung der Prozesse durch Erkenntnisse aus Sicherheitsvorfällen und 
+Branchenentwicklungen [Fachverantwortliche] (BSI OH SzA, DER.2.1.A18)
+Nachdem ein Sicherheitsvorfall analysiert wurde, SOLLTE untersucht werden, ob die Prozesse und Abläufe 
+im Rahmen der Behandlung von Sicherheitsvorfällen geändert oder weiterentwickelt werden müssen. Da-
+bei SOLLTEN alle Personen, die an dem Vorfall beteiligt waren, über ihre jeweiligen Erfahrungen berichten.
+Es SOLLTE geprüft werden, ob es neue Entwicklungen im Bereich Incident Management und in der Foren-
+sik gibt und ob diese in die jeweiligen Dokumente und Abläufe eingebracht werden können. 
+Werden Hilfsmittel und Checklisten eingesetzt, z. B. für Service-Desk-Mitarbeitende, SOLLTE geprüft wer-
+den, ob diese um relevante Fragen und Informationen zu erweitern sind.
+135. Automatische Reaktion auf sicherheitsrelevante Ereignisse (BSI OH SzA)
+Bei einem sicherheitsrelevanten Ereignis MÜSSEN die eingesetzten Detektionssysteme das Ereignis auto-
+matisch melden und in Netzen, wo durch die automatische Reaktion die kritische Dienstleistung nicht ge-
+fährdet wird, mit geeigneten Schutzmaßnahmen reagieren. In Netzen, wo die kritische Dienstleistung durch 
+die Umsetzung nicht gefährdet wird, MUSS es möglich sein, automatisch in den Datenstrom einzugreifen, 
+um einen möglichen Sicherheitsvorfall zu unterbinden. Sollte eine automatische Reaktion nicht möglich 
+sein, MUSS über manuelle Prozesse sichergestellt werden, dass der mögliche Sicherheitsvorfall unterbunden 
+wird.
+Der Ausschluss von Netzen oder Netzsegmenten von einer automatischen Reaktion, bzw. dem Eingriff in 
+den Datenstrom MUSS schlüssig begründet sein. 
+Festgestellte Sicherheitsvorfälle im vermeintlichen Zusammenhang mit Angriffen MÜSSEN behandelt 
+werden.
+Bei Störungen und Sicherheitsvorfällen insbesondere im vermeintlichen Zusammenhang mit Angriffen 
+MUSS überprüft werden, ob diese den Kriterien der Meldepflicht nach § 8b Absatz 3 BSIG bzw. § 11 Ab-
+satz 1c EnWG entsprechen und eine Meldung an das BSI notwendig ist. 
+Die zur Angriffserkennung eingesetzten Systeme SOLLTEN automatisiert Maßnahmen zur Vermeidung 
+und Beseitigung von angriffsbedingten Störungen ergreifen können, sofern das zu Grunde liegende SRE 
+eindeutig qualifizierbar ist. Dabei MUSS gewährleistet sein, dass ausschließlich automatisiert ergriffene 
+Maßnahmen nicht zu einer relevanten Beeinträchtigung der kritischen Dienstleistung des Betreibers führen 
+können.
+Die eingesetzten SzA SOLLTEN auch eine nicht-automatisierte Qualifizierung und Behandlung von Ereig-
+nissen unterstützen.
