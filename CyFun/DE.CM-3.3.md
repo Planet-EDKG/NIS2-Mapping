@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/11.1 Access control policy|Punkt 11.1 – Access control policy]]

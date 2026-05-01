@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.2 Monitoring and logging|Punkt 3.2 – Monitoring and logging]]

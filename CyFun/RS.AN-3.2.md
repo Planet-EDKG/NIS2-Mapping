@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]

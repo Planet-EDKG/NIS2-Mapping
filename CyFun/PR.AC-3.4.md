@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/9.1 Cryptography|Punkt 9.1 – Cryptography]]

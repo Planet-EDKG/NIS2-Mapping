@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/11.5 Identification|Punkt 11.5 – Identification]]

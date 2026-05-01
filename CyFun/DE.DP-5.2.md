@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/2.2 Compliance monitoring|Punkt 2.2 – Compliance monitoring]]

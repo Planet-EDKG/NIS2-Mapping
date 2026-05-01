@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.7 Network security|Punkt 6.7 – Network security]]

@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures|Punkt 7.1 – Policies and procedures to assess the effectiveness of cybersecurity risk-management measures]]

@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/5.2 Directory of suppliers and service providers|Punkt 5.2 – Directory of suppliers and service providers]]

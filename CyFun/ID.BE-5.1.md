@@ -9,6 +9,8 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.1 Business continuity and disaster recovery plan|Punkt 4.1 – Business continuity and disaster recovery plan]]

@@ -5,9 +5,22 @@ id: "GV.RR-04.1"
 tier: "BASIC"
 ---
 
-# BE-CyFun GV.RR-04.1
+# BE-CyFun GV.RR-04.1 Personnel with access to the organisation’s most critical information or technology shall be authenticated.
 
 **Tier:** BASIC
+
+Implementation guidance
+The goal of this control is protecting critical assets by ensuring only authenticated personnel can access them.
+To achieve this, the following should be considered:
+- “Authenticated” means the user must technically prove their identity at the point of access, ideally using MFA
+or stronger methods, not just be validated during onboarding.
+- The access to critical information or technology should be considered during recruitment, onboarding, during
+employment, change of function and when offboarding (termination of employment).
+- Background verification checks should be conducted prior to onboarding new personnel for sensitive roles,
+and background checks should be periodically repeated for personnel with such roles. Background verification
+checks should however take into account applicable laws, regulations, and ethics in proportion to the business
+requirements, the classification of the information to be accessed and the perceived risks.
+- Cybersecurity expertise should be recognised as a valuable asset in recruitment, training, and retention decisions. 
 
 ## Referenziert von DVO-Punkten
 

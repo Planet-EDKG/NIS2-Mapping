@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.3 Crisis management|Punkt 4.3 – Crisis management]]

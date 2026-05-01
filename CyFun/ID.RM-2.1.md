@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/2.1 Risk management framework|Punkt 2.1 – Risk management framework]]

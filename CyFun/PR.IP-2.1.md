@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfallen in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.1 Security in acquisition of ICT services, ICT systems or ICT products|Punkt 6.1 – Security in acquisition of ICT services, ICT systems or ICT products]]

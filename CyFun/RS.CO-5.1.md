@@ -9,6 +9,8 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.3 Event reporting|Punkt 3.3 – Event reporting]]

@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+ entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.2 Secure development life cycle|Punkt 6.2 – Secure development life cycle]]

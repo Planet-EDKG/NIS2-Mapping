@@ -9,6 +9,8 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
+entfällt in 2025
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/13.2 Protection against physical and environmental threats|Punkt 13.2 – Protection against physical and environmental threats]]
