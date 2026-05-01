@@ -6,6 +6,8 @@ id: "RS.CO-03"
 
 # NIST CSF RS.CO-03
 
+Information is shared with designated internal and external stakeholders
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.5 Incident response|Punkt 3.5 – Incident response]]

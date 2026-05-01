@@ -4,7 +4,15 @@ tags:
 id: "BSI-88,"
 ---
 
-# KdA KRITIS – BSI-88,
+# Prüfungen in anderen, anderweitig vorgegebenen Prüfzyklen – Planung externer Audits (COM-02)
+Unabhängige Überprüfungen und Beurteilungen von Systemen oder Komponenten, die zur Erbringung der
+kritischen Dienstleistung beitragen, sind vom KRITIS-Betreiber so geplant, dass die folgenden Anforderungen erfüllt werden:
+• Es erfolgt ausschließlich lesender Zugriff auf die kritische Dienstleistung und Daten.
+• Aktivitäten, die möglicherweise die Verfügbarkeit der IT oder Komponenten beeinträchtigen und so zu
+Beeinträchtigungen der Verfügbarkeit der kritischen Dienstleistung führen könnten, werden außerhalb
+der regulären Geschäftszeiten bzw. nicht zu Zeiten von Lastspitzen durchgeführt.
+• Die durchgeführten Aktivitäten werden protokolliert und überwacht.
+Der KRITIS-Betreiber hat Vorkehrungen für außerplanmäßige Audits getroffen.
 
 ## Referenziert von NIS2-Paragraphen
 

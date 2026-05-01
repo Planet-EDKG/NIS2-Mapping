@@ -4,7 +4,13 @@ tags:
 id: "BSI-5,"
 ---
 
-# KdA KRITIS – BSI-5,
+# Asset Inventar (AM-01)
+
+Die zur Erbringung der kritischen Dienstleistung eingesetzten IT-Systeme und Komponenten (Assets) wie z.
+B. PCs, Peripheriegeräte, Telefone, Netzwerkkomponenten, Server, Installationsdokumentationen, Verfahrensanweisungen, IT-Anwendungen u. Werkzeuge sind identifiziert und inventarisiert. Durch angemessene
+Vorkehrungen und Maßnahmen wird sichergestellt, dass dieses Inventar vollständig, richtig, aktuell und
+konsistent bleibt. Änderungen an den Einträgen im Inventar werden nachvollziehbar historisiert. Soweit
+hierzu keine wirksamen Automatismen eingerichtet sind, wird dies durch regelmäßig stattfindende manuelle Überprüfung der Inventardaten des Assets sichergestellt.
 
 ## Referenziert von NIS2-Paragraphen
 

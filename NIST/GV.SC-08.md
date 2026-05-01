@@ -6,6 +6,9 @@ id: "GV.SC-08"
 
 # NIST CSF GV.SC-08
 
+Relevant suppliers and other third parties are included in incident planning,
+response, and recovery activities
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.1 Incident handling policy|Punkt 3.1 – Incident handling policy]]

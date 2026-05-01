@@ -6,6 +6,10 @@ id: "GV.PO-02"
 
 # NIST CSF GV.PO-02
 
+Policy for managing cybersecurity risks is reviewed, updated, communicated,
+and enforced to reflect changes in requirements, threats, technology, and
+organizational mission
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

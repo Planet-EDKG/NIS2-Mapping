@@ -4,7 +4,9 @@ tags:
 id: "BSI-9,"
 ---
 
-# KdA KRITIS – BSI-9,
+# Klassifikation von Informationen (AM-05)
+Der Betreiber der kritischen Dienstleistung verwendet eine einheitliche Klassifizierung von Informationen
+und Assets, die für die Entwicklung und Erbringung der kritischen Dienstleistung relevant sind. Das Klassifizierungsschema basiert auf einer Risikoanalyse und Folgeabschätzung (4.4.3).
 
 ## Referenziert von NIS2-Paragraphen
 

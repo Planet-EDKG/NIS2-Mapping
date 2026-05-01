@@ -6,6 +6,9 @@ id: "GV.RM-03"
 
 # NIST CSF GV.RM-03
 
+Cybersecurity risk management activities and outcomes are included in
+enterprise risk management processes
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

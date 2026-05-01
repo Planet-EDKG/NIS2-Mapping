@@ -4,7 +4,12 @@ tags:
 id: "BSI-79,"
 ---
 
-# KdA KRITIS – BSI-79,
+# Dokumentation und Berichterstattung über Sicherheitsvorfälle (SIM-04)
+Alle Sicherheitsvorfälle werden gemäß Informationssicherheitsrichtlinie dokumentiert.
+Eine verantwortliche Stelle für meldepflichtige Sicherheitsvorfälle ist eingerichtet. Eine Richtlinie ist umgesetzt, die regelt, welche Sicherheitsvorfälle der verantwortlichen Stelle zu melden sind und welche
+Sicherheitsvorfälle gemäß den Vorgaben aus § 8b Absatz 4 BSIG unverzüglich an das BSI zu melden sind:
+• Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die zu einem Ausfall oder zu einer erheblichen Beeinträchtigung der Funktionsfähigkeit der von ihnen betriebenen Kritischen Infrastrukturen geführt haben
+• erhebliche Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die zu einem Ausfall oder zu einer erheblichen Beeinträchtigung der Funktionsfähigkeit der von ihnen betriebenen Kritischen Infrastrukturen führen können.
 
 ## Referenziert von NIS2-Paragraphen
 

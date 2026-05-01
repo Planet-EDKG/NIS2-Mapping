@@ -6,6 +6,8 @@ id: "RS.AN-08"
 
 # NIST CSF RS.AN-08
 
+An incident’s magnitude is estimated and validated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.6 Post-incident reviews|Punkt 3.6 – Post-incident reviews]]

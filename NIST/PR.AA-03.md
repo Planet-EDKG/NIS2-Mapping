@@ -6,6 +6,8 @@ id: "PR.AA-03"
 
 # NIST CSF PR.AA-03
 
+Users, services, and hardware are authenticated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/11.6 Authentication|Punkt 11.6 – Authentication]]

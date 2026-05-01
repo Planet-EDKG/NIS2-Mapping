@@ -6,6 +6,8 @@ id: "RS.MA-02"
 
 # NIST CSF RS.MA-02
 
+Incident reports are triaged and validated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]

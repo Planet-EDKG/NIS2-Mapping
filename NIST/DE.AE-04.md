@@ -6,6 +6,8 @@ id: "DE.AE-04"
 
 # NIST CSF DE.AE-04
 
+The estimated impact and scope of adverse events are understood
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]

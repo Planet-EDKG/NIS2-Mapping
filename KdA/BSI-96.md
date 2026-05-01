@@ -4,7 +4,10 @@ tags:
 id: "BSI-96"
 ---
 
-# KdA KRITIS – BSI-96
+# Umgang mit Schwachstellen, Störungen und Fehlern – Integration mit Änderungs- und IncidentManagement (RB-19)
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen für den Umgang mit
+kritischen Schwachstellen sind gemäß SA-01 dokumentiert, kommuniziert und bereitgestellt.
+Die Maßnahmen sind mit den Aktivitäten des Änderungsverfahrens (Change Management) und der Störungs- und Fehlerbehebung (Incident Management) abgestimmt.
 
 ## Referenziert von NIS2-Paragraphen
 

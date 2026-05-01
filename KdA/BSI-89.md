@@ -4,7 +4,15 @@ tags:
 id: "BSI-89"
 ---
 
-# KdA KRITIS – BSI-89
+# Prüfungen in anderen, anderweitig vorgegebenen Prüfzyklen – Durchführung externer Audits
+(SOM-03)
+Prüfungen und Beurteilungen von Prozessen, IT-Systemen und IT-Komponenten, soweit diese ganz oder
+teilweise im Verantwortungsbereich des KRITIS-Betreibers liegen und für den Betrieb der kritischen Dienstleistung relevant sind, werden mindestens jährlich durch unabhängige Dritte (z. B. Wirtschaftsprüfer)
+durchgeführt, um Nichtkonformitäten mit rechtlichen, regulativen und gesetzlich vorgeschriebenen
+Anforderungen zu identifizieren. Die identifizierten Abweichungen werden priorisiert und in Abhängigkeit
+ihrer Kritikalität werden Maßnahmen zur Behebung zeitnah definiert, nachverfolgt und umgesetzt.
+Falls notwendig, können außerplanmäßige Überprüfungen durch unabhängige Dritte durchgeführt
+werden.
 
 ## Referenziert von NIS2-Paragraphen
 

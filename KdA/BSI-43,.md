@@ -4,7 +4,16 @@ tags:
 id: "BSI-43,"
 ---
 
-# KdA KRITIS – BSI-43,
+# Richtlinien zur Entwicklung/Beschaffung von Informationssystemen (BEI-01)
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen für die ordnungsgemäße Entwicklung und/oder Beschaffung von Informationssystemen für die Entwicklung oder den Betrieb
+der kritischen Dienstleistung, einschließlich Anwendungen, Middleware, Datenbanken, Betriebssystemen
+und Netzwerkkomponenten sind gemäß IT-Sicherheitsrichtlinie dokumentiert, kommuniziert und bereitgestellt.
+In den Richtlinien und Anweisungen sind mindestens die folgenden Aspekte beschrieben:
+• Sicherheit in der Softwareentwicklungsmethodik in Übereinstimmung mit in der Industrie etablierten
+Sicherheitsstandards (z. B. OWASP für Webapplikationen)
+• Sicherheit der Entwicklungsumgebung (z. B. getrennte Entwicklungs-/Test-/Produktivumgebungen)
+• Programmierrichtlinien für jede verwendete Programmiersprache (z. B. bzgl. Buffer Overflows, Verbergen interner Objektreferenzen gegenüber Benutzern)
+• Sicherheit in der Versionskontrolle.
 
 ## Referenziert von NIS2-Paragraphen
 

@@ -6,6 +6,9 @@ id: "PR.IR-01"
 
 # NIST CSF PR.IR-01
 
+Networks and environments are protected from unauthorized logical access
+and usage
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.7 Network security|Punkt 6.7 – Network security]]

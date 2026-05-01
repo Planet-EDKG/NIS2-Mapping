@@ -6,6 +6,9 @@ id: "RC.RP-01"
 
 # NIST CSF RC.RP-01
 
+The recovery portion of the incident response plan is executed once initiated
+from the incident response process
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.1 Business continuity and disaster recovery plan|Punkt 4.1 – Business continuity and disaster recovery plan]]

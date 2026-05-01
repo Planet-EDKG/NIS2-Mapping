@@ -6,6 +6,9 @@ id: "ID.IM-02"
 
 # NIST CSF ID.IM-02
 
+Improvements are identified from security tests and exercises, including those
+done in coordination with suppliers and relevant third parties
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

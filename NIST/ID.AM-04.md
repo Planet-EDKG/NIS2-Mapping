@@ -6,6 +6,8 @@ id: "ID.AM-04"
 
 # NIST CSF ID.AM-04
 
+Inventories of services provided by suppliers are maintained
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/12.4 Asset inventory|Punkt 12.4 – Asset inventory]]

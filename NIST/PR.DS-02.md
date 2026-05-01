@@ -6,6 +6,8 @@ id: "PR.DS-02"
 
 # NIST CSF PR.DS-02
 
+The confidentiality, integrity, and availability of data-in-transit are protected
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/9.1 Cryptography|Punkt 9.1 – Cryptography]]

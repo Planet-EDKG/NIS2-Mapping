@@ -4,7 +4,9 @@ tags:
 id: "BSI-73,"
 ---
 
-# KdA KRITIS – BSI-73,
+# Physischer Zutrittsschutz (PS-02)
+Zugänge zu Räumlichkeiten oder Gebäuden, die sensible oder kritische Informationen, Informationssysteme oder sonstige Netzwerkinfrastruktur für den Betreiber einer kritischen Dienstleistung beherbergen,
+sind durch physische Zutrittskontrollen gesichert und überwacht, um unbefugten Zutritt zu verhindern.
 
 ## Referenziert von NIS2-Paragraphen
 

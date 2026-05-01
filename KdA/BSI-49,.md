@@ -4,7 +4,10 @@ tags:
 id: "BSI-49,"
 ---
 
-# KdA KRITIS – BSI-49,
+# Testen der Änderungen (BEI-07)
+Alle Änderungen an der kritischen Dienstleistung werden Tests (z. B. auf Integration, Regression, Sicherheit
+und Benutzerakzeptanz) während der Entwicklung und vor der Bereitstellung in der Produktivumgebung
+unterzogen. Die Tests werden von angemessen qualifiziertem Personal des KRITIS-Betreibers durchgeführt.
 
 ## Referenziert von NIS2-Paragraphen
 

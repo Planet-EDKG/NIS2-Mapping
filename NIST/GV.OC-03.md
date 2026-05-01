@@ -6,6 +6,9 @@ id: "GV.OC-03"
 
 # NIST CSF GV.OC-03
 
+Legal, regulatory, and contractual requirements regarding cybersecurity —
+including privacy and civil liberties obligations — are understood and managed
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

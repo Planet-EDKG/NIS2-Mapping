@@ -4,7 +4,11 @@ tags:
 id: "BSI-39,"
 ---
 
-# KdA KRITIS – BSI-39,
+# Netzwerke zur Administration (KOS-04)
+Es existieren gesonderte Netzwerke zur administrativen Verwaltung der Infrastruktur und für den Betrieb
+von Managementkonsolen, die logisch oder physisch vom Netzwerk des KRITIS-Betreibers getrennt und
+durch Multi-Faktor-Authentifizierung vor unberechtigten Zugriffen geschützt sind.
+Netzwerke, die zum Zwecke der Migration oder dem Erzeugen von virtuellen Maschinen dienen, sind ebenfalls physisch oder logisch von anderen Netzwerken zu separieren.
 
 ## Referenziert von NIS2-Paragraphen
 

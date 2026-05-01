@@ -4,7 +4,11 @@ tags:
 id: "BSI-7,"
 ---
 
-# KdA KRITIS – BSI-7,
+# Nutzungsanweisungen für Assets (AM-03)
+
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen für den ordnungsgemäßen Umgang mit Assets, die für die Erbringung der kritischen Dienstleistung relevant sind und gemäß
+der Informationssicherheitsrichtlinie dokumentiert, kommuniziert und in der jeweils aktuellsten Version
+bereitgestellt werden.
 
 ## Referenziert von NIS2-Paragraphen
 

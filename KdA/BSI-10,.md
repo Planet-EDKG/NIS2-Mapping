@@ -4,7 +4,11 @@ tags:
 id: "BSI-10,"
 ---
 
-# KdA KRITIS – BSI-10,
+# Kennzeichnung von Informationen und Handhabung von Assets (AM-06)
+Zu dem umgesetzten Klassifizierungsschema von Informationen und Assets existieren Arbeitsanweisungen
+und Prozesse, um die Kennzeichnung von Informationen, sowie die entsprechende Behandlung von Assets
+zu gewährleisten.
+
 
 ## Referenziert von NIS2-Paragraphen
 

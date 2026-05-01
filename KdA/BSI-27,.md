@@ -4,7 +4,14 @@ tags:
 id: "BSI-27,"
 ---
 
-# KdA KRITIS – BSI-27,
+# Sichere Anmeldeverfahren (IDM-08)
+Die Vertraulichkeit der Anmeldeinformationen von internen und externen Benutzern unter Verantwortung
+des KRITIS-Betreibers sind durch die folgenden Maßnahmen geschützt:
+• Identitätsprüfung durch vertrauenswürdige Verfahren
+• Verwendung anerkannter Industriestandards zur Authentifizierung und Autorisierung (z. B. MultiFaktor-Authentifizierung, keine Verwendung von gemeinsam genutzten Authentifizierungsinformationen, automatischer Ablauf)
+• Multi-Faktor-Authentifizierung für Administratoren des KRITIS-Betreibers (z. B. durch Smart Card oder
+biometrische Merkmale) ist zwingend erforderlich, sofern ein Zugriff über öffentliche Netze erfolgt.
+
 
 ## Referenziert von NIS2-Paragraphen
 

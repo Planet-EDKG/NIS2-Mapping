@@ -6,6 +6,8 @@ id: "RS.MI-01"
 
 # NIST CSF RS.MI-01
 
+Incidents are contained
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.1 Incident handling policy|Punkt 3.1 – Incident handling policy]]

@@ -6,6 +6,9 @@ id: "ID.AM-02"
 
 # NIST CSF ID.AM-02
 
+Inventories of software, services, and systems managed by the organization
+are maintained
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/12.4 Asset inventory|Punkt 12.4 – Asset inventory]]

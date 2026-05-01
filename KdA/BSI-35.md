@@ -4,7 +4,19 @@ tags:
 id: "BSI-35"
 ---
 
-# KdA KRITIS – BSI-35
+# Sichere Schlüsselverwaltung (KRY-04)
+Verfahren und technische Maßnahmen zur sicheren Schlüsselverwaltung beinhalten mindestens die folgenden Aspekte:
+• Schlüsselgenerierung für unterschiedliche kryptografische Systeme und Applikationen
+• Ausstellung und Einholung von Public-Key-Zertifikaten
+• Provisionierung und Aktivierung von Schlüsseln für beteiligte Dritte
+• Sicheres Speichern eigener Schlüssel (sonstiger Dritter) einschließlich der Beschreibung, wie autorisierte
+Nutzer den Zugriff erhalten
+• Ändern oder Aktualisieren von kryptografischen Schlüsseln einschließlich Richtlinien, die festlegen,
+unter welchen Bedingungen und auf welche Weise die Änderungen bzw. Aktualisierungen zu realisieren
+sind
+• Umgang mit kompromittiertem Schlüssel
+• Entzug und Löschen von Schlüsseln, bspw. im Falle von Kompromittierung oder Mitarbeiterveränderungen.
+
 
 ## Referenziert von NIS2-Paragraphen
 

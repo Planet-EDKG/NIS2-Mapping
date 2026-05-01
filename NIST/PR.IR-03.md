@@ -6,6 +6,9 @@ id: "PR.IR-03"
 
 # NIST CSF PR.IR-03
 
+Mechanisms are implemented to achieve resilience requirements in normal
+and adverse situations
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.3 Crisis management|Punkt 4.3 – Crisis management]]

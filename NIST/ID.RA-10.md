@@ -6,6 +6,8 @@ id: "ID.RA-10"
 
 # NIST CSF ID.RA-10
 
+Critical suppliers are assessed prior to acquisition
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]

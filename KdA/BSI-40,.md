@@ -4,7 +4,12 @@ tags:
 id: "BSI-40,"
 ---
 
-# KdA KRITIS – BSI-40,
+# Dokumentation der Netztopologie (KOS-06)
+Die Architektur des Netzwerks ist nachvollziehbar und aktuell dokumentiert (z. B. in Form von Diagrammen), um im Wirkbetrieb Fehler in der Verwaltung zu vermeiden und um im Schadensfall eine zeitgerechte
+Wiederherstellung gemäß den vertraglichen Verpflichtungen zu gewährleisten.
+Aus der Dokumentation gehen die unterschiedlichen Umgebungen (z. B. Administrations-Netzwerk und
+geteilte Netzwerksegmente) und Datenflüsse hervor.
+
 
 ## Referenziert von NIS2-Paragraphen
 

@@ -6,6 +6,9 @@ id: "ID.IM-04"
 
 # NIST CSF ID.IM-04
 
+Incident response plans and other cybersecurity plans that affect operations
+are established, communicated, maintained, and improved
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

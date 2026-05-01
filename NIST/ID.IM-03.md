@@ -5,6 +5,8 @@ id: "ID.IM-03"
 ---
 
 # NIST CSF ID.IM-03
+Improvements are identified from execution of operational processes,
+procedures, and activities
 
 ## Referenziert von DVO-Punkten
 

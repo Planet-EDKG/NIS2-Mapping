@@ -1,17 +1,4 @@
 
-Anforderungskatalog zur Konkretisierung der Kriterien des § 8a Absatz 1 und Absatz 1a BSIG 
-Bundesamt für Sicherheit in der Informationstechnik 28 
-Die Ergebnisse der Planungsphase MÜSSEN in einer geeigneten Form dokumentiert werden. Die Doku-
-mentation MUSS alle Netzbereiche, die Protokoll- und Protokollierungsdatenquellen, deren Beziehungen 
-untereinander und den Datenfluss der Protokoll- und Protokollierungsdaten im Anwendungsbereich 
-umfassen. Hierbei ist ein angemessener Abstraktions- und Detailgrad zu wählen, sodass der effektive Einsatz 
-von SzA bewertet werden kann. Um dies zu unterstützen, SOLLTE insbesondere eine Gruppierung gleicher 
-Systemgruppen innerhalb der Dokumentation erfolgen. Gleiche bzw. sehr ähnliche Netze (beispielsweise
-verschiedene Standorte mit gleichem Netzaufbau) können zusammengefasst werden. Darüber hinaus MUSS 
-für jedes System bzw. für jede Systemgruppe dokumentiert werden, welche Ereignisse dieses bzw. diese 
-protokolliert. 
-Es MUSS ein Prozess eingerichtet werden, der sicherstellt, dass die Protokollierung bei Veränderungen im 
-Anwendungsbereich (Changes) entsprechend angepasst wird.
 102. Erstellung einer Sicherheitsrichtlinie für die Protokollierung (SIM-01, BSI OH SzA, OPS.1.1.5A1)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheits-
 richtlinie für die Protokollierung erstellt werden. In dieser Sicherheitsrichtlinie MÜSSEN nachvollziehbar 

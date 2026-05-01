@@ -4,7 +4,10 @@ tags:
 id: "BSI-69,"
 ---
 
-# KdA KRITIS – BSI-69,
+# Disziplinarverfahren (HR-04)
+Ein Prozess für die Durchführung von Disziplinarmaßnahmen ist implementiert und an die Mitarbeiter
+kommuniziert, um die Konsequenzen von Verstößen gegen die gültigen Richtlinien und Anweisungen,
+sowie rechtliche Vorgaben und Gesetze transparent zu machen.
 
 ## Referenziert von NIS2-Paragraphen
 

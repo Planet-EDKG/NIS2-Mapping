@@ -6,6 +6,10 @@ id: "PR.AA-05"
 
 # NIST CSF PR.AA-05
 
+Access permissions, entitlements, and authorizations are defined in a policy,
+managed, enforced, and reviewed, and incorporate the principles of least privilege and
+separation of duties
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/11.1 Access control policy|Punkt 11.1 – Access control policy]]

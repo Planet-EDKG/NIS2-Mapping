@@ -6,6 +6,8 @@ id: "PR.DS-01"
 
 # NIST CSF PR.DS-01
 
+The confidentiality, integrity, and availability of data-at-rest are protected
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/9.1 Cryptography|Punkt 9.1 – Cryptography]]

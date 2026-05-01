@@ -4,7 +4,11 @@ tags:
 id: "BSI-26,"
 ---
 
-# KdA KRITIS – BSI-26,
+# Geheimhaltung von Authentifizierungsinformationen (IDM-07)
+Die Zuteilung geheimer Authentifizierungsinformationen (z. B. Passwörter, Zertifikate, Sicherheitstoken) an
+interne und externe Benutzer des KRITIS-Betreibers erfolgt, soweit dies organisatorischen oder technischen
+Verfahren des KRITIS-Betreibers unterliegt, in einem geordneten Verfahren, das die Vertraulichkeit der Informationen sicherstellt.
+Soweit diese initial vergeben werden, sind diese nur temporär, höchstens aber 14 Tage gültig. Benutzer werden ferner gezwungen, diese bei der ersten Verwendung zu ändern.
 
 ## Referenziert von NIS2-Paragraphen
 

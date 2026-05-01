@@ -4,7 +4,12 @@ tags:
 id: "BSI-2,"
 ---
 
-# KdA KRITIS – BSI-2,
+# Strategische Vorgaben zur Informationssicherheit und Verantwortung der Unternehmensleitung (OIS-02)
+
+Eine Informationssicherheitsleitlinie mit Sicherheitszielen und strategischen Vorgaben, wie diese Ziele erreicht werden sollen, ist dokumentiert. Die Sicherheitsziele leiten sich von den Unternehmenszielen und
+Geschäftsprozessen, relevanten Gesetzen und Verordnungen sowie der aktuellen und zukünftig erwarteten
+Bedrohungsumgebung in Bezug auf Informationssicherheit ab. Die strategischen Vorgaben stellen grundlegende Rahmenbedingungen dar, die in weiteren Richtlinien und Anweisungen näher spezifiziert werden.
+Die Informationssicherheitsleitlinie wird von der Unternehmensleitung verabschiedet und an alle betroffenen internen und externen Parteien der kritischen Dienstleistung kommuniziert.
 
 ## Referenziert von NIS2-Paragraphen
 

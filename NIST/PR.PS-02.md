@@ -6,6 +6,8 @@ id: "PR.PS-02"
 
 # NIST CSF PR.PS-02
 
+Software is maintained, replaced, and removed commensurate with risk
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.6 Security patch management|Punkt 6.6 – Security patch management]]

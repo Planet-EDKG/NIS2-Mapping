@@ -6,6 +6,8 @@ id: "ID.AM-01"
 
 # NIST CSF ID.AM-01
 
+Inventories of hardware managed by the organization are maintained
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/12.4 Asset inventory|Punkt 12.4 – Asset inventory]]

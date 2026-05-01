@@ -4,7 +4,9 @@ tags:
 id: "BSI-13,"
 ---
 
-# KdA KRITIS – BSI-13,
+# Richtlinie für die Organisation des Risikomanagements (OIS-06)
+Richtlinien und Anweisungen über das grundsätzliche Verfahren zur Identifikation, Analyse, Beurteilung
+und Behandlung von Risiken und insb. IT-Risiken, die zu Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der für die Erbringung der kritischen Dienstleistung notwendigen informationstechnischen Systeme führen, sind dokumentiert, kommuniziert und bereitgestellt.
 
 ## Referenziert von NIS2-Paragraphen
 

@@ -6,6 +6,8 @@ id: "RS.CO-02"
 
 # NIST CSF RS.CO-02
 
+Internal and external stakeholders are notified of incidents
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.3 Event reporting|Punkt 3.3 – Event reporting]]

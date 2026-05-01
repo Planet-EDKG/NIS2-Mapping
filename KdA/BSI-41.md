@@ -4,7 +4,11 @@ tags:
 id: "BSI-41"
 ---
 
-# KdA KRITIS – BSI-41
+# Richtlinien zur Datenübertragung (KOS-07)
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen zum Schutz der Datenübertragung vor unbefugtem Abfangen, Manipulieren, Kopieren, Modifizieren, Umleiten oder Vernichten
+(z. B. Einsatz von Verschlüsselung) sind gemäß IT-Sicherheitsrichtlinie dokumentiert, kommuniziert und
+bereitgestellt.
+Die Vorgaben stellen einen Bezug zur Klassifikation von Informationen her (vgl. Nr. 9).
 
 ## Referenziert von NIS2-Paragraphen
 

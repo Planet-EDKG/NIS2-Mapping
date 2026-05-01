@@ -6,6 +6,9 @@ id: "GV.OC-02"
 
 # NIST CSF GV.OC-02
 
+Internal and external stakeholders are understood, and their needs and
+expectations regarding cybersecurity risk management are understood and considered
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

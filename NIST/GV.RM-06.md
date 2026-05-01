@@ -6,6 +6,9 @@ id: "GV.RM-06"
 
 # NIST CSF GV.RM-06
 
+A standardized method for calculating, documenting, categorizing, and
+prioritizing cybersecurity risks is established and communicated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/2.1 Risk management framework|Punkt 2.1 – Risk management framework]]

@@ -4,7 +4,11 @@ tags:
 id: "BSI-76"
 ---
 
-# KdA KRITIS – BSI-76
+# Wartung der Infrastruktur (PS-05)
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen für die Erbringung der
+kritischen Dienstleistung sind dokumentiert, kommuniziert und bereitgestellt, welche die Wartung (insb.
+Fernwartung), Löschung, Aktualisierung und Wiederverwendung von Assets in der Informationsverarbeitung in ausgelagerten Räumlichkeiten oder durch externes Personal beschreiben.
+
 
 ## Referenziert von NIS2-Paragraphen
 

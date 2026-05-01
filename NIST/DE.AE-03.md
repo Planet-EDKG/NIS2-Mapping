@@ -6,6 +6,8 @@ id: "DE.AE-03"
 
 # NIST CSF DE.AE-03
 
+Information is correlated from multiple sources
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.3 Crisis management|Punkt 4.3 – Crisis management]]

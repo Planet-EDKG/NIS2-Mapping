@@ -6,6 +6,9 @@ id: "GV.OC-04"
 
 # NIST CSF GV.OC-04
 
+Critical objectives, capabilities, and services that external stakeholders
+depend on or expect from the organization are understood and communicated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.1 Business continuity and disaster recovery plan|Punkt 4.1 – Business continuity and disaster recovery plan]]

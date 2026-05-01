@@ -4,7 +4,17 @@ tags:
 id: "BSI-56,"
 ---
 
-# KdA KRITIS – BSI-56,
+# Einstellung und Sicherheitsüberprüfung (HR-01)
+Die Vergangenheit aller internen und externen Mitarbeiter des KRITIS-Betreibers mit Zugriff auf die für die
+Erbringung der kritischen Dienstleistung notwendigen informationstechnischen Systeme, Komponenten
+und Prozesse wird vor Beginn des Beschäftigungsverhältnisses gemäß der lokalen Gesetzgebung und Regulierung durch den KRITIS-Betreiber überprüft. Besondere Genehmigungsverfahren im Einstellungsprozess
+für Mitarbeiter und Positionen, bei denen Zugriff auf besonders sensible Informationen besteht, sind etabliert.
+Soweit rechtlich zulässig, umfasst die Überprüfung folgende Bereiche:
+• Verifikation der Person durch Personalausweis
+• Verifikation des Lebenslaufs
+• Verifikation von akademischen Titeln und Abschlüssen
+• Anfrage eines polizeilichen Führungszeugnisses bei sensiblen Positionen im Unternehmen.
+Besondere Genehmigungsverfahren im Einstellungsprozess für Mitarbeiter und Positionen, bei denen Zugriff auf besonders sensible Informationen besteht, sind etabliert.
 
 ## Referenziert von NIS2-Paragraphen
 

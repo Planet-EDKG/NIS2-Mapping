@@ -6,6 +6,8 @@ id: "ID.IM-01"
 
 # NIST CSF ID.IM-01
 
+Improvements are identified from evaluations 
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]

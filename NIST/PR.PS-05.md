@@ -6,6 +6,8 @@ id: "PR.PS-05"
 
 # NIST CSF PR.PS-05
 
+Installation and execution of unauthorized software are prevented
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.7 Network security|Punkt 6.7 – Network security]]

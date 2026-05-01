@@ -6,6 +6,8 @@ id: "DE.CM-02"
 
 # NIST CSF DE.CM-02
 
+The physical environment is monitored to find potentially adverse events
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/13.1 Supporting utilities|Punkt 13.1 – Supporting utilities]]

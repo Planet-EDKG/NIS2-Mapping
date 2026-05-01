@@ -4,7 +4,10 @@ tags:
 id: "BSI-47,"
 ---
 
-# KdA KRITIS – BSI-47,
+# Kategorisierung der Änderungen (BEI-05)
+Alle Änderungen von Informationssystemen werden basierend auf einer Risikobewertung kategorisiert (z.
+B. als geringfügige, erhebliche oder weitreichende Folgen), um eine angemessene Autorisierung vor
+Bereitstellung der Änderung in der Produktivumgebung einzuholen.
 
 ## Referenziert von NIS2-Paragraphen
 

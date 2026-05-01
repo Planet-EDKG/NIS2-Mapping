@@ -4,7 +4,10 @@ tags:
 id: "BSI-85,"
 ---
 
-# KdA KRITIS – BSI-85,
+# Informieren der Unternehmensleitung (SPN-01)
+Die Unternehmensleitung wird durch regelmäßige Berichte über den Stand der Informationssicherheit auf
+Grundlage der Sicherheitsprüfungen informiert und ist verantwortlich für die zeitnahe Behebung von
+daraus hervorgegangenen Feststellungen.
 
 ## Referenziert von NIS2-Paragraphen
 

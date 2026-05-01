@@ -4,7 +4,10 @@ tags:
 id: "BSI-48,"
 ---
 
-# KdA KRITIS – BSI-48,
+# Priorisierung der Änderungen (BEI-06)
+Alle Änderungen werden basierend auf einer Risikobewertung priorisiert (z. B. als niedrig, normal, hoch,
+Notfall), um eine angemessene Autorisierung vor Bereitstellung der Änderung in der Produktivumgebung
+einzuholen.
 
 ## Referenziert von NIS2-Paragraphen
 

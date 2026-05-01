@@ -4,7 +4,10 @@ tags:
 id: "BSI-78,"
 ---
 
-# KdA KRITIS – BSI-78,
+# Bearbeitung von Sicherheitsvorfällen (SIM-03)
+Ereignisse, die einen Sicherheitsvorfall darstellen könnten, werden durch qualifiziertes Personal des
+KRITIS-Betreibers oder in Verbindung mit externen Sicherheitsdienstleistern klassifiziert, priorisiert und
+einer Ursachenanalyse unterzogen.
 
 ## Referenziert von NIS2-Paragraphen
 

@@ -6,6 +6,9 @@ id: "GV.RR-02"
 
 # NIST CSF GV.RR-02
 
+Roles, responsibilities, and authorities related to cybersecurity risk
+management are established, communicated, understood, and enforced
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/1.2 Roles, responsibilities and authorities|Punkt 1.2 – Roles, responsibilities and authorities]]

@@ -6,6 +6,8 @@ id: "RS.MI-02"
 
 # NIST CSF RS.MI-02
 
+Incidents are eradicated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.1 Incident handling policy|Punkt 3.1 – Incident handling policy]]

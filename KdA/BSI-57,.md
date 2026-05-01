@@ -4,7 +4,12 @@ tags:
 id: "BSI-57,"
 ---
 
-# KdA KRITIS – BSI-57,
+# Einstellung und Beschäftigungsvereinbarungen (HR-02)
+Beschäftigungsvereinbarungen beinhalten die Verpflichtungen der internen und externen Mitarbeiter des
+KRITIS-Betreibers auf Einhaltung einschlägiger Gesetze, Vorschriften und Regelungen in Bezug zur Informationssicherheit. Die Sicherheitsleitlinie sowie die davon abgeleiteten Richtlinien und Anweisungen zur
+Informationssicherheit sind den Unterlagen zur Beschäftigungsvereinbarung beigefügt. Deren Einhaltung
+wird durch den Mitarbeiter schriftlich bestätigt, bevor Zugriff auf die kritische Dienstleistung oder die ITInfrastruktur möglich ist.
+
 
 ## Referenziert von NIS2-Paragraphen
 

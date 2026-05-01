@@ -6,6 +6,9 @@ id: "GV.OC-05"
 
 # NIST CSF GV.OC-05
 
+Outcomes, capabilities, and services that the organization depends on are
+understood and communicated
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]

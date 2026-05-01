@@ -4,7 +4,9 @@ tags:
 id: "BSI-11,"
 ---
 
-# KdA KRITIS – BSI-11,
+# Verwaltung von Datenträgern (AM-07)
+Richtlinien und Anweisungen mit technischen und organisatorischen Maßnahmen für den sicheren Umgang mit Assets sind gemäß der IT-Sicherheitsrichtlinie dokumentiert, kommuniziert und bereitgestellt.
+Die Vorgaben stellen einen Bezug zur Klassifikation von Informationen her. Sie umfassen die sichere Verwendung, den sicheren Transport sowie die unwiederbringliche Löschung und Vernichtung von Datenträgern
 
 ## Referenziert von NIS2-Paragraphen
 

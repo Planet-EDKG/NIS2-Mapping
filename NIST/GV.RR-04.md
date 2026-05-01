@@ -6,6 +6,8 @@ id: "GV.RR-04"
 
 # NIST CSF GV.RR-04
 
+Cybersecurity is included in human resources practices
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/10.1 Human resources security|Punkt 10.1 – Human resources security]]

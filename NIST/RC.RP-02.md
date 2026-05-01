@@ -6,6 +6,8 @@ id: "RC.RP-02"
 
 # NIST CSF RC.RP-02
 
+Recovery actions are selected, scoped, prioritized, and performed
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.1 Business continuity and disaster recovery plan|Punkt 4.1 – Business continuity and disaster recovery plan]]

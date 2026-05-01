@@ -6,6 +6,9 @@ id: "GV.SC-06"
 
 # NIST CSF GV.SC-06
 
+Planning and due diligence are performed to reduce risks before entering into
+formal supplier or other third-party relationships
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]

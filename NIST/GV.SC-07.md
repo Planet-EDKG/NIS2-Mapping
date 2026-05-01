@@ -6,6 +6,10 @@ id: "GV.SC-07"
 
 # NIST CSF GV.SC-07
 
+The risks posed by a supplier, their products and services, and other third
+parties are understood, recorded, prioritized, assessed, responded to, and monitored
+over the course of the relationship
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]

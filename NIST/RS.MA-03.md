@@ -6,6 +6,8 @@ id: "RS.MA-03"
 
 # NIST CSF RS.MA-03
 
+Incidents are categorized and prioritized
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]

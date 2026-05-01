@@ -6,6 +6,9 @@ id: "ID.AM-08"
 
 # NIST CSF ID.AM-08
 
+Systems, hardware, software, services, and data are managed throughout
+their life cycles 
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.2 Secure development life cycle|Punkt 6.2 – Secure development life cycle]]

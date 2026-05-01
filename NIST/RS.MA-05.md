@@ -6,6 +6,8 @@ id: "RS.MA-05"
 
 # NIST CSF RS.MA-05
 
+The criteria for initiating incident recovery are applied
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/3.1 Incident handling policy|Punkt 3.1 – Incident handling policy]]

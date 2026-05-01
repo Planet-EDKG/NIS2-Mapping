@@ -6,6 +6,8 @@ id: "PR.PS-01"
 
 # NIST CSF PR.PS-01
 
+Configuration management practices are established and applied
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.3 Configuration management|Punkt 6.3 – Configuration management]]

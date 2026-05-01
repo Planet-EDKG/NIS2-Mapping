@@ -4,7 +4,9 @@ tags:
 id: "BSI-8,"
 ---
 
-# KdA KRITIS – BSI-8,
+# Ab- und Rückgabe von Assets (AM-04)
+
+Alle internen und externen Mitarbeiter des Betreibers der kritischen Dienstleistung sind verpflichtet, sämtliche Assets, die Ihnen in Bezug auf die kritische Dienstleistung ausgehändigt wurden bzw. für die sie verantwortlich sind, zurückzugeben oder unwiderruflich zu löschen sobald das Beschäftigungsverhältnis beendet ist.
 
 ## Referenziert von NIS2-Paragraphen
 

@@ -6,6 +6,9 @@ id: "ID.AM-03"
 
 # NIST CSF ID.AM-03
 
+Representations of the organization’s authorized network communication
+and internal and external network data flows are maintained
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.3 Crisis management|Punkt 4.3 – Crisis management]]

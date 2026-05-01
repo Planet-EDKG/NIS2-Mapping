@@ -4,7 +4,12 @@ tags:
 id: "BSI-20,"
 ---
 
-# KdA KRITIS – BSI-20,
+# Notwendige/ausreichende Personal- und IT-Ressourcen (Betrieb und IT-Sicherheit) (RB-01, RB-02)
+Die Planung von Kapazitäten und Ressourcen (Personal und IT-Ressourcen) folgt einem etablierten Verfahren, um mögliche Kapazitätsengpässe zu vermeiden. Die Verfahren umfassen Prognosen von zukünftigen
+Kapazitätsanforderungen, um Nutzungstrends zu identifizieren und Risiken der Systemüberlastung zu beherrschen.
+Technische und organisatorische Maßnahmen zur Überwachung und Provisionierung bzw. Deprovisionierung bei KRITIS-Betreiber sind definiert. Dadurch stellt der Betreiber sicher, dass Ressourcen bereitgestellt bzw. Leistungen gemäß der vertraglichen Vereinbarung erbracht werden und die Einhaltung der
+Dienstgütevereinbarungen sichergestellt ist.
+
 
 ## Referenziert von NIS2-Paragraphen
 

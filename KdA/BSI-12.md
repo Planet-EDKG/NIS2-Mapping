@@ -4,7 +4,11 @@ tags:
 id: "BSI-12"
 ---
 
-# KdA KRITIS – BSI-12
+# Überführung und Entfernung von Assets (AM-08)
+Geräte, Hardware, Software oder Daten dürfen nur nach erfolgter Genehmigung durch autorisierte Gremien
+oder Stellen des Betreibers der Kritischen Infrastruktur in externe Räumlichkeiten überführt werden. Die
+Überführung findet auf sicherem Wege statt, entsprechend der Art des zu überführenden Assets.
+
 
 ## Referenziert von NIS2-Paragraphen
 

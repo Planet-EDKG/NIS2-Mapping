@@ -4,7 +4,12 @@ tags:
 id: "BSI-36,"
 ---
 
-# KdA KRITIS – BSI-36,
+# Technische Schutzmaßnahmen (KOS-01)
+Basierend auf den Ergebnissen einer durchgeführten Risiko-Analyse, hat der KRITIS-Betreiber technische
+Schutzmaßnahmen implementiert, die geeignet sind, um netzwerkbasierte Angriffe auf Basis anomaler
+Eingangs- oder Ausgangs-Traffic-Muster (z. B. durch MAC-Spoofing und ARP-Poisoning-Angriffe) und/
+oder Distributed-Denial-of-Service (DDoS)-Angriffe zeitnah zu erkennen und darauf zu reagieren. Zusätzlich werden, wo notwendig bzw. sinnvoll, Intrusion Detection- und Intrusion Prevention-Systeme (IDS und
+IPS) eingesetzt.
 
 ## Referenziert von NIS2-Paragraphen
 

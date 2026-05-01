@@ -4,7 +4,13 @@ tags:
 id: "BSI-17,"
 ---
 
-# KdA KRITIS – BSI-17,
+# Verantwortung der gesetzlichen Vertreter des Betreibers der Kritischen Infrastruktur (BCM-01)
+Die gesetzlichen Vertreter des Betreibers der Kritischen Infrastruktur haben einen Prozessverantwortlichen
+(bspw. ein Mitglied der Unternehmensleitung) für Kontinuitäts- und Notfallmanagement benannt, der für
+die Etablierung der Prozesse und die Einhaltung der Leitlinien verantwortlich ist. Von dieser Verantwortung
+ist umfasst, dass ausreichende Ressourcen für einen geordneten Betrieb bereitgestellt werden.
+Personen in der Unternehmensleitung und anderen relevanten Führungspositionen demonstrieren Führung und Engagement in Bezug auf dieses Thema, indem sie beispielsweise die Mitarbeiter dazu auffordern
+beziehungsweise ermutigen, zu der Effektivität des Kontinuitäts- und Notfallmanagements aktiv beizutragen
 
 ## Referenziert von NIS2-Paragraphen
 

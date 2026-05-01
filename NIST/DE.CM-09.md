@@ -6,6 +6,9 @@ id: "DE.CM-09"
 
 # NIST CSF DE.CM-09
 
+Computing hardware and software, runtime environments, and their data
+are monitored to find potentially adverse events
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/6.6 Security patch management|Punkt 6.6 – Security patch management]]

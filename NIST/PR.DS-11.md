@@ -6,6 +6,8 @@ id: "PR.DS-11"
 
 # NIST CSF PR.DS-11
 
+Backups of data are created, protected, maintained, and tested
+
 ## Referenziert von DVO-Punkten
 
 - [[DVO/4.2 Backup management|Punkt 4.2 – Backup management]]

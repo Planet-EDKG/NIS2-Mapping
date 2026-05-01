@@ -4,7 +4,16 @@ tags:
 id: "BSI-16,"
 ---
 
-# KdA KRITIS – BSI-16,
+# Maßnahmenableitung (B3S)
+Es sind Richtlinien definiert, die die Ableitung von Maßnahmen und deren Überwachung regeln.
+Dies beinhaltet, dass die identifizierten IT-Risiken im Zusammenhang mit der kritischen Dienstleistung
+gemäß den Vorgaben des Risikomanagements nachvollziehbar mit Maßnahmen versehen werden, um die
+IT-Risiken zu reduzieren. Dabei ist zu berücksichtigen, dass gegenüber allgemeinen Risikomanagementansätzen ein unbehandeltes Risiko durch eigenständige dauerhafte Risikoakzeptanz durch den Betreiber
+oder Versicherung gegen Risiken in der Regel keine zulässige Option im Sinne des BSIG ist.
+Der Status der Maßnahmenumsetzung und der damit einhergehenden Veränderung der Risikobewertung
+wird überwacht und regelmäßig an die relevanten Stakeholder berichtet.
+Auch bei Outsourcing o. Ä. verbleibt die volle Verantwortung für eine geeignete Risikobehandlung beim
+Betreiber.
 
 ## Referenziert von NIS2-Paragraphen
 
