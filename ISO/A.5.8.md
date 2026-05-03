@@ -1,6 +1,8 @@
 ---
-tags:
-  - ISO
+tags: [ISO]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "A.5.8"
 ---
 

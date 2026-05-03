@@ -1,6 +1,8 @@
 ---
-tags:
-  - CyFun
+tags: [CyFun]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "RC.RP-1.2"
 tier: "ESSENTIAL"
 ---

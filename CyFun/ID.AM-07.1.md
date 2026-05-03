@@ -1,6 +1,8 @@
 ---
-tags:
-  - CyFun
+tags: [CyFun]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.AM-07.1"
 tier: "BASIC"
 ---

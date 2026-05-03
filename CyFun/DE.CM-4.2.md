@@ -1,6 +1,8 @@
 ---
-tags:
-  - CyFun
+tags: [CyFun]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "DE.CM-4.2"
 tier: "ESSENTIAL"
 ---

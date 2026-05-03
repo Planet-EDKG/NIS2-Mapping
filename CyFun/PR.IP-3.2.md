@@ -1,6 +1,8 @@
 ---
-tags:
-  - CyFun
+tags: [CyFun]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PR.IP-3.2"
 tier: "ESSENTIAL"
 ---

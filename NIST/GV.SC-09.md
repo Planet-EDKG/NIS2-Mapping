@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-GOVERN
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "GV.SC-09"
 function: "GV"
 category: "GV.SC"
@@ -72,4 +73,4 @@ Policies and procedure require checking upgrades to critical hardware for unauth
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

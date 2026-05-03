@@ -1,6 +1,8 @@
 ---
-tags:
-  - KdA
+tags: [KdA]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "BSI-30,"
 ---
 
@@ -18,4 +20,4 @@ gesteuert.
 
 ## Übergeordnet
 
-[[KdA/000 KdA KRITIS|KdA KRITIS]]
+[[KdA/000 KdA KRITIS|KdA KRITIS]] ([Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf](../docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf#page=1)) 

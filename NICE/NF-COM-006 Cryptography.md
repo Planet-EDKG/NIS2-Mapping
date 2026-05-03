@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "NF-COM-006"
 opm: ""
 category: "Competency Area"

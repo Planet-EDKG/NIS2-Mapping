@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "DD-WRL-001"
 opm: "652"
 category: "DESIGN and DEVELOPMENT"

@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-IDENTIFY
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.AM-04"
 function: "ID"
 category: "ID.AM"
@@ -64,4 +65,4 @@ Update the inventory when a new external service is going to be utilized to ensu
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

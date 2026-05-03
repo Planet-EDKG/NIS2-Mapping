@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-GOVERN
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "GV.RM-01"
 function: "GV"
 category: "GV.RM"
@@ -68,4 +69,4 @@ Senior leaders agree about cybersecurity objectives and use them for measuring a
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

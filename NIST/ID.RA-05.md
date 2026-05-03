@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-IDENTIFY
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.RA-05"
 function: "ID"
 category: "ID.RA"
@@ -63,4 +64,4 @@ Prioritize cybersecurity resource allocations and investments based on estimated
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

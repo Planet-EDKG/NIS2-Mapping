@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PD-WRL-004"
 opm: "521"
 category: "PROTECTION and DEFENSE"

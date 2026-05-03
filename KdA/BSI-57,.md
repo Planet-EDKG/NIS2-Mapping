@@ -1,6 +1,8 @@
 ---
-tags:
-  - KdA
+tags: [KdA]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "BSI-57,"
 ---
 
@@ -17,4 +19,4 @@ wird durch den Mitarbeiter schriftlich bestätigt, bevor Zugriff auf die kritisc
 
 ## Übergeordnet
 
-[[KdA/000 KdA KRITIS|KdA KRITIS]]
+[[KdA/000 KdA KRITIS|KdA KRITIS]] ([Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf](../docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf#page=1)) 

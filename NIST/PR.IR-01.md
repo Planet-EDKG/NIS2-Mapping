@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-PROTECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PR.IR-01"
 function: "PR"
 category: "PR.IR"
@@ -71,4 +72,4 @@ Check the cyber health of endpoints before allowing them to access and use produ
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

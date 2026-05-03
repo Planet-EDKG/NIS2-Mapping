@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-DETECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "DE.CM-02"
 function: "DE"
 category: "DE.CM"
@@ -69,4 +70,4 @@ Monitor the physical environment using alarm systems, cameras, and security guar
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-DETECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "DE.AE-06"
 function: "DE"
 category: "DE.AE"
@@ -68,4 +69,4 @@ Manually create and assign tickets in the organization's ticketing system when t
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

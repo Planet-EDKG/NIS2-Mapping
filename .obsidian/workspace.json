@@ -11,10 +11,12 @@
             "id": "9c0060fe326d6569",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "pdf",
+              "state": {
+                "file": "docs/Umsetzungsgesetz.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Umsetzungsgesetz"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Umsetzungsgesetz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Umsetzungsgesetz"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Umsetzungsgesetz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Umsetzungsgesetz öffnen"
             }
           },
           {
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/Umsetzungsgesetz.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Umsetzungsgesetz"
             }
           }
         ]
@@ -178,17 +183,25 @@
   },
   "active": "9c0060fe326d6569",
   "lastOpenFiles": [
+    "NIS2/30.1.2 §30 (1) Satz 3.md",
+    "NICE/000 NICE Framework v2.2.0.md",
+    "NICE/DD-WRL-005 Software Security Assessment.md",
+    "NIST/ID.RA-01.md",
+    "DVO/2.1 Risk management framework.md",
+    "NIS2/30.2.0 §30 (2) Satz 1.md",
+    "NIS2/30.1.1 §30 (1) Satz 1.md",
+    "KdA/BSI-3,.md",
+    "NIS2/000 NIS2-Umsetzungsgesetz.md",
+    "docs/Umsetzungsgesetz.pdf",
+    "Evidenz_und_Nachweise/Prozesse",
+    "Evidenz_und_Nachweise/Policies",
+    "Evidenz_und_Nachweise/Audit_Logs",
+    "Evidenz_und_Nachweise",
+    "scripts/__pycache__/update_markdown_vault.cpython-311.pyc",
+    "scripts/__pycache__",
+    "scripts/update_markdown_vault.py",
+    "scripts",
     "docs/CyFun2025_IMPORTANT.pdf",
-    "docs/CyFun2025_ESSENTIAL.pdf",
-    "docs/CyFun2025_BASIC.pdf",
-    "docs/NIST-Examples.xlsx",
-    "docs/csf2.xlsx",
-    "docs/CyFun2025_Booklet_BASIC_E.pdf",
-    "docs/CyFun2025_Booklet_ESSENTIAL_E.pdf",
-    "docs/CyFun2025_Booklet_IMPORTANT_E.pdf",
-    "docs/DVO.pdf",
-    "docs/ENISA_Technical_Implementation_Guidance_Mapping_table_version_1.2.xlsx",
-    "docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf",
     "CyFun/DE.AE-2.2.md",
     "Unbenannt.md"
   ]

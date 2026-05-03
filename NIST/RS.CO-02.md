@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-RESPOND
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "RS.CO-02"
 function: "RS"
 category: "RS.CO"
@@ -66,4 +67,4 @@ Notify law enforcement agencies and regulatory bodies of incidents based on crit
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

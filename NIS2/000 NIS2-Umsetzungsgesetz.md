@@ -1,11 +1,12 @@
 ---
-tags:
-  - NIS2
-  - index
+tags: [NIS2]
+status: "offen"
+owner: ""
+mapping_to: []
 ---
-
-# NIS2-Umsetzungsgesetz (Deutschland)
-
-Das deutsche NIS2-Umsetzungsgesetz setzt die EU-Richtlinie 2022/0383 in nationales Recht um und definiert Cybersicherheitsanforderungen für Betreiber kritischer Infrastrukturen.
-
-## Paragraphen
+```dataview
+TABLE file.link AS Datei, status AS Status, owner AS Owner, mapping_to AS Mapping
+FROM "NIS2"
+WHERE file.name != "000 NIS2-Umsetzungsgesetz"
+SORT file.name ASC
+```

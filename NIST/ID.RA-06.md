@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-IDENTIFY
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.RA-06"
 function: "ID"
 category: "ID.RA"
@@ -73,4 +74,4 @@ Communicate planned risk responses to affected stakeholders in priority order
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

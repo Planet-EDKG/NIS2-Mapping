@@ -1,6 +1,8 @@
 ---
-tags:
-  - KdA
+tags: [KdA]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "BSI-17"
 ---
 
@@ -20,4 +22,4 @@ beziehungsweise ermutigen, zu der Effektivität des Kontinuitäts- und Notfallma
 
 ## Übergeordnet
 
-[[KdA/000 KdA KRITIS|KdA KRITIS]]
+[[KdA/000 KdA KRITIS|KdA KRITIS]] ([Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf](../docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf#page=1)) 

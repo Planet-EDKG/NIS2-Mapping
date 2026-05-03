@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "OG-WRL-013"
 opm: "611"
 category: "OVERSIGHT and GOVERNANCE"

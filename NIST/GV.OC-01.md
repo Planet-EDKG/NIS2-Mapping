@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-GOVERN
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "GV.OC-01"
 function: "GV"
 category: "GV.OC"
@@ -59,4 +60,4 @@ Share the organization's mission (e.g., through vision and mission statements, m
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

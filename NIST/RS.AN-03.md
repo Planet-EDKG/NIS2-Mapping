@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-RESPOND
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "RS.AN-03"
 function: "RS"
 category: "RS.AN"
@@ -70,4 +71,4 @@ Check any cyber deception technology for additional information on attacker beha
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

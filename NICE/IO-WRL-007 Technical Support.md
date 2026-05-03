@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "IO-WRL-007"
 opm: "411"
 category: "IMPLEMENTATION and OPERATION"

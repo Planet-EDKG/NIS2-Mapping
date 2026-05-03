@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-GOVERN
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "GV.SC-07"
 function: "GV"
 category: "GV.SC"
@@ -71,4 +72,4 @@ Plan for unexpected supplier and supply chain-related interruptions to ensure bu
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

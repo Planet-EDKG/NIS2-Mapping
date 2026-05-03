@@ -1,6 +1,8 @@
 ---
-tags:
-  - NICE
+tags: [NICE]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "IN-WRL-002"
 opm: "211"
 category: "INVESTIGATION"

@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-GOVERN
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "GV.RM-06"
 function: "GV"
 category: "GV.RM"
@@ -73,4 +74,4 @@ Use a consistent list of risk categories to support integrating, aggregating, an
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

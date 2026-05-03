@@ -1,6 +1,8 @@
 ---
-tags:
-  - KdA
+tags: [KdA]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "BSI-9,"
 ---
 
@@ -14,4 +16,4 @@ und Assets, die für die Entwicklung und Erbringung der kritischen Dienstleistun
 
 ## Übergeordnet
 
-[[KdA/000 KdA KRITIS|KdA KRITIS]]
+[[KdA/000 KdA KRITIS|KdA KRITIS]] ([Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf](../docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf#page=1)) 

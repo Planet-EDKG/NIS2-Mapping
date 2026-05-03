@@ -1,18 +1,12 @@
 ---
-tags:
-  - NIST
-  - index
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 ---
-
-# NIST Cybersecurity Framework v2.0
-
-US-amerikanisches Cybersicherheits-Rahmenwerk des National Institute of Standards and Technology, Version 2.0 (2024).
-
-Die sechs Funktionen: **GOVERN (GV)** · **IDENTIFY (ID)** · **PROTECT (PR)** · **DETECT (DE)** · **RESPOND (RS)** · **RECOVER (RC)**
-
-Jede Subkategory-Datei enthält:
-- Den vollständigen Beschreibungstext
-- Alle Implementierungsbeispiele (Ex1, Ex2, …)
-- Verknüpfte NICE Framework Work Roles
-
-## Subcategories
+```dataview
+TABLE file.link AS Datei, status AS Status, owner AS Owner, mapping_to AS Mapping
+FROM "NIST"
+WHERE file.name != "000 NIST CSF v2.0"
+SORT file.name ASC
+```

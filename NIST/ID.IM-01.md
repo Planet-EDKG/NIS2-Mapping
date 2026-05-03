@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-IDENTIFY
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.IM-01"
 function: "ID"
 category: "ID.IM"
@@ -66,4 +67,4 @@ Constantly evaluate compliance with selected cybersecurity requirements through 
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

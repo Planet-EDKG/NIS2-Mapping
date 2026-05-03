@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-RECOVER
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "RC.CO-03"
 function: "RC"
 category: "RC.CO"
@@ -70,4 +71,4 @@ Coordinate crisis communication between the organization and its critical suppli
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

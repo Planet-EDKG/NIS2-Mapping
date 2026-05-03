@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-DETECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "DE.CM-09"
 function: "DE"
 category: "DE.CM"
@@ -72,4 +73,4 @@ Use technologies with a presence on endpoints to detect cyber health issues (e.g
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

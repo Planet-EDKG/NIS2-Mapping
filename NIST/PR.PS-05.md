@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-PROTECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PR.PS-05"
 function: "PR"
 category: "PR.PS"
@@ -71,4 +72,4 @@ Configure platforms to allow the installation of organization-approved software 
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

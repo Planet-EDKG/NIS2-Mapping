@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-RECOVER
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "RC.CO-04"
 function: "RC"
 category: "RC.CO"
@@ -63,4 +64,4 @@ Explain the steps being taken to recover from the incident and to prevent a recu
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

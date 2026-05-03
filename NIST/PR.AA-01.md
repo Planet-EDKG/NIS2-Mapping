@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-PROTECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PR.AA-01"
 function: "PR"
 category: "PR.AA"
@@ -69,4 +70,4 @@ Physically label authorized hardware with an identifier for inventory and servic
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

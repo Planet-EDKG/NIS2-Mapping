@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-PROTECT
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "PR.AA-02"
 function: "PR"
 category: "PR.AA"
@@ -63,4 +64,4 @@ Issue a different credential for each person (i.e., no credential sharing)
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 

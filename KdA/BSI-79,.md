@@ -1,6 +1,8 @@
 ---
-tags:
-  - KdA
+tags: [KdA]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "BSI-79,"
 ---
 
@@ -17,4 +19,4 @@ Sicherheitsvorfälle gemäß den Vorgaben aus § 8b Absatz 4 BSIG unverzüglich 
 
 ## Übergeordnet
 
-[[KdA/000 KdA KRITIS|KdA KRITIS]]
+[[KdA/000 KdA KRITIS|KdA KRITIS]] ([Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf](../docs/Konkretisierung_Anforderungen_Massnahmen_KRITIS.pdf#page=1)) 

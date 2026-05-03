@@ -1,7 +1,8 @@
 ---
-tags:
-  - NIST
-  - NIST-IDENTIFY
+tags: [NIST]
+status: "offen"
+owner: ""
+mapping_to: []
 id: "ID.IM-04"
 function: "ID"
 category: "ID.IM"
@@ -72,4 +73,4 @@ Review and update all cybersecurity plans annually or when a need for significan
 
 ## Übergeordnet
 
-[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]] ([NIST-CSF-2-0.pdf](../docs/NIST-CSF-2-0.pdf#page=1)) 
