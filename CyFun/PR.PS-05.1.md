@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to reduce the risk of malware infections, phishing attacks, and data breaches by
 implementing and maintaining effective web and email filtering solutions.
 To support this goal, the organisation should:
@@ -29,7 +29,7 @@ Filtering rules and threat databases should be updated regularly to respond to e
 Web and email filtering should align with the broader organisational security policies and awareness efforts.
 - Include OT Considerations
 In OT environments, internet and email access should be restricted to only what is operationally necessary.
-Filtering should be applied to any systems with external connectivity to prevent exposure to threats. 
+Filtering should be applied to any systems with external connectivity to prevent exposure to threats.
 
 ## Referenziert von DVO-Punkten
 

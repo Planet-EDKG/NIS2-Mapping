@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that logs are consistently maintained, documented, and monitored to support
 visibility, accountability, and early detection of anomalies or threats.
 To support this goal, the organisation should:
@@ -35,7 +35,7 @@ Monitoring should be in place to provide visibility into system activity and sup
 incident response.
 - Include OT Systems
 Logging practices should extend to OT environments, including industrial control systems, where logs can
-help detect operational anomalies or unauthorised access attempts. 
+help detect operational anomalies or unauthorised access attempts.
 
 ## Referenziert von DVO-Punkten
 

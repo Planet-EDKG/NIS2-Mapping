@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 This control focuses on the creation and maintenance of a specific strategy for managing information and
 cybersecurity risks. It ensures that the organisation has a dedicated, actionable plan that evolves with the
 threat landscape.
@@ -22,7 +22,7 @@ approaches for monitoring risk over time.
 (e.g., compliance, financial, operational, regulatory, reputational, safety).
 - The information and cybersecurity risk management strategy should include identifying and allocating the
 necessary resources to protect the organisation's business-critical assets.
-- This is the cybersecurity-specific implementation of the broader vision defined in GV.RM-04.1 
+- This is the cybersecurity-specific implementation of the broader vision defined in GV.RM-04.1
 
 ## Referenziert von DVO-Punkten
 

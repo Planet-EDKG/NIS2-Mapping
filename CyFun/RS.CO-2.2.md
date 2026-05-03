@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all relevant external parties are informed about cybersecurity incidents in a timely, secure, and appropriate manner, helping to maintain trust and meet legal and contractual
 obligations.
 To achieve this:
@@ -29,7 +29,7 @@ insider.
 - National authorities, such as the CSIRT, law enforcement, or regulators, should be notified based on the criteria
 defined in the IRP and with approval from senior management.
 - All reporting should comply with relevant national and EU legislation, such as the EU Implementing Regulation.
-- Public updates about incidents are addressed under a separate control (RC.CO-04.1). 
+- Public updates about incidents are addressed under a separate control (RC.CO-04.1).
 
 ## Referenziert von DVO-Punkten
 

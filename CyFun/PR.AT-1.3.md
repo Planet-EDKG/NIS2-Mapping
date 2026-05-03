@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all personnel understand their specific roles, responsibilities, and
 priorities during a cybersecurity or information security incident, enabling them to respond effectively and in
 coordination with the organisation’s incident response and contingency plans. This control builds on the threatspecific awareness from PR.AT-01.2 by introducing role-based training and incident response readiness.
@@ -21,7 +21,7 @@ during an incident.
 environment.
 - Clear documentation should be provided outlining each role’s tasks and responsibilities during an incident.
 - Training should explain how incident response connects to contingency planning, ensuring that staff understand when and how to activate contingency measures (see also ID.IM-04.1).
-- Regular refresher sessions should be held to keep knowledge up to date and reinforce readiness. 
+- Regular refresher sessions should be held to keep knowledge up to date and reinforce readiness.
 
 ## Referenziert von DVO-Punkten
 

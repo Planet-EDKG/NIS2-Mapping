@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that inventories of software, services, and systems remain current and
 complete, enabling traceability, responsible ownership, and alignment with changes in the organisation’s
 operational and risk context.
@@ -23,7 +23,7 @@ Inventory records should enable traceability of actions and decisions, ensuring 
 identified and held answerable for the use and management of software and services.
 - Reflect Organisational Changes
 Inventories should be updated to reflect changes such as new deployments, upgrades, or removals, including
-those affecting OT systems and embedded software components. 
+those affecting OT systems and embedded software components.
 
 ## Referenziert von DVO-Punkten
 

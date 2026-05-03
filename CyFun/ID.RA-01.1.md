@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to help organisations mitigate cybersecurity risks by identifying threats and vulnerabilities in their critical assets. This includes software, networks, systems, and physical locations that support
 essential computing operations.
 To support this objective, organisations should:

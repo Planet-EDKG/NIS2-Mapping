@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that risk assessments are conducted by evaluating threats, vulnerabilities,
 and their potential impact on business processes and assets. This supports informed decision-making and
 effective risk mitigation.
@@ -24,7 +24,7 @@ severity of each risk.
 Human behaviour should be considered when designing and applying security policies, especially in operational technology (OT) environments.
 - Document and Review
 Risk assessments should be documented, regularly reviewed, and updated to reflect changes in systems,
-operations, or the threat landscape. 
+operations, or the threat landscape.
 
 ## Referenziert von DVO-Punkten
 

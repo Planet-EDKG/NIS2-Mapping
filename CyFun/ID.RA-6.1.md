@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that risk responses are clearly identified, prioritised, planned, tracked, and
 communicated to support effective risk mitigation and informed decision-making across the organisation.
 To achieve this goal, the organisation should:
@@ -30,7 +30,7 @@ Planned risk responses should be communicated to affected stakeholders in order 
 timely awareness and coordination.
 - Include OT-Specific Considerations
 Risk responses in OT environments should account for operational constraints, safety requirements, and
-system availability, especially when planning mitigation or compensating controls. 
+system availability, especially when planning mitigation or compensating controls.
 
 ## Referenziert von DVO-Punkten
 

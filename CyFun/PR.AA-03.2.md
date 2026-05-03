@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to protect the organisation’s networks by requiring multi-factor authentication (MFA)
 for all remote access, thereby reducing the risk of unauthorised access and credential-based attacks.
 To achieve this goal, the following should be considered:
@@ -46,7 +46,7 @@ authentication layer.
 - The MFA solution should be compatible with both IT and OT systems.
 - Integration should be tested in OT environments to avoid disruptions.
 - Where direct integration is not possible, secure intermediary platforms (e.g. jump servers) should
-be used. 
+be used.
 
 ## Referenziert von DVO-Punkten
 

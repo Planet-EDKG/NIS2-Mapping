@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that mechanisms are in place to detect unauthorised software across ICT
 and OT environments, thereby enabling timely response and maintaining an accurate software inventory.
 To achieve this goal:
@@ -26,7 +26,7 @@ software is detected, ID.AM-02.4 should be applied.
 - Adapt Detection to OT Environments
 In OT environments, detection mechanisms should be tailored to avoid operational disruption. Passive
 monitoring, vendor-approved tools, and scheduled scans should be considered to ensure safety and system
-availability. 
+availability.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-entfällt in 2025
+entfallen in 2025
 
 ## Referenziert von DVO-Punkten
 

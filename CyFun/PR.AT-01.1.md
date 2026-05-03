@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of control PR.AT-01.1 is to ensure everyone in the organisation understands how to work securely
 by providing regular, clear, and practical cybersecurity training that reduces human risk and supports safe
 behaviour in both IT and OT environments.
@@ -37,7 +37,7 @@ Training should be tailored to include the unique responsibilities and risks fac
 industrial control systems and other OT assets.
 - Content Should Be Kept Up to Date
 Training materials should be regularly reviewed and updated to reflect new threats and lessons learned
-from incidents. 
+from incidents.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 This control builds on DE.CM-03.1 by shifting the focus from implementation to ongoing management of monitoring tools. The goal of this control is to ensure that tools used to monitor user behaviour and detect harmful
 activity on devices and networks are properly maintained and actively managed. This supports the continued
 effectiveness of the tools as threats evolve, and ensures that the alerts they produce are accurate, relevant,
@@ -28,7 +28,7 @@ Alerts from these tools are often early signs of a real attack and should be tre
 - Security teams should regularly assess how well all monitoring tools are performing, update detection rules,
 and ensure the tools are integrated with incident response processes.
 - Roles and responsibilities for monitoring and responding to alerts should be clearly defined. Staff should be
-trained to use the tools effectively and respond appropriately to incidents. 
+trained to use the tools effectively and respond appropriately to incidents.
 
 ## Referenziert von DVO-Punkten
 

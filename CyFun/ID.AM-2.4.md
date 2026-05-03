@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to minimise security, operational, and compliance risks by ensuring that unauthorised
 software is promptly identified, handled appropriately, and reflected in the organisation’s software inventory.
 To make this happen:
@@ -29,7 +29,7 @@ A centralised software management process should be in place to oversee vendor s
 and security controls.
 - Use SBOMs Where Applicable
 Software Bills of Materials (SBOMs) should be used to track components, libraries, and modules, supporting
-licence compliance and vulnerability management, especially in OT and embedded systems. 
+licence compliance and vulnerability management, especially in OT and embedded systems.
 
 ## Referenziert von DVO-Punkten
 

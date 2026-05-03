@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that a well-defined incident response plan is executed during or after a
 cybersecurity event affecting the organisation’s critical systems, enabling timely detection, containment,
 communication, and recovery.

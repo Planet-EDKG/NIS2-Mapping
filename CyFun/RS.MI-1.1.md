@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to stop cybersecurity incidents from spreading, remove their cause, and ensure that
 any accepted risks are clearly recorded and approved.
 To achieve this:
@@ -20,7 +20,7 @@ person or team, based on the organisation's risk tolerance.
 devices, should be allowed to automatically take action to contain or remove threats when appropriate.
 - Incident response teams should be able to manually choose and carry out actions to stop and remove incidents when needed.
 - Trusted third parties, such as internet service providers or managed security service providers, should be
-allowed to help with containment and elimination actions if this is part of the organisation’s response plan. 
+allowed to help with containment and elimination actions if this is part of the organisation’s response plan.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all wireless access points, including those for guest use, are securely
 configured, managed, and monitored to prevent unauthorised access and protect network integrity.
 To achieve this goal, the following should be considered:
@@ -29,7 +29,7 @@ To achieve this goal, the following should be considered:
 - Endpoint and User Practices
 - Devices connecting to wireless networks should comply with endpoint security policies.
 - VPNs should be used when connecting to unknown or unsecured networks.
-- Wi-Fi credentials should follow password policies that enforce complexity and regular updates. 
+- Wi-Fi credentials should follow password policies that enforce complexity and regular updates.
 
 ## Referenziert von DVO-Punkten
 

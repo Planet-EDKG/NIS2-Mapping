@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that the organisation understands how detected events could cause harm,
 and uses this understanding to guide risk-based decisions and responses.
 To achieve the goal of this control, the following should be considered:
@@ -18,7 +18,7 @@ To achieve the goal of this control, the following should be considered:
 - Negative impacts can include financial loss, service disruption, damage to equipment, or harm to people.
 - Detected events can include cyber incidents, system failures, or natural disasters.
 - The severity and likelihood of these impacts should be evaluated and compared with existing risk assessments.
-- This comparison should help prioritise actions, allocate resources, and improve response planning. 
+- This comparison should help prioritise actions, allocate resources, and improve response planning.
 
 ## Referenziert von DVO-Punkten
 

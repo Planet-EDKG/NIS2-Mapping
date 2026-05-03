@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that activities performed by external service providers, whether remote
 or onsite, are securely managed and continuously monitored. This helps detect any unusual or harmful actions
 that could affect the organisation’s systems, data, or services.
@@ -25,7 +25,7 @@ actions or risky behaviour.
 - Cloud services and internet providers should be monitored for unexpected behaviour or performance issues
 that could indicate a security problem.
 - A centralised logging system should be used to collect and analyse data from all external services.
-- Any security incidents involving external providers — such as malware infections, phishing attempts, or unauthorised access — should be detected early, reported quickly, and addressed effectively. 
+- Any security incidents involving external providers — such as malware infections, phishing attempts, or unauthorised access — should be detected early, reported quickly, and addressed effectively.
 
 ## Referenziert von DVO-Punkten
 

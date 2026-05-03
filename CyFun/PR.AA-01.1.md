@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that identities and credentials for authorised users, services, and hardware
 are properly managed to prevent unauthorised access and support secure operations in both ICT and OT environments.
 To achieve this goal, the following should be considered:
@@ -31,12 +31,12 @@ To achieve this goal, the following should be considered:
 - Devices should be physically labelled to support inventory and maintenance.
 - Shared Access to PLCs/HMIs (OT-Specific Measures)
 - If individual accounts are not feasible, the principle of least privilege should still apply.
-- A secure jump server or HMI front-end should be used to control access, log activity, and add authentication layers. 
+- A secure jump server or HMI front-end should be used to control access, log activity, and add authentication layers.
 - Secure Remote Access
 - Technical requirements for remote access should be clearly defined and documented.
 - Secure methods such as VPNs, encrypted protocols (e.g. SSH, TLS), and multi-factor authentication
 (MFA – see also PR.AA-03.2) should be used.
-- Remote access should be monitored and logged. 
+- Remote access should be monitored and logged.
 
 ## Referenziert von DVO-Punkten
 

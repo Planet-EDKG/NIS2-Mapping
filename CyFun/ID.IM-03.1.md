@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to enhance cyber resilience by learning from incidents. After each incident, the
 organisation should analyse what happened, how it was handled, and what can be improved in processes,
 procedures, or technologies.
@@ -29,7 +29,7 @@ Cybersecurity policies, processes, and procedures should be reviewed and updated
 to reflect lessons learned.
 - Improve Tools and Capabilities
 Where applicable, technologies and response tools should be adapted or upgraded based on insights from
-the incident. 
+the incident.
 
 ## Referenziert von DVO-Punkten
 

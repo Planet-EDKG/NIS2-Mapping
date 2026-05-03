@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure the integrity and trustworthiness of critical system components, such as
 software, firmware, and configuration data, by detecting unauthorised modifications that could compromise
 operational safety, reliability, or security across all lifecycle stages, including storage, transport, and start-up.
@@ -35,8 +35,7 @@ traceability.
 - Protect Integrity of Backups
 - Backups should include integrity verification mechanisms (e.g. checksums or digital signatures) to ensure
 they have not been tampered with.
-- Regular test restorations should be performed to confirm the integrity and usability of backup data. 
-
+- Regular test restorations should be performed to confirm the integrity and usability of backup data.
 
 ## Referenziert von DVO-Punkten
 

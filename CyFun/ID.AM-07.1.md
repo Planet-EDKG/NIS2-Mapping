@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all data stored and used by the organisation is clearly identified. This
 supports proper data management, protection, and alignment with business and regulatory requirements.
 To achieve this goal, the following should be considered:
@@ -26,7 +26,7 @@ Data should be linked to the assets that store or process it, including physical
 and applications listed in the inventories from ID.AM-01 and ID.AM-02.
 - Documentation and Maintenance
 Data types, classifications, and associated assets should be documented and regularly updated to reflect
-changes in the environment. 
+changes in the environment.
 
 ## Referenziert von DVO-Punkten
 

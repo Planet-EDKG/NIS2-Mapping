@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all organisational assets, such as devices, systems, services, data, and
 business processes, are prioritised based on their classification, criticality, and business value.
 This prioritisation helps direct protection efforts toward the most important assets, supporting operational
@@ -37,7 +37,7 @@ Asset classifications and priorities should be reviewed at least annually or whe
 - Documentation and Evidence
 - The asset register should include classification, prioritisation criteria, assigned owners, and evidence of
 regular reviews.
-- Definitions of primary and secondary assets should be clearly documented. 
+- Definitions of primary and secondary assets should be clearly documented.
 
 ## Referenziert von DVO-Punkten
 

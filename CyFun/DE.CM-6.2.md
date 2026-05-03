@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that external service providers follow the organisation’s personnel security
 policies and contract requirements, especially when they have access to sensitive systems or data. This helps
 reduce the risk of security incidents caused by third-party staff and ensures that providers are held to the same
@@ -30,7 +30,7 @@ include:
 - Verifying onboarding and offboarding procedures
 - Ensuring only authorised individuals have access to critical systems
 - Any issues or non-compliance should be documented, reported, and addressed through corrective actions
-and follow-up reviews. 
+and follow-up reviews.
 
 ## Referenziert von DVO-Punkten
 

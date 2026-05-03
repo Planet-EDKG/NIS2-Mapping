@@ -9,7 +9,25 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-entfällt in 2025
+geändert in 2025, weiter als ID.IM-04.2
+
+# The organisation shall coordinate the development and the testing of Incident Response Plans and other cybersecurity plans that affect operations with stakeholders to ensure that these plans align with overall organisational goals and enhance resilience.
+
+## Implementation guidance
+The goal of this control is to ensure that Incident Response Plans and other cybersecurity plans affecting operations are aligned with organisational goals and enhance resilience through coordinated development and
+testing with relevant stakeholders.
+To achieve this goal, the organisation should:
+- Review and Update Plans Regularly
+Plans should be reviewed and updated to reflect evolving threats, organisational changes, and operational
+needs.
+- Engage Stakeholders Early
+Stakeholders, including internal teams, suppliers, and relevant third parties, should be involved early in the
+planning process to ensure alignment and relevance.
+- Maintain Ongoing Communication
+Stakeholders should be kept informed of plan progress, updates, and changes to maintain shared understanding and readiness.
+- Coordinate Testing Activities
+Testing of plans should be coordinated with stakeholders to validate effectiveness, clarify roles, and
+strengthen collaborative response capabilities.
 
 ## Referenziert von DVO-Punkten
 

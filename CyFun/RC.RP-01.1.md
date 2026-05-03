@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure the organisation can respond quickly and effectively to disasters, information
 security incidents, and cybersecurity events by developing and executing a structured recovery process that
 protects people, systems, and data.

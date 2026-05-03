@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to prevent the use of administrative privileges for routine, day-to-day tasks, thereby
 reducing the risk of misuse or exploitation by attackers.
 To ensure this goal is met, the organisation should consider the following:
@@ -25,7 +25,7 @@ threats.
 - OT-Specific Considerations
 - In OT environments, administrative access should be limited to essential personnel and functions.
 - Where shared access is necessary, secure access methods (e.g. jump servers, session logging) should be
-used to enforce accountability and reduce risk. 
+used to enforce accountability and reduce risk.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that the organisation uses automation, where practical, to support the
 efficient and consistent review and analysis of detected cybersecurity events. This helps reduce the risk of human
 error, speeds up threat detection and response, and allows limited security resources (especially in smaller
@@ -33,7 +33,7 @@ Focus automation on common threat indicators, such as:
 Use free or low-cost threat intelligence feeds to enhance detection tools with known indicators of compromise and attacker behaviours.
 - Maintain Manual Review Practices
 Schedule regular manual reviews of logs and alerts to identify threats that automated tools may miss,
-especially those involving new or subtle attack techniques. 
+especially those involving new or subtle attack techniques.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that access permissions, rights, and authorisations are clearly defined,
 properly managed, consistently enforced, and regularly reviewed to protect systems and data from unauthorised access.
 To achieve this goal, the following should be considered:
@@ -35,7 +35,7 @@ or HMIs, access should be limited to essential functions only, and enforced thro
 a jump server or HMI front-end that logs activity, restricts access by role or time, and adds an extra
 authentication layer (e.g. badge or PIN).
 - Authentication methods should align with the capabilities of OT systems.
-- Access to OT systems should be logged and monitored where possible. 
+- Access to OT systems should be logged and monitored where possible.
 
 ## Referenziert von DVO-Punkten
 

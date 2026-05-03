@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all employees are informed about cybersecurity incidents in a timely
 and understandable manner, so they can respond appropriately and help reduce risks.
 To achieve this:
@@ -24,7 +24,7 @@ should take.
 - Messages should be written in clear, simple language that avoids technical terms, so all employees can
 understand what is happening and what is expected of them.
 - Senior management should receive high-level summaries that explain the impact of the incident, the risks
-involved, and the steps being taken to resolve it. 
+involved, and the steps being taken to resolve it.
 
 ## Referenziert von DVO-Punkten
 

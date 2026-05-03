@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to enable the organisation to detect complex or distributed threats by combining
 and analysing event data from different systems and sources. Correlating this data helps identify patterns that
 may not be visible when systems are monitored in isolation.
@@ -23,7 +23,7 @@ and Response, or MDR), can support efficient analysis and correlation of events 
 - Cyber threat intelligence can be used to enhance event correlation by providing context about known threats,
 attack methods, and indicators of compromise.
 - Threat intelligence should be securely integrated into detection tools and processes to support more accurate
-and timely identification of threats. 
+and timely identification of threats.
 
 ## Referenziert von DVO-Punkten
 

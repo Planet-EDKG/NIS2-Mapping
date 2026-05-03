@@ -5,11 +5,11 @@ id: "DE.AE-1.1"
 tier: "ESSENTIAL"
 ---
 
-# BE-CyFun DE.AE-1.1
+# BE-CyFun DE.AE-1.1 The organization shall ensure that a baseline of network operations and expected data flows for its critical systems is developed, documented and maintained to track events.
 
 **Tier:** ESSENTIAL
 
-entfällt in 2025
+entfallen in 2025
 
 ## Referenziert von DVO-Punkten
 

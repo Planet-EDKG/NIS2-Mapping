@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that members of management bodies are equipped to make informed
 decisions on cybersecurity risks and mitigation strategies by developing a foundational understanding of
 information security, cyber threats, and risk management principles relevant to their leadership roles.

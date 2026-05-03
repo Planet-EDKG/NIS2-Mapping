@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that risk assessments are conducted and documented using a structured
 approach that considers threats, vulnerabilities, business impact, and likelihood. This supports informed decisionmaking and prioritisation of cybersecurity efforts across both IT and OT environments.
 To achieve this goal, the organisation should:
@@ -24,8 +24,7 @@ Cybersecurity resources and investments should be allocated based on the estimat
 and the potential impact on business processes and critical assets.
 - Ensure OT-Specific Risk Considerations
 Risk assessments should account for OT-specific factors such as safety implications, system availability,
-legacy technologies, and operational constraints. 
-
+legacy technologies, and operational constraints.
 
 ## Referenziert von DVO-Punkten
 

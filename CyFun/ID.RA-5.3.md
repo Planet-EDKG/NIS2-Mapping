@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that risk assessment results are communicated effectively to relevant
 stakeholders, enabling informed decisions and coordinated responses across the organisation.
 To achieve this goal, the organisation should:
@@ -23,7 +23,7 @@ Stakeholder contact details should be reviewed at least annually to ensure accur
 - Support OT-Specific Communication Needs
 Communication procedures should account for OT-specific roles, such as engineering, maintenance, and
 operations teams, ensuring they receive relevant risk information tied to system availability, safety, and
-continuity. 
+continuity.
 
 ## Referenziert von DVO-Punkten
 

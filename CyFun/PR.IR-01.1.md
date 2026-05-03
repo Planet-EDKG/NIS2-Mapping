@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all networks used by the organisation are protected against unauthorised
 access and cyber threats through the installation, configuration, and active maintenance of firewalls.
 This control focuses on the installation, configuration, and maintenance of network-based firewalls to prevent
@@ -36,7 +36,7 @@ securely configured, and kept up to date.
 - When IT-to-OT access is necessary, it should pass through a secure jump host located in a dedicated DMZ.
 - Enhance Detection with IDPS
 An Intrusion Detection and Prevention System (IDPS) should be considered to monitor and analyse network
-traffic for suspicious activity and enhance overall protection. 
+traffic for suspicious activity and enhance overall protection.
 
 ## Referenziert von DVO-Punkten
 

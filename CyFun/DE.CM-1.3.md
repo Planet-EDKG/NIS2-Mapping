@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that the organisation can detect and respond to unauthorised access or
 misuse of its business-critical systems. This includes identifying suspicious local, network, or remote connections that could indicate a security breach or misuse of sensitive systems.
 To achieve this goal, consider the following:
@@ -21,8 +21,7 @@ Border Gateway Protocol (BGP – which helps route internet traffic), and other 
 monitored for signs of tampering or misuse.
 - When hosting applications that are accessible from the internet, a Web Application Firewall (WAF) should
 be considered to protect against attacks. If the application is not web-based, it should be protected using
-other appropriate methods, such as an Identity Provider (IdP) to control access. 
-
+other appropriate methods, such as an Identity Provider (IdP) to control access.
 
 ## Referenziert von DVO-Punkten
 

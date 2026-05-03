@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to determine who requires access to the organisation’s business-critical information
 and technology, and to define the secure means by which this access is granted.
 To achieve this goal, the following should be considered:
@@ -34,7 +34,7 @@ the production network.
 - Secure access methods (e.g. jump servers, role-based restrictions) should be used where individual
 accounts are not feasible.
 - Reference
-For practical tools and templates, refer to the Access Policy template in the CyFun® Toolbox on www.cyfun.eu 
+For practical tools and templates, refer to the Access Policy template in the CyFun® Toolbox on www.cyfun.eu
 
 ## Referenziert von DVO-Punkten
 

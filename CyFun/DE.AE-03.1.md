@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to make sure security tools have logging turned on, logs are kept for a set time, and
 regularly checked to spot unusual or harmful activity. This helps to detect threats early and take action. Examples
 of such tools include firewalls, antivirus software, endpoint detection, and intrusion detection systems.
@@ -23,7 +23,7 @@ detection and response.
 - Log reviews should include checks for patterns such as repeated malware infections, abnormal network traffic,
 or excessive access to non-business-related websites.
 - If such patterns are identified, follow-up actions should be defined, such as strengthening specific security
-controls, updating detection rules, or conducting targeted awareness training. 
+controls, updating detection rules, or conducting targeted awareness training.
 
 ## Referenziert von DVO-Punkten
 

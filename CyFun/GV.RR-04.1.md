@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is protecting critical assets by ensuring only authenticated personnel can access them.
 To achieve this, the following should be considered:
 - “Authenticated” means the user must technically prove their identity at the point of access, ideally using MFA
@@ -20,7 +20,7 @@ employment, change of function and when offboarding (termination of employment).
 and background checks should be periodically repeated for personnel with such roles. Background verification
 checks should however take into account applicable laws, regulations, and ethics in proportion to the business
 requirements, the classification of the information to be accessed and the perceived risks.
-- Cybersecurity expertise should be recognised as a valuable asset in recruitment, training, and retention decisions. 
+- Cybersecurity expertise should be recognised as a valuable asset in recruitment, training, and retention decisions.
 
 ## Referenziert von DVO-Punkten
 

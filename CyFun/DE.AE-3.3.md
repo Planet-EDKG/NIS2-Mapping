@@ -10,7 +10,7 @@ scans, system performance data, monitoring of critical systems, and facility mon
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to strengthen the organisation’s ability to detect complex or hidden threats by combining event analysis with other relevant data sources.
 This broader view supports more accurate and timely identification of suspicious activity, and the following
 should be considered to achieve the goal of this control:
@@ -20,7 +20,7 @@ support this integration.
 possible risks.
 - Data from different monitoring systems should be brought together to make it easier to detect patterns
 or problems.
-- The setup should allow fast detection and response when something unusual is found. 
+- The setup should allow fast detection and response when something unusual is found.
 
 ## Referenziert von DVO-Punkten
 

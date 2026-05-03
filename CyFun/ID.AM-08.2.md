@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that operating systems and critical system components are kept secure and
 up-to-date by installing patches and security updates in a timely and controlled manner.
 To achieve this goal, the following should be considered:
@@ -40,7 +40,7 @@ Only essential applications should be installed. These should be regularly patch
 If automatic updates are not possible, a regular schedule (e.g. monthly) should be set to manually check for
 and install updates.
 - Update Monitoring Tools
-Tools that notify about available updates should be configured to monitor all installed applications. 
+Tools that notify about available updates should be configured to monitor all installed applications.
 
 ## Referenziert von DVO-Punkten
 

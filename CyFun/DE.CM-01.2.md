@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all organisational devices (IT and OT assets) are protected against
 malicious software, by deploying and regularly updating anti-malware tools.
 To achieve this goal, consider the following:
@@ -41,7 +41,7 @@ OT environments.
 processes.
 - Continuous Improvement
 - Regularly review and test anti-malware effectiveness.
-- Update policies and tools based on emerging threats and lessons learned from incidents. 
+- Update policies and tools based on emerging threats and lessons learned from incidents.
 
 ## Referenziert von DVO-Punkten
 

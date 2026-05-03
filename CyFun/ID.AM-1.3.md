@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to reduce security risks by ensuring that Unauthorised hardware is promptly identified,
 isolated, and addressed, while maintaining an accurate and accountable asset inventory.
 To make this happen:

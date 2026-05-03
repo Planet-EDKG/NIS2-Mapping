@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all enterprise assets are disposed of in a secure and controlled manner,
 to prevent unauthorised access to sensitive business, personal, or operational data.
 To support this goal, the organisation should consider to:
@@ -36,7 +36,7 @@ should be considered:
 Guidance from trusted sources, such as the Asset Management policy template in the CyFun® Toolbox on
 www.cyfun.eu, should be used to support secure disposal.
 - Include OT Assets in Disposal Planning
-OT systems and devices should be included in disposal procedures, ensuring operational data and configurations are securely removed before decommissioning. 
+OT systems and devices should be included in disposal procedures, ensuring operational data and configurations are securely removed before decommissioning.
 
 ## Referenziert von DVO-Punkten
 

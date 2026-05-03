@@ -5,11 +5,11 @@ id: "ID.AM-1.2"
 tier: "IMPORTANT"
 ---
 
-# BE-CyFun ID.AM-1.2 The inventory of enterprise assets associated with information and information processing facilities shall reflect changes in the organisation’s context and include all information necessary for effective accountability. 
+# BE-CyFun ID.AM-1.2 The inventory of enterprise assets associated with information and information processing facilities shall reflect changes in the organisation’s context and include all information necessary for effective accountability.
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that asset inventories support operational transparency, enable responsible
 ownership, and adapt to changes in the organisation’s structure, technology, and risk landscape.
 To achieve this goal:

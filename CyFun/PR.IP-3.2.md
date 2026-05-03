@@ -9,7 +9,29 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-entfällt in 2025
+geändert in 2025, weiter als PR.PS-06.4
+
+# For planned changes to the organisation's critical systems, a security impact analysis shall be performed in a separate test environment before implementation in an operational environment.
+
+## Implementation guidance
+The goal of this control is to prevent unintended security risks by testing planned changes to critical systems
+in a controlled environment before deployment.
+To achieve this goal, the organisation should:
+- Plan the Test Scenario
+- Security threats to systems, assets, processes, and people should be identified.
+- Planned configuration changes or system modifications should be analysed for their potential impact on
+security.
+- Prepare the Test Environment
+- Test data should reflect realistic operational scenarios.
+- Hardware, software, and network requirements should be clearly defined.
+- The test environment should closely mirror the production environment in setup and configuration.
+- Sufficient disk space should be allocated for testing activities.
+- Software versions in the test environment should match those in production.
+- Ensure Security and Maintainability
+- Software in the test environment should be regularly updated to address known vulnerabilities.
+- Virtualisation or containerisation should be used to create consistent and replicable environments.
+- Isolated virtual machines (VMs) should be used to prevent interference with operational systems.
+- Security controls such as firewalls and access restrictions should be implemented in the test environment.
 
 ## Referenziert von DVO-Punkten
 

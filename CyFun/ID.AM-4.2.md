@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that the flow of information to and from external systems is clearly
 understood, securely managed, and kept up to date to reduce the risk of data leakage, unauthorised access,
 or disruption across ICT and OT environments.
@@ -28,8 +28,7 @@ connections change. This ensures that controls remain effective and aligned with
 The two controls — ID.AM-03-3 and ID.AM-04.2 — are closely related but focus on different scopes of information flow and network activity. This control focuses on granular, content-specific data flows between the
 organisation and specific external systems. It includes:
 - Data transfers to/from third-party platforms such as CRM systems, cloud storage providers, and external APIs.
-- File transfers, API calls, and database synchronisation with external systems. 
-
+- File transfers, API calls, and database synchronisation with external systems.
 
 ## Referenziert von DVO-Punkten
 

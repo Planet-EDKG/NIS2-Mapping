@@ -9,7 +9,22 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-entfällt in 2025
+geändert in 2025, weiter als GV.OC-04.3
+
+# Redundancy shall be implemented to meet availability requirements as defined by the organisation, legislation and/or regulations
+
+## Implementation guidance
+The goal of this control is to ensure that critical systems and services remain available by implementing redundancy in line with organisational, legal, and regulatory availability requirements.
+To achieve this goal, the following should be considered:
+- The focus of this control is on ensuring that essential services continue to operate even if part of the system fails.
+- Redundancy should be built into key components such as data storage, network infrastructure, and critical
+systems. Examples include:
+- Backup servers, load balancers, RAID arrays, and multiple data centres
+- Failover internet connections and multiple internet service providers (ISPs)
+- Critical equipment and services should be protected against power failures and utility disruptions using:
+- Uninterruptible Power Supplies (UPS), backup generators, and redundant power cabling, 2 different
+power service providers …
+- Regular testing and maintenance contracts to ensure reliability
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 This control sets the foundation for how all information and cybersecurity policies and procedures should be
 managed. It emphasises the governance lifecycle, from creation to enforcement, and ensures alignment with
 the organisation's strategic direction.
@@ -28,7 +28,7 @@ To effectively implement this control, consider the following practices:
 - The entity should establish and document clear criteria for determining the probability and impact of risks.
 - These criteria should be tailored to the organisation’s specific context and used consistently to evaluate
 and prioritise cybersecurity risks. This ensures that risk-based decisions are aligned with the organisation’s
-overall strategy and risk appetite. 
+overall strategy and risk appetite.
 
 ## Referenziert von DVO-Punkten
 

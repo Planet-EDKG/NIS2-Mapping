@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to limit the spread of cyber threats and enforce strict access control by implementing
 network segmentation and segregation based on trust boundaries and the criticality of systems.
 To implement this control, the following should be considered:
@@ -35,7 +35,7 @@ PR.IR-01.1.
 - Clarify Segmentation vs. Segregation
 - Segmentation should be used to logically divide networks and control traffic between zones.
 - Segregation should be applied where systems have to be isolated, with no direct communication unless
-explicitly permitted. 
+explicitly permitted.
 
 ## Referenziert von DVO-Punkten
 

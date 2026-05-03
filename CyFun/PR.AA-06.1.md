@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that physical access to all organisational assets, especially in critical zones, is
 managed, monitored, and enforced based on risk to prevent unauthorised entry and protect sensitive systems.
 To support this goal, the following actions should be taken:
@@ -34,7 +34,7 @@ corridors, or reception zones.
 - Physical access to OT environments (e.g. control rooms, cabinets, field devices) should be limited to authorised personnel only.
 - Access should be logged and monitored, and physical barriers should be used where feasible.
 - Reference
-For practical tools and templates, refer to the Access Policy in the CyFun® Toolbox on www.cyfun.eu. 
+For practical tools and templates, refer to the Access Policy in the CyFun® Toolbox on www.cyfun.eu.
 
 ## Referenziert von DVO-Punkten
 

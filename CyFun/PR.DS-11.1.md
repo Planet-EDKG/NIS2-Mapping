@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that business-critical data is regularly backed up and securely stored on a
 separate system to protect against data loss, system failure, or cyberattacks such as ransomware.
 To support this goal, the organisation should:
@@ -35,7 +35,7 @@ how much data loss is acceptable) should be defined and reviewed regularly to en
 restoration.
 - Include OT Environments
 Backup strategies should cover OT systems, including control system configurations, operational data, and
-device settings critical to industrial operations. 
+device settings critical to industrial operations.
 
 ## Referenziert von DVO-Punkten
 

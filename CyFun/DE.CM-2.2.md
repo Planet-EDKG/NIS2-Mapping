@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The purpose of this control is to strengthen the protection of critical systems and devices by supplementing
 basic physical access monitoring with active intrusion detection, surveillance technologies, and independent
 monitoring capabilities. This helps ensure timely detection and response to physical security threats.
@@ -25,7 +25,7 @@ using digital systems or manual logs.
 - Independent monitoring teams, typically external security professionals, should be engaged to oversee surveillance systems and respond to incidents. These teams bring specialised expertise and operate separately
 from internal staff, making it important to apply third-party cybersecurity requirements to their operations.
 - Surveillance and intrusion detection should be integrated with broader security operations, allowing alerts
-to be correlated with other physical and digital indicators of compromise. 
+to be correlated with other physical and digital indicators of compromise.
 
 ## Referenziert von DVO-Punkten
 

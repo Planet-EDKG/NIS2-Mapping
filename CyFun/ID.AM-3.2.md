@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that internal network communications and data flows are clearly understood, properly documented, and kept up to date to support secure operations and informed decision-making
 across ICT and OT environments.
 To achieve this goal:
@@ -24,7 +24,7 @@ Configuration management processes should support the maintenance and validation
 documentation.
 - Ensure Resilient Documentation
 Network flow documentation should be stored securely and not solely on the network it describes. A protected offline copy (e.g. encrypted external drive or hardcopy) should be maintained to ensure availability
-during outages or incidents. 
+during outages or incidents.
 
 ## Referenziert von DVO-Punkten
 

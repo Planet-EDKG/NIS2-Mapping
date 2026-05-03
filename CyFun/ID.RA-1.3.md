@@ -9,7 +9,7 @@ tier: "ESSENTIAL"
 
 **Tier:** ESSENTIAL
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that vulnerabilities are continuously reviewed, analysed, and remediated
 through a documented process that also supports information sharing where applicable.
 To achieve this goal, the organisation should:
@@ -30,7 +30,7 @@ Operational procedures, especially those involving remote access, maintenance, a
 should be reviewed for exploitable weaknesses.
 - Coordinate with Engineering and Operations
 Remediation efforts should be planned in coordination with OT and engineering teams to avoid unplanned
-downtime or safety risks. 
+downtime or safety risks.
 
 ## Referenziert von DVO-Punkten
 

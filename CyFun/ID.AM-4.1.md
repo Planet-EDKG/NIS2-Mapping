@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all external services used by the organisation are clearly identified,
 reviewed, and kept up to date to reduce the risk of unauthorised access, unmanaged third-party dependencies,
 or service disruption across ICT and OT environments.
@@ -29,7 +29,7 @@ External services should be categorised by type (e.g. IaaS, SaaS, APIs) and clas
 and data sensitivity. This helps prioritise oversight and risk management efforts.
 - Integrate with Risk and Change Management
 The inventory should be integrated into broader risk and change management processes. Any changes to
-external services should trigger a review of associated risks and required controls. 
+external services should trigger a review of associated risks and required controls.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that access rights, privileges, and authorisations are restricted to only the
 systems and specific information needed to perform assigned tasks, following the principle of least privilege.
 To achieve this goal, the following should be considered:
@@ -20,7 +20,7 @@ To achieve this goal, the following should be considered:
 - Define and Manage Permissions
 - Access rights should be clearly defined based on roles and responsibilities.
 - An inventory of accounts and their permissions should be maintained and kept up to date.
-- Separate accounts should be used for contractors and third parties to ensure traceability. 
+- Separate accounts should be used for contractors and third parties to ensure traceability.
 - Enforce Access Controls
 - Role-based or attribute-based access control models should be implemented where feasible.
 - Internet access points and external connections should be limited to what is strictly necessary.
@@ -35,7 +35,7 @@ security assessments.
 - Access should be revoked immediately when no longer needed.
 - OT-Specific Considerations
 In OT environments, access control should still follow the principle of least privilege. Where technical limitations exist, previously defined OT access control measures (see PR.AA-01.1 and PR.AA-05.1) should be
-applied to ensure secure and traceable access. 
+applied to ensure secure and traceable access.
 
 ## Referenziert von DVO-Punkten
 

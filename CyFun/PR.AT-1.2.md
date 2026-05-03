@@ -9,7 +9,7 @@ tier: "IMPORTANT"
 
 **Tier:** IMPORTANT
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that all personnel are trained to recognise and report potential insider
 threats, thereby reducing the risk of internal cybersecurity incidents.
 This control builds on the general awareness from PR.AT-01.1 by introducing specific threat scenarios and
@@ -29,8 +29,7 @@ specific responsibilities.
 (Cross-Training).
 - Annual refresher training should be used to reinforce key messages and introduce updates.
 - The organisation should promote a culture of security where employees feel safe to report concerns without
-fear of retaliation. 
-
+fear of retaliation.
 
 ## Referenziert von DVO-Punkten
 

@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that critical systems and services remain available by implementing redundancy in line with organisational, legal, and regulatory availability requirements.
 While ID.AM-01.1 focuses on the infrastructure layer, this control is closely linked to ID.AM-02.1 which tracks
 the software and services that run on top of it, such as applications, platforms, and digital tools. Together, they
@@ -24,7 +24,7 @@ accuracy and real-time updates.
 - The inventory should be reviewed and updated regularly, especially following changes such as deployments,
 decommissions, or relocations.
 - The inventory should be accessible to relevant stakeholders and should be integrated with risk management
-and incident response processes. 
+and incident response processes.
 
 ## Referenziert von DVO-Punkten
 

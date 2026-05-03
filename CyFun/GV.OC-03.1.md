@@ -9,7 +9,7 @@ tier: "BASIC"
 
 **Tier:** BASIC
 
-Implementation guidance
+## Implementation guidance
 The goal of this control is to ensure that legal, regulatory, and contractual requirements related to information
 security and cybersecurity are identified, monitored, and implemented.
 To achieve this goal, the following should be considered:
