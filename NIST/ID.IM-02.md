@@ -1,50 +1,77 @@
 ---
 tags:
   - NIST
+  - NIST-IDENTIFY
 id: "ID.IM-02"
+function: "ID"
+category: "ID.IM"
 ---
 
 # NIST CSF ID.IM-02
 
-Improvements are identified from security tests and exercises, including those
-done in coordination with suppliers and relevant third parties
+**Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties**
 
-## Referenziert von DVO-Punkten
+*Funktion:* ID | *Kategorie:* ID.IM
 
-- [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]
-- [[DVO/1.2 Roles, responsibilities and authorities|Punkt 1.2 – Roles, responsibilities and authorities]]
-- [[DVO/2.1 Risk management framework|Punkt 2.1 – Risk management framework]]
-- [[DVO/2.2 Compliance monitoring|Punkt 2.2 – Compliance monitoring]]
-- [[DVO/3.2 Monitoring and logging|Punkt 3.2 – Monitoring and logging]]
-- [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]
-- [[DVO/3.5 Incident response|Punkt 3.5 – Incident response]]
-- [[DVO/4.1 Business continuity and disaster recovery plan|Punkt 4.1 – Business continuity and disaster recovery plan]]
-- [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]
-- [[DVO/5.2 Directory of suppliers and service providers|Punkt 5.2 – Directory of suppliers and service providers]]
-- [[DVO/6.1 Security in acquisition of ICT services, ICT systems or ICT products|Punkt 6.1 – Security in acquisition of ICT services, ICT systems or ICT products]]
-- [[DVO/6.2 Secure development life cycle|Punkt 6.2 – Secure development life cycle]]
-- [[DVO/6.3 Configuration management|Punkt 6.3 – Configuration management]]
-- [[DVO/6.4 Change management, repairs and maintenance|Punkt 6.4 – Change management, repairs and maintenance]]
-- [[DVO/6.5 Security testing|Punkt 6.5 – Security testing]]
-- [[DVO/6.6 Security patch management|Punkt 6.6 – Security patch management]]
-- [[DVO/6.7 Network security|Punkt 6.7 – Network security]]
-- [[DVO/6.8 Network segmentation|Punkt 6.8 – Network segmentation]]
-- [[DVO/6.9 Protection against malicious and unauthorised software|Punkt 6.9 – Protection against malicious and unauthorised software]]
-- [[DVO/7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures|Punkt 7.1 – Policies and procedures to assess the effectiveness of cybersecurity risk-management measures]]
-- [[DVO/8.1 Awareness raising and basic cyber hygiene practices|Punkt 8.1 – Awareness raising and basic cyber hygiene practices]]
-- [[DVO/8.2 Security training|Punkt 8.2 – Security training]]
-- [[DVO/9.1 Cryptography|Punkt 9.1 – Cryptography]]
-- [[DVO/10.1 Human resources security|Punkt 10.1 – Human resources security]]
-- [[DVO/10.2 Verification of Background|Punkt 10.2 – Verification of Background]]
-- [[DVO/10.4 Disciplinary process|Punkt 10.4 – Disciplinary process]]
-- [[DVO/11.1 Access control policy|Punkt 11.1 – Access control policy]]
-- [[DVO/11.2 Management of access rights|Punkt 11.2 – Management of access rights]]
-- [[DVO/11.3 Privileged accounts and system administration accounts|Punkt 11.3 – Privileged accounts and system administration accounts]]
-- [[DVO/11.6 Authentication|Punkt 11.6 – Authentication]]
-- [[DVO/12.3 Removable media policy|Punkt 12.3 – Removable media policy]]
-- [[DVO/12.4 Asset inventory|Punkt 12.4 – Asset inventory]]
-- [[DVO/13.1 Supporting utilities|Punkt 13.1 – Supporting utilities]]
-- [[DVO/13.2 Protection against physical and environmental threats|Punkt 13.2 – Protection against physical and environmental threats]]
+---
+
+## Implementierungsbeispiele
+
+### Ex1
+Identify improvements for future incident response activities based on findings from incident response assessments (e.g., tabletop exercises and simulations, tests, internal reviews, independent audits)
+
+### Ex2
+Identify improvements for future business continuity, disaster recovery, and incident response activities based on exercises performed in coordination with critical service providers and product suppliers
+
+### Ex3
+Involve internal stakeholders (e.g., senior executives, legal department, HR) in security tests and exercises as appropriate
+
+### Ex4
+Perform penetration testing to identify opportunities to improve the security posture of selected high-risk systems as approved by leadership
+
+### Ex5
+Exercise contingency plans for responding to and recovering from the discovery that products or services did not originate with the contracted supplier or partner or were altered before receipt
+
+### Ex6
+Collect and analyze performance metrics using security tools and services to inform improvements to the cybersecurity program
+
+---
+
+## NICE Framework Work Roles
+
+- [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]
+- [[NICE/DD-WRL-006 Systems Requirements Planning|DD-WRL-006 – Systems Requirements Planning]]
+- [[NICE/DD-WRL-007 Systems Testing and Evaluation|DD-WRL-007 – Systems Testing and Evaluation]]
+- [[NICE/OG-WRL-009 Product Support Management|OG-WRL-009 – Product Support Management]]
+- [[NICE/OG-WRL-016 Technology Program Auditing|OG-WRL-016 – Technology Program Auditing]]
+- [[NICE/PD-WRL-003 Incident Response|PD-WRL-003 – Incident Response]]
+
+---
+
+## Weitere Referenzen
+
+- CCMv4.0: BCR-06
+- CCMv4.0: BCR-07
+- CCMv4.0: BCR-10
+- CCMv4.0: SEF-01
+- CCMv4.0: SEF-03
+- CCMv4.0: SEF-04
+- CCMv4.0: SEF-05
+- CCMv4.0: STA-14
+- CCMv4.0: TVM-06
+- CCMv4.0: UEM-14
+- CIS Controls v8.0: 17.7
+- CIS Controls v8.1: 17.7
+- CRI Profile v2.0: ID.IM-02
+- CRI Profile v2.0: ID.IM-02.01
+- CRI Profile v2.0: ID.IM-02.02
+- CRI Profile v2.0: ID.IM-02.03
+- CRI Profile v2.0: ID.IM-02.04
+- CRI Profile v2.0: ID.IM-02.05
+- CRI Profile v2.0: ID.IM-02.06
+- CRI Profile v2.0: ID.IM-02.07
+
+---
 
 ## Übergeordnet
 

@@ -1,51 +1,68 @@
 ---
 tags:
   - NIST
+  - NIST-IDENTIFY
 id: "ID.IM-01"
+function: "ID"
+category: "ID.IM"
 ---
 
 # NIST CSF ID.IM-01
 
-Improvements are identified from evaluations 
+**Improvements are identified from evaluations**
 
-## Referenziert von DVO-Punkten
+*Funktion:* ID | *Kategorie:* ID.IM
 
-- [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]
-- [[DVO/1.2 Roles, responsibilities and authorities|Punkt 1.2 – Roles, responsibilities and authorities]]
-- [[DVO/2.1 Risk management framework|Punkt 2.1 – Risk management framework]]
-- [[DVO/2.2 Compliance monitoring|Punkt 2.2 – Compliance monitoring]]
-- [[DVO/2.3 Independent review of information and network security|Punkt 2.3 – Independent review of information and network security]]
-- [[DVO/3.1 Incident handling policy|Punkt 3.1 – Incident handling policy]]
-- [[DVO/3.2 Monitoring and logging|Punkt 3.2 – Monitoring and logging]]
-- [[DVO/3.4 Event assessment and classification|Punkt 3.4 – Event assessment and classification]]
-- [[DVO/3.6 Post-incident reviews|Punkt 3.6 – Post-incident reviews]]
-- [[DVO/5.1 Supply chain security policy|Punkt 5.1 – Supply chain security policy]]
-- [[DVO/5.2 Directory of suppliers and service providers|Punkt 5.2 – Directory of suppliers and service providers]]
-- [[DVO/6.1 Security in acquisition of ICT services, ICT systems or ICT products|Punkt 6.1 – Security in acquisition of ICT services, ICT systems or ICT products]]
-- [[DVO/6.2 Secure development life cycle|Punkt 6.2 – Secure development life cycle]]
-- [[DVO/6.3 Configuration management|Punkt 6.3 – Configuration management]]
-- [[DVO/6.4 Change management, repairs and maintenance|Punkt 6.4 – Change management, repairs and maintenance]]
-- [[DVO/6.5 Security testing|Punkt 6.5 – Security testing]]
-- [[DVO/6.6 Security patch management|Punkt 6.6 – Security patch management]]
-- [[DVO/6.7 Network security|Punkt 6.7 – Network security]]
-- [[DVO/6.8 Network segmentation|Punkt 6.8 – Network segmentation]]
-- [[DVO/6.9 Protection against malicious and unauthorised software|Punkt 6.9 – Protection against malicious and unauthorised software]]
-- [[DVO/7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures|Punkt 7.1 – Policies and procedures to assess the effectiveness of cybersecurity risk-management measures]]
-- [[DVO/8.1 Awareness raising and basic cyber hygiene practices|Punkt 8.1 – Awareness raising and basic cyber hygiene practices]]
-- [[DVO/8.2 Security training|Punkt 8.2 – Security training]]
-- [[DVO/9.1 Cryptography|Punkt 9.1 – Cryptography]]
-- [[DVO/10.1 Human resources security|Punkt 10.1 – Human resources security]]
-- [[DVO/10.2 Verification of Background|Punkt 10.2 – Verification of Background]]
-- [[DVO/10.4 Disciplinary process|Punkt 10.4 – Disciplinary process]]
-- [[DVO/11.1 Access control policy|Punkt 11.1 – Access control policy]]
-- [[DVO/11.2 Management of access rights|Punkt 11.2 – Management of access rights]]
-- [[DVO/11.3 Privileged accounts and system administration accounts|Punkt 11.3 – Privileged accounts and system administration accounts]]
-- [[DVO/11.6 Authentication|Punkt 11.6 – Authentication]]
-- [[DVO/12.2 Handling of assets|Punkt 12.2 – Handling of assets]]
-- [[DVO/12.3 Removable media policy|Punkt 12.3 – Removable media policy]]
-- [[DVO/12.4 Asset inventory|Punkt 12.4 – Asset inventory]]
-- [[DVO/13.1 Supporting utilities|Punkt 13.1 – Supporting utilities]]
-- [[DVO/13.2 Protection against physical and environmental threats|Punkt 13.2 – Protection against physical and environmental threats]]
+---
+
+## Implementierungsbeispiele
+
+### Ex1
+Perform self-assessments of critical services that take current threats and TTPs into consideration
+
+### Ex2
+Invest in third-party assessments or independent audits of the effectiveness of the organization's cybersecurity program to identify areas that need improvement
+
+### Ex3
+Constantly evaluate compliance with selected cybersecurity requirements through automated means
+
+---
+
+## NICE Framework Work Roles
+
+- [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]
+- [[NICE/DD-WRL-006 Systems Requirements Planning|DD-WRL-006 – Systems Requirements Planning]]
+- [[NICE/DD-WRL-007 Systems Testing and Evaluation|DD-WRL-007 – Systems Testing and Evaluation]]
+- [[NICE/DD-WRL-008 Technology Research and Development|DD-WRL-008 – Technology Research and Development]]
+- [[NICE/OG-WRL-016 Technology Program Auditing|OG-WRL-016 – Technology Program Auditing]]
+- [[NICE/PD-WRL-003 Incident Response|PD-WRL-003 – Incident Response]]
+
+---
+
+## Weitere Referenzen
+
+- CCMv4.0: A&A-02
+- CCMv4.0: A&A-03
+- CCMv4.0: A&A-04
+- CCMv4.0: A&A-05
+- CCMv4.0: CEK-09
+- CCMv4.0: SEF-04
+- CCMv4.0: SEF-05
+- CCMv4.0: STA-06
+- CCMv4.0: STA-11
+- CCMv4.0: STA-13
+- CRI Profile v2.0: ID.IM-01
+- CRI Profile v2.0: ID.IM-01.01
+- CRI Profile v2.0: ID.IM-01.02
+- CRI Profile v2.0: ID.IM-01.03
+- CRI Profile v2.0: ID.IM-01.04
+- CRI Profile v2.0: ID.IM-01.05
+- ISO/IEC 27001:2022: Mandatory Clause: 9.2
+- ISO/IEC 27001:2022: Mandatory Clause: 10.1
+- ISO/IEC 27001:2022: Mandatory Clause: 10.2
+- ISO/IEC 27001:2022: Annex A Controls: 5.35
+
+---
 
 ## Übergeordnet
 

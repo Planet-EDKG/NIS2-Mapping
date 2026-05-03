@@ -1,21 +1,70 @@
 ---
 tags:
   - NIST
+  - NIST-PROTECT
 id: "PR.AT-02"
+function: "PR"
+category: "PR.AT"
 ---
 
 # NIST CSF PR.AT-02
 
-Individuals in specialized roles are provided with awareness and training so
-that they possess the knowledge and skills to perform relevant tasks with cybersecurity
-risks in mind
+**Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind**
 
-## Referenziert von DVO-Punkten
+*Funktion:* PR | *Kategorie:* PR.AT
 
-- [[DVO/1.1 Policy on the security of network and information systems|Punkt 1.1 – Policy on the security of network and information systems]]
-- [[DVO/1.2 Roles, responsibilities and authorities|Punkt 1.2 – Roles, responsibilities and authorities]]
-- [[DVO/8.1 Awareness raising and basic cyber hygiene practices|Punkt 8.1 – Awareness raising and basic cyber hygiene practices]]
-- [[DVO/10.1 Human resources security|Punkt 10.1 – Human resources security]]
+---
+
+## Implementierungsbeispiele
+
+### Ex1
+Identify the specialized roles within the organization that require additional cybersecurity training, such as physical and cybersecurity personnel, finance personnel, senior leadership, and anyone with access to business-critical data
+
+### Ex2
+Provide role-based cybersecurity awareness and training to all those in specialized roles, including contractors, partners, suppliers, and other third parties
+
+### Ex3
+Periodically assess or test users on their understanding of cybersecurity practices for their specialized roles
+
+### Ex4
+Require annual refreshers to reinforce existing practices and introduce new practices
+
+---
+
+## NICE Framework Work Roles
+
+- [[NICE/IO-WRL-007 Technical Support|IO-WRL-007 – Technical Support]]
+- [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]
+- [[NICE/OG-WRL-003 Cybersecurity Workforce Management|OG-WRL-003 – Cybersecurity Workforce Management]]
+- [[NICE/OG-WRL-004 Cybersecurity Curriculum Development|OG-WRL-004 – Cybersecurity Curriculum Development]]
+- [[NICE/OG-WRL-005 Cybersecurity Instruction|OG-WRL-005 – Cybersecurity Instruction]]
+
+---
+
+## Weitere Referenzen
+
+- CCMv4.0: DCS-11
+- CCMv4.0: HRS-09
+- CCMv4.0: HRS-12
+- CCMv4.0: HRS-13
+- CCMv4.0: SEF-03
+- CCMv4.0: UEM-14
+- CIS Controls v8.0: 14.9
+- CIS Controls v8.1: 14.9
+- CRI Profile v2.0: PR.AT-02
+- CRI Profile v2.0: PR.AT-02.01
+- CRI Profile v2.0: PR.AT-02.02
+- CRI Profile v2.0: PR.AT-02.03
+- CRI Profile v2.0: PR.AT-02.04
+- CRI Profile v2.0: PR.AT-02.05
+- CRI Profile v2.0: PR.AT-02.06
+- CRI Profile v2.0: PR.AT-02.07
+- CRI Profile v2.0: PR.AT-02.08
+- CSF v1.1: PR.AT-2
+- CSF v1.1: PR.AT-3
+- CSF v1.1: PR.AT-4
+
+---
 
 ## Übergeordnet
 

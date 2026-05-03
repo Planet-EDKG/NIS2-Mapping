@@ -1,18 +1,68 @@
 ---
 tags:
   - NIST
+  - NIST-GOVERN
 id: "GV.RR-04"
+function: "GV"
+category: "GV.RR"
 ---
 
 # NIST CSF GV.RR-04
 
-Cybersecurity is included in human resources practices
+**Cybersecurity is included in human resources practices**
 
-## Referenziert von DVO-Punkten
+*Funktion:* GV | *Kategorie:* GV.RR
 
-- [[DVO/10.1 Human resources security|Punkt 10.1 – Human resources security]]
-- [[DVO/10.2 Verification of Background|Punkt 10.2 – Verification of Background]]
-- [[DVO/10.3 Termination or change of employment procedures|Punkt 10.3 – Termination or change of employment procedures]]
+---
+
+## Implementierungsbeispiele
+
+### Ex1
+Integrate cybersecurity risk management considerations into human resources processes (e.g., personnel screening, onboarding, change notification, offboarding)
+
+### Ex2
+Consider cybersecurity knowledge to be a positive factor in hiring, training, and retention decisions
+
+### Ex3
+Conduct background checks prior to onboarding new personnel for sensitive roles, and periodically repeat background checks for personnel with such roles
+
+### Ex4
+Define and enforce obligations for personnel to be aware of, adhere to, and uphold security policies as they relate to their roles
+
+---
+
+## NICE Framework Work Roles
+
+- [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]
+- [[NICE/OG-WRL-003 Cybersecurity Workforce Management|OG-WRL-003 – Cybersecurity Workforce Management]]
+- [[NICE/OG-WRL-010 Program Management|OG-WRL-010 – Program Management]]
+
+---
+
+## Weitere Referenzen
+
+- CCMv4.0: HRS-01
+- CCMv4.0: HRS-05
+- CCMv4.0: HRS-06
+- CCMv4.0: HRS-07
+- CCMv4.0: HRS-08
+- CCMv4.0: HRS-10
+- CCMv4.0: IAM-07
+- CIS Controls v8.0: 6.1
+- CIS Controls v8.0: 6.2
+- CIS Controls v8.1: 6.1
+- CIS Controls v8.1: 6.2
+- CRI Profile v2.0: GV.RR-04
+- CRI Profile v2.0: GV.RR-04.01
+- CRI Profile v2.0: GV.RR-04.02
+- CRI Profile v2.0: GV.RR-04.03
+- CSF v1.1: PR.IP-11
+- CoP: C1
+- ISO/IEC 27001:2022: Mandatory Clause: 7.3
+- ISO/IEC 27001:2022: Annex A Controls: 6.1
+- ISO/IEC 27001:2022: Annex A Controls: 6.2
+
+---
 
 ## Übergeordnet
 

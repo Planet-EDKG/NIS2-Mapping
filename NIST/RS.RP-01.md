@@ -1,0 +1,38 @@
+---
+tags:
+  - NIST
+  - NIST-RESPOND
+id: "RS.RP-01"
+function: "RS"
+category: "RS.RP"
+---
+
+# NIST CSF RS.RP-01
+
+**[Withdrawn: Incorporated into RS.MA-01]**
+
+*Funktion:* RS | *Kategorie:* RS.RP
+
+---
+
+## Implementierungsbeispiele
+
+*Keine Implementierungsbeispiele vorhanden.*
+
+---
+
+## NICE Framework Work Roles
+
+- –
+
+---
+
+## Weitere Referenzen
+
+- –
+
+---
+
+## Übergeordnet
+
+[[NIST/000 NIST CSF v2.0|NIST CSF v2.0]]

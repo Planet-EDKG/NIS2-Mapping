@@ -1,16 +1,37 @@
 ---
 tags:
   - NIST
+  - NIST-IDENTIFY
 id: "ID.RM-01"
+function: "ID"
+category: "ID.RM"
 ---
 
 # NIST CSF ID.RM-01
 
-fehlt (check)
+**[Withdrawn: Incorporated into GV.RM-01, GV.RM-06, GV.RR-03]**
 
-## Referenziert von DVO-Punkten
+*Funktion:* ID | *Kategorie:* ID.RM
 
-- [[DVO/2.1 Risk management framework|Punkt 2.1 – Risk management framework]]
+---
+
+## Implementierungsbeispiele
+
+*Keine Implementierungsbeispiele vorhanden.*
+
+---
+
+## NICE Framework Work Roles
+
+- –
+
+---
+
+## Weitere Referenzen
+
+- –
+
+---
 
 ## Übergeordnet
 

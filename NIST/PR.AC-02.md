@@ -1,16 +1,37 @@
 ---
 tags:
   - NIST
+  - NIST-PROTECT
 id: "PR.AC-02"
+function: "PR"
+category: "PR.AC"
 ---
 
 # NIST CSF PR.AC-02
 
-fehlt (check)
+**[Withdrawn: Moved to PR.AA-06]**
 
-## Referenziert von DVO-Punkten
+*Funktion:* PR | *Kategorie:* PR.AC
 
-- [[DVO/11.5 Identification|Punkt 11.5 – Identification]]
+---
+
+## Implementierungsbeispiele
+
+*Keine Implementierungsbeispiele vorhanden.*
+
+---
+
+## NICE Framework Work Roles
+
+- –
+
+---
+
+## Weitere Referenzen
+
+- –
+
+---
 
 ## Übergeordnet
 
