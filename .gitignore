@@ -1,0 +1,27 @@
+# Obsidian plugin with secrets
+.obsidian/plugins/remotely-save/
+
+# Obsidian settings that shouldn't be synced
+#.obsidian/workspace
+#.obsidian/app.json
+#.obsidian/appearance.json
+#.obsidian/hotkeys.json
+#.obsidian/plugins.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*.swp
+*.swo
+*~
