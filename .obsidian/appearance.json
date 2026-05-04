@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "showViewHeader": true,
+  "showRibbon": true
+}
