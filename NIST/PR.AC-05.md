@@ -24,8 +24,8 @@ category: "PR.AC"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.9.2|A.9.2]] (✅ Exact)
-- [[ISO/A.9.3|A.9.3]] (⚠️ Related)
+- [[ISO/A.9.2|A.9.2]] (Exact)
+- [[ISO/A.9.3|A.9.3]] (Related)
 ## NICE Framework Work Roles
 
 - –

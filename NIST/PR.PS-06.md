@@ -31,7 +31,7 @@ Maintain the software used in production environments, and securely dispose of s
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.1|A.6.1]] (⚠️ Related)
+- [[ISO/A.6.1|A.6.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

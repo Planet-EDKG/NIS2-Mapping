@@ -28,7 +28,7 @@ Declare the end of incident recovery once the criteria are met
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.17.2|A.17.2]] (⚠️ Related)
+- [[ISO/A.17.2|A.17.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

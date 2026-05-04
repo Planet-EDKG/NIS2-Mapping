@@ -37,7 +37,7 @@ Review and update all cybersecurity plans annually or when a need for significan
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.8.33|A.8.33]] (⚠️ Related)
+- [[ISO/A.8.33|A.8.33]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]

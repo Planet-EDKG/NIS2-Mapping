@@ -34,7 +34,7 @@ Initiate execution of additional cybersecurity plans as needed to support incide
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.16.1|A.16.1]] (✅ Exact)
+- [[ISO/A.16.1|A.16.1]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-005 Systems Administration|IO-WRL-005 – Systems Administration]]

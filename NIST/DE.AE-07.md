@@ -31,7 +31,7 @@ Rapidly acquire and analyze vulnerability disclosures for the organization's tec
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
+- [[ISO/A.12.4|A.12.4]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-008 Technology Research and Development|DD-WRL-008 – Technology Research and Development]]

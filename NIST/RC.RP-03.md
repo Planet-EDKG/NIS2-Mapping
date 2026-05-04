@@ -25,7 +25,7 @@ Check restoration assets for indicators of compromise, file corruption, and othe
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.17.1|A.17.1]] (⚠️ Related)
+- [[ISO/A.17.1|A.17.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

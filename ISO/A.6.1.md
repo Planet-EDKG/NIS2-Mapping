@@ -10,11 +10,11 @@ id: "A.6.1"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.AA-01|PR.AA-01]] (✅ Exact)
-- [[NIST/PR.AA-02|PR.AA-02]] (⚠️ Related)
-- [[NIST/PR.PS-04|PR.PS-04]] (✅ Exact)
-- [[NIST/PR.PS-05|PR.PS-05]] (⚠️ Related)
-- [[NIST/PR.PS-06|PR.PS-06]] (⚠️ Related)
+- [[NIST/PR.AA-01|PR.AA-01]] (Exact)
+- [[NIST/PR.AA-02|PR.AA-02]] (Related)
+- [[NIST/PR.PS-04|PR.PS-04]] (Exact)
+- [[NIST/PR.PS-05|PR.PS-05]] (Related)
+- [[NIST/PR.PS-06|PR.PS-06]] (Related)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9a §30 (2) Nr. 9|§30 (2) Nr. 9]]

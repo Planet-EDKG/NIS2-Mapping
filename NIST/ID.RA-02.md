@@ -31,7 +31,7 @@ Monitor sources of cyber threat intelligence for information on the types of vul
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (✅ Exact)
+- [[ISO/A.12.6|A.12.6]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

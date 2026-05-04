@@ -34,7 +34,7 @@ Manually create and assign tickets in the organization's ticketing system when t
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
+- [[ISO/A.12.4|A.12.4]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

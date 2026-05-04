@@ -24,7 +24,7 @@ category: "RS.AN"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.16.1|A.16.1]] (✅ Exact)
+- [[ISO/A.16.1|A.16.1]] (Exact)
 ## NICE Framework Work Roles
 
 - –

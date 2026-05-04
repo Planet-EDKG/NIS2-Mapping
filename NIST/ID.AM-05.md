@@ -31,7 +31,7 @@ Track the asset priorities and update them periodically or when significant chan
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.9|A.5.9]] (✅ Exact)
+- [[ISO/A.5.9|A.5.9]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

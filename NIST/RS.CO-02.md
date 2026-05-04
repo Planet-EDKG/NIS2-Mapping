@@ -31,7 +31,7 @@ Notify law enforcement agencies and regulatory bodies of incidents based on crit
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
+- [[ISO/A.16.1|A.16.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-006 Cybersecurity Legal Advice|OG-WRL-006 – Cybersecurity Legal Advice]]

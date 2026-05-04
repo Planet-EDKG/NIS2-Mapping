@@ -31,7 +31,7 @@ Review strategy in light of cybersecurity incidents
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.1|A.5.1]] (❓ Partial)
+- [[ISO/A.5.1|A.5.1]] (Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

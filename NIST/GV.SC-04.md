@@ -28,7 +28,7 @@ Keep a record of all suppliers, and prioritize suppliers based on the criticalit
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.1|A.15.1]] (⚠️ Related)
+- [[ISO/A.15.1|A.15.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

@@ -10,7 +10,7 @@ id: "A.7.4"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.PT-04|PR.PT-04]] (✅ Exact)
+- [[NIST/PR.PT-04|PR.PT-04]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9d §30 (2) Nr. 9|§30 (2) Nr. 9]]

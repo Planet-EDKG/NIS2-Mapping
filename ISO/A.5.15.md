@@ -10,8 +10,8 @@ id: "A.5.15"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/ID.AM-07|ID.AM-07]] (✅ Exact)
-- [[NIST/ID.AM-08|ID.AM-08]] (✅ Exact)
+- [[NIST/ID.AM-07|ID.AM-07]] (Exact)
+- [[NIST/ID.AM-08|ID.AM-08]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9b §30 (2) Nr. 9|§30 (2) Nr. 9]]

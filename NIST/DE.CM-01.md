@@ -37,7 +37,7 @@ Monitor network communications to identify changes in security postures for zero
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (✅ Exact)
+- [[ISO/A.12.4|A.12.4]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-007 Systems Testing and Evaluation|DD-WRL-007 – Systems Testing and Evaluation]]

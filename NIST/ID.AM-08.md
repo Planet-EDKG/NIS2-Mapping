@@ -49,7 +49,7 @@ Offer methods for destroying paper, storage media, and other physical forms of d
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.15|A.5.15]] (✅ Exact)
+- [[ISO/A.5.15|A.5.15]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

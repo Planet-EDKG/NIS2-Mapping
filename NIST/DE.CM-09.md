@@ -37,7 +37,7 @@ Use technologies with a presence on endpoints to detect cyber health issues (e.g
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
+- [[ISO/A.12.4|A.12.4]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-005 Software Security Assessment|DD-WRL-005 – Software Security Assessment]]

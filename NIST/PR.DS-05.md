@@ -24,7 +24,7 @@ category: "PR.DS"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.10.3|A.10.3]] (✅ Exact)
+- [[ISO/A.10.3|A.10.3]] (Exact)
 ## NICE Framework Work Roles
 
 - –

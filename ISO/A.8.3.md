@@ -10,7 +10,7 @@ id: "A.8.3"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.AC-01|PR.AC-01]] (⚠️ Related)
+- [[NIST/PR.AC-01|PR.AC-01]] (Related)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9c §30 (2) Nr. 9|§30 (2) Nr. 9]]

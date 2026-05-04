@@ -31,7 +31,7 @@ Refine organizational objectives and risk appetite periodically based on known r
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (❓ Partial)
+- [[ISO/A.12.6|A.12.6]] (Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-006 Systems Requirements Planning|DD-WRL-006 – Systems Requirements Planning]]

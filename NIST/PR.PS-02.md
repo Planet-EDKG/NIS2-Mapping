@@ -40,7 +40,7 @@ Define and implement plans for software and service end-of-life maintenance supp
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.2|A.6.2]] (✅ Exact)
+- [[ISO/A.6.2|A.6.2]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

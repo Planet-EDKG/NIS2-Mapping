@@ -34,7 +34,7 @@ Update policy to reflect changes in technology (e.g., adoption of artificial int
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.1|A.5.1]] (❓ Partial)
+- [[ISO/A.5.1|A.5.1]] (Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

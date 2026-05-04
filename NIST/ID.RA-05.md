@@ -28,7 +28,7 @@ Prioritize cybersecurity resource allocations and investments based on estimated
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (✅ Exact)
+- [[ISO/A.12.6|A.12.6]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-008 Technology Research and Development|DD-WRL-008 – Technology Research and Development]]

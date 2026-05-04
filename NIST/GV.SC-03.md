@@ -34,7 +34,7 @@ Escalate material cybersecurity risks in supply chains to senior management, and
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.1|A.15.1]] (⚠️ Related)
+- [[ISO/A.15.1|A.15.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

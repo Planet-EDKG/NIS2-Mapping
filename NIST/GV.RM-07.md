@@ -31,7 +31,7 @@ Calculate, document, and prioritize positive risks alongside negative risks
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (❓ Partial)
+- [[ISO/A.12.6|A.12.6]] (Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

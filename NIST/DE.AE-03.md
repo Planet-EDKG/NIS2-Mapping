@@ -31,7 +31,7 @@ Utilize cyber threat intelligence to help correlate events among log sources
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.10.3|A.10.3]] (✅ Exact)
+- [[ISO/A.10.3|A.10.3]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-001 Data Analysis|IO-WRL-001 – Data Analysis]]

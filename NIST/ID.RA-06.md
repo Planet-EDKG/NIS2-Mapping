@@ -37,7 +37,7 @@ Communicate planned risk responses to affected stakeholders in priority order
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (⚠️ Related)
+- [[ISO/A.12.6|A.12.6]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

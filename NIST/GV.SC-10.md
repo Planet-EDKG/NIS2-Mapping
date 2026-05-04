@@ -43,7 +43,7 @@ Manage data leakage risks associated with supplier termination
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.2|A.15.2]] (⚠️ Related)
+- [[ISO/A.15.2|A.15.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

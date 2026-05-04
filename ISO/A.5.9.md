@@ -10,11 +10,11 @@ id: "A.5.9"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/ID.AM-01|ID.AM-01]] (✅ Exact)
-- [[NIST/ID.AM-02|ID.AM-02]] (✅ Exact)
-- [[NIST/ID.AM-03|ID.AM-03]] (✅ Exact)
-- [[NIST/ID.AM-04|ID.AM-04]] (⚠️ Related)
-- [[NIST/ID.AM-05|ID.AM-05]] (✅ Exact)
+- [[NIST/ID.AM-01|ID.AM-01]] (Exact)
+- [[NIST/ID.AM-02|ID.AM-02]] (Exact)
+- [[NIST/ID.AM-03|ID.AM-03]] (Exact)
+- [[NIST/ID.AM-04|ID.AM-04]] (Related)
+- [[NIST/ID.AM-05|ID.AM-05]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9c §30 (2) Nr. 9|§30 (2) Nr. 9]]

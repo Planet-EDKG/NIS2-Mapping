@@ -37,8 +37,8 @@ Require personnel to acknowledge receipt of policy when first hired, annually, a
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.18.1|A.18.1]] (⚠️ Related)
-- [[ISO/A.5.1|A.5.1]] (❓ Partial)
+- [[ISO/A.18.1|A.18.1]] (Related)
+- [[ISO/A.5.1|A.5.1]] (Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

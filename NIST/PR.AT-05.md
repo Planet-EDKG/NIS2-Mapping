@@ -24,7 +24,7 @@ category: "PR.AT"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.3|A.6.3]] (⚠️ Related)
+- [[ISO/A.6.3|A.6.3]] (Related)
 ## NICE Framework Work Roles
 
 - –

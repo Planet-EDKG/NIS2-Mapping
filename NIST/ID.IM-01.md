@@ -31,7 +31,7 @@ Constantly evaluate compliance with selected cybersecurity requirements through 
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.8.33|A.8.33]] (✅ Exact)
+- [[ISO/A.8.33|A.8.33]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]

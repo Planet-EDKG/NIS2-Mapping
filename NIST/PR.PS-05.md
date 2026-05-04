@@ -34,7 +34,7 @@ Configure platforms to allow the installation of organization-approved software 
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.1|A.6.1]] (⚠️ Related)
+- [[ISO/A.6.1|A.6.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

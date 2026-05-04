@@ -37,7 +37,7 @@ Conduct collaborative lessons learned sessions with critical suppliers
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.2|A.15.2]] (⚠️ Related)
+- [[ISO/A.15.2|A.15.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-005 Systems Administration|IO-WRL-005 – Systems Administration]]

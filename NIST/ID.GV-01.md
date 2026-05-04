@@ -24,7 +24,7 @@ category: "ID.GV"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.1|A.5.1]] (✅ Exact)
+- [[ISO/A.5.1|A.5.1]] (Exact)
 ## NICE Framework Work Roles
 
 - –

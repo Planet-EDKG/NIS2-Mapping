@@ -31,7 +31,7 @@ Provide adequate and sufficient people, process, and technical resources to supp
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.18.1|A.18.1]] (⚠️ Related)
+- [[ISO/A.18.1|A.18.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

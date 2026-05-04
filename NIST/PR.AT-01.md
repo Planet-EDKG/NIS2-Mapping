@@ -37,7 +37,7 @@ Require annual refreshers to reinforce existing practices and introduce new prac
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.3|A.6.3]] (✅ Exact)
+- [[ISO/A.6.3|A.6.3]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-007 Technical Support|IO-WRL-007 – Technical Support]]

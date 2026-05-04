@@ -34,7 +34,7 @@ Maintain documentation of expected network ports, protocols, and services that a
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.9|A.5.9]] (✅ Exact)
+- [[ISO/A.5.9|A.5.9]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

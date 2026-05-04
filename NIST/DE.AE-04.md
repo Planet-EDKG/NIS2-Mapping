@@ -28,7 +28,7 @@ A person creates their own estimates of impact and scope
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
+- [[ISO/A.12.4|A.12.4]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]

@@ -10,13 +10,13 @@ id: "A.6.3"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.AA-06|PR.AA-06]] (✅ Exact)
-- [[NIST/PR.AT-01|PR.AT-01]] (✅ Exact)
-- [[NIST/PR.AT-02|PR.AT-02]] (✅ Exact)
-- [[NIST/PR.AT-03|PR.AT-03]] (⚠️ Related)
-- [[NIST/PR.AT-04|PR.AT-04]] (⚠️ Related)
-- [[NIST/PR.AT-05|PR.AT-05]] (⚠️ Related)
-- [[NIST/PR.PS-01|PR.PS-01]] (✅ Exact)
+- [[NIST/PR.AA-06|PR.AA-06]] (Exact)
+- [[NIST/PR.AT-01|PR.AT-01]] (Exact)
+- [[NIST/PR.AT-02|PR.AT-02]] (Exact)
+- [[NIST/PR.AT-03|PR.AT-03]] (Related)
+- [[NIST/PR.AT-04|PR.AT-04]] (Related)
+- [[NIST/PR.AT-05|PR.AT-05]] (Related)
+- [[NIST/PR.PS-01|PR.PS-01]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.7a §30 (2) Nr. 7|§30 (2) Nr. 7]]

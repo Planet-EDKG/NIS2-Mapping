@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Grundschutz/A.5.1.md",
+                "file": "DVO/4.1 Business continuity and disaster recovery plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A.5.1"
+              "title": "4.1 Business continuity and disaster recovery plan"
             }
           }
         ]
@@ -189,6 +189,23 @@
   },
   "active": "6e311d2278eaad3f",
   "lastOpenFiles": [
+    "fix_duplicates.py",
+    "restore_markers.py",
+    "remove_symbols_only.py",
+    "remove_symbols.py",
+    "NIST/ID.IM-02.md",
+    "docs/NIST-CSF-2-0.pdf",
+    "NICE/DD-WRL-007 Systems Testing and Evaluation.md",
+    "DVO/4.1 Business continuity and disaster recovery plan.md",
+    "NIS2/30.2.3a §30 (2) Nr. 3.md",
+    "ISO/A.5.29.md",
+    "ISO/A.5.4.md",
+    "IT-Grundschutz/A.5.4.md",
+    "NIS2/30.1.1 §30 (1) Satz 1.md",
+    "KdA/BSI-3,.md",
+    "docs/Umsetzungsgesetz.pdf",
+    "ISO/A.5.1.md",
+    "IT-Grundschutz/A.5.1.md",
     "CyFun/RS.MI-1.1.md",
     "populate_mapping_to.py",
     "add_nist_iso_mapping.py",
@@ -205,25 +222,8 @@
     "CyFun/RS.CO-1.1.md",
     "CyFun/RS.CO-02.1.md",
     "CyFun/RS.AN-3.2.md",
-    "CyFun/RS.AN-2.2.md",
-    "CyFun/RS.AN-2.1.md",
-    "CyFun/RC.RP-1.2.md",
-    "CyFun/RC.RP-01.1.md",
-    "CyFun/RC.IM-1.1.md",
-    "CyFun/RC.CO-2.1.md",
-    "CyFun/PR.PT-4.3.md",
-    "CyFun/PR.PT-3.3.md",
-    "CyFun/PR.PT-2.3.md",
-    "CyFun/PR.PT-2.2.md",
-    "CyFun/PR.PT-2.1.md",
-    "CyFun/PR.PT-1.4.md",
     "add_dvo_cyfun_mapping.py",
     "add_itg_iso_mappings.py",
-    "add_itg_nis2_mapping.py",
-    "add_reverse_nist_nice.py",
-    "add_frontmatter.py",
-    "test.py",
-    "IT-Grundschutz",
-    "IT-Grundschutz-Mapping"
+    "add_itg_nis2_mapping.py"
   ]
 }

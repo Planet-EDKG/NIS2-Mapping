@@ -37,7 +37,7 @@ Policies and procedure require checking upgrades to critical hardware for unauth
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.2|A.15.2]] (⚠️ Related)
+- [[ISO/A.15.2|A.15.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

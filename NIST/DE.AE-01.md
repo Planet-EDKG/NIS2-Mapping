@@ -24,8 +24,8 @@ category: "DE.AE"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.10.3|A.10.3]] (⚠️ Related)
-- [[ISO/A.12.4|A.12.4]] (✅ Exact)
+- [[ISO/A.10.3|A.10.3]] (Related)
+- [[ISO/A.12.4|A.12.4]] (Exact)
 ## NICE Framework Work Roles
 
 - –

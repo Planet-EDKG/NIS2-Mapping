@@ -28,7 +28,7 @@ Explain the steps being taken to recover from the incident and to prevent a recu
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.17.2|A.17.2]] (✅ Exact)
+- [[ISO/A.17.2|A.17.2]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-006 Cybersecurity Legal Advice|OG-WRL-006 – Cybersecurity Legal Advice]]

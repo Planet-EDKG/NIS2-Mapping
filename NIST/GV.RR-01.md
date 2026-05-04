@@ -34,7 +34,7 @@ Conduct reviews to ensure adequate authority and coordination among those respon
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.18.1|A.18.1]] (✅ Exact)
+- [[ISO/A.18.1|A.18.1]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

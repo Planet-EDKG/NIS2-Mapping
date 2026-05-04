@@ -28,8 +28,8 @@ Constantly monitor networks to detect new hardware and automatically update inve
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.9|A.5.9]] (✅ Exact)
-- [[ISO/A.8.1|A.8.1]] (⚠️ Related)
+- [[ISO/A.5.9|A.5.9]] (Exact)
+- [[ISO/A.8.1|A.8.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

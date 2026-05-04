@@ -34,7 +34,7 @@ Ensure that authorized personnel can access accounts essential for protecting sa
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.2|A.6.2]] (✅ Exact)
+- [[ISO/A.6.2|A.6.2]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

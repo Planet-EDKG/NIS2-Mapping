@@ -24,7 +24,7 @@ category: "ID.AM"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.8.1|A.8.1]] (✅ Exact)
+- [[ISO/A.8.1|A.8.1]] (Exact)
 ## NICE Framework Work Roles
 
 - –

@@ -25,7 +25,7 @@ Collect, preserve, and safeguard the integrity of all pertinent incident data an
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
+- [[ISO/A.16.1|A.16.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-001 Data Analysis|IO-WRL-001 – Data Analysis]]

@@ -10,7 +10,7 @@ id: "A.8.30"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.IP-03|PR.IP-03]] (✅ Exact)
+- [[NIST/PR.IP-03|PR.IP-03]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.5a §30 (2) Nr. 5|§30 (2) Nr. 5]]

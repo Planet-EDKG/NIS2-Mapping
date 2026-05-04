@@ -24,7 +24,7 @@ category: "PR.MA"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.11.2|A.11.2]] (✅ Exact)
+- [[ISO/A.11.2|A.11.2]] (Exact)
 ## NICE Framework Work Roles
 
 - –

@@ -34,7 +34,7 @@ Use log analysis tools to generate reports on their findings
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.4|A.12.4]] (✅ Exact)
+- [[ISO/A.12.4|A.12.4]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-008 Technology Research and Development|DD-WRL-008 – Technology Research and Development]]

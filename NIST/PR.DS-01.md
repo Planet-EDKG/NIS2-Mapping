@@ -37,8 +37,8 @@ Physically secure removable media containing unencrypted sensitive information, 
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.10.1|A.10.1]] (✅ Exact)
-- [[ISO/A.10.2|A.10.2]] (⚠️ Related)
+- [[ISO/A.10.1|A.10.1]] (Exact)
+- [[ISO/A.10.2|A.10.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-003 Secure Software Development|DD-WRL-003 – Secure Software Development]]

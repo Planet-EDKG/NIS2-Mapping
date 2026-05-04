@@ -10,7 +10,7 @@ id: "A.7.3"
 
 ## Referenziert von NIST CSF 2.0
 
-- [[NIST/PR.PT-03|PR.PT-03]] (✅ Exact)
+- [[NIST/PR.PT-03|PR.PT-03]] (Exact)
 ## Referenziert von NIS2-Paragraphen
 
 - [[NIS2/30.2.9d §30 (2) Nr. 9|§30 (2) Nr. 9]]

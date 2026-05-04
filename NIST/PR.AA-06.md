@@ -31,7 +31,7 @@ Escort guests, vendors, and other third parties within areas that contain busine
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.3|A.6.3]] (✅ Exact)
+- [[ISO/A.6.3|A.6.3]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

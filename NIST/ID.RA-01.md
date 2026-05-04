@@ -40,8 +40,8 @@ Review processes and procedures for weaknesses that could be exploited to affect
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.12.6|A.12.6]] (✅ Exact)
-- [[ISO/A.12.7|A.12.7]] (⚠️ Related)
+- [[ISO/A.12.6|A.12.6]] (Exact)
+- [[ISO/A.12.7|A.12.7]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-005 Software Security Assessment|DD-WRL-005 – Software Security Assessment]]

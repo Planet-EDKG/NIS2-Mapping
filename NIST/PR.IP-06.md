@@ -24,7 +24,7 @@ category: "PR.IP"
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.8.32|A.8.32]] (✅ Exact)
+- [[ISO/A.8.32|A.8.32]] (Exact)
 ## NICE Framework Work Roles
 
 - –

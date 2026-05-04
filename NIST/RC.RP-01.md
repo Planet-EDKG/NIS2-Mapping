@@ -28,7 +28,7 @@ Make all individuals with recovery responsibilities aware of the plans for recov
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.17.1|A.17.1]] (✅ Exact)
+- [[ISO/A.17.1|A.17.1]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

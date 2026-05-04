@@ -28,7 +28,7 @@ Update the inventory when a new external service is going to be utilized to ensu
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.5.9|A.5.9]] (⚠️ Related)
+- [[ISO/A.5.9|A.5.9]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

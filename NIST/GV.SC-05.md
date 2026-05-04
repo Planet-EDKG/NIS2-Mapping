@@ -52,7 +52,7 @@ Specify in contracts and other agreements the rights and responsibilities of the
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.1|A.15.1]] (⚠️ Related)
+- [[ISO/A.15.1|A.15.1]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

@@ -34,7 +34,7 @@ Prevent reuse of sensitive data from production environments (e.g., customer rec
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.8.33|A.8.33]] (✅ Exact)
+- [[ISO/A.8.33|A.8.33]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-003 Secure Software Development|DD-WRL-003 – Secure Software Development]]

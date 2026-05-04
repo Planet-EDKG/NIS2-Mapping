@@ -31,7 +31,7 @@ Perform hardware disposal in a secure, responsible, and auditable manner
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.6.2|A.6.2]] (⚠️ Related)
+- [[ISO/A.6.2|A.6.2]] (Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

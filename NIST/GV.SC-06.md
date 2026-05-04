@@ -34,7 +34,7 @@ Assess the authenticity, integrity, and security of critical products prior to a
 
 ## ISO/IEC 27001:2022
 
-- [[ISO/A.15.2|A.15.2]] (✅ Exact)
+- [[ISO/A.15.2|A.15.2]] (Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]
