@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "6.6 Security patch management"]
 id: "ID.AM-08.2"
 tier: "BASIC"
 ---

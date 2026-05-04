@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0"]
 id: "NF-COM-007"
 opm: ""
 category: "Competency Area"

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.17.1"]
 id: "RC.CO-02"
 function: "RC"
 category: "RC.CO"
@@ -22,6 +22,9 @@ category: "RC.CO"
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.17.1|A.17.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - –

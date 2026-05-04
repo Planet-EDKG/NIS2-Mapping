@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "3.4 Event assessment and classification"]
 id: "PR.PT-1.4"
 tier: "ESSENTIAL"
 ---

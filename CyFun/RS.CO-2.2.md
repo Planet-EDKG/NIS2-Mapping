@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "3.3 Event reporting", "3.5 Incident response", "4.3 Crisis management"]
 id: "RS.CO-2.2"
 tier: "ESSENTIAL"
 ---

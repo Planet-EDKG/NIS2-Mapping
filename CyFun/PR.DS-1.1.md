@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "11.1 Access control policy", "11.2 Management of access rights", "12.3 Removable media policy", "13.3 Perimeter and physical access control", "6.3 Configuration management"]
 id: "PR.DS-1.1"
 tier: "ESSENTIAL"
 ---

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.8.1"]
 id: "ID.AM-06"
 function: "ID"
 category: "ID.AM"
@@ -22,6 +22,9 @@ category: "ID.AM"
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.8.1|A.8.1]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - –

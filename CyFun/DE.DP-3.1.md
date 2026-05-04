@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "13.1 Supporting utilities", "13.2 Protection against physical and environmental threats", "2.2 Compliance monitoring", "3.4 Event assessment and classification", "7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures"]
 id: "DE.DP-3.1"
 tier: "IMPORTANT"
 ---

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.6", "DD-WRL-006 Systems Requirements Planning", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-003 Cybersecurity Workforce Management", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-008 Privacy Compliance", "OG-WRL-009 Product Support Management", "OG-WRL-010 Program Management", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "OG-WRL-015 Technology Portfolio Management"]
 id: "GV.RM-05"
 function: "GV"
 category: "GV.RM"
@@ -26,6 +26,9 @@ Identify how all departments across the organization - such as management, opera
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.6|A.12.6]] (❓ Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-006 Systems Requirements Planning|DD-WRL-006 – Systems Requirements Planning]]

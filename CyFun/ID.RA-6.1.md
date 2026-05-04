@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers"]
 id: "ID.RA-6.1"
 tier: "IMPORTANT"
 ---

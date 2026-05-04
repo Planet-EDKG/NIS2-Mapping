@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "6.2 Secure development life cycle", "6.5 Security testing", "6.8 Network segmentation"]
 id: "PR.DS-7.1"
 tier: "ESSENTIAL"
 ---

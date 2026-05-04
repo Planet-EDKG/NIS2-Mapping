@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-02", "DE.AE-06", "DE.CM-03", "RS.MA-02"]
 id: "PD-WRL-005"
 opm: "TBD"
 category: "PROTECTION and DEFENSE"

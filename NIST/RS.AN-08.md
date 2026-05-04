@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-001 Data Analysis", "IO-WRL-003 Knowledge Management", "IO-WRL-006 Systems Security Analysis", "OG-WRL-012 Security Control Assessment", "PD-WRL-003 Incident Response", "PD-WRL-004 Infrastructure Support"]
 id: "RS.AN-08"
 function: "RS"
 category: "RS.AN"
@@ -26,6 +26,9 @@ Automatically run tools on targets to look for indicators of compromise and evid
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-001 Data Analysis|IO-WRL-001 – Data Analysis]]

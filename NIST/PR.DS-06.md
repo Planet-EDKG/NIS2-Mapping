@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.13.1", "A.13.2"]
 id: "PR.DS-06"
 function: "PR"
 category: "PR.DS"
@@ -22,6 +22,10 @@ category: "PR.DS"
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.13.1|A.13.1]] (✅ Exact)
+- [[ISO/A.13.2|A.13.2]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - –

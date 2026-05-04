@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "6.4 Change management, repairs and maintenance", "6.6 Security patch management"]
 id: "PR.MA-1.2"
 tier: "IMPORTANT"
 ---

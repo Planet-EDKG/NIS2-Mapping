@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-005 Systems Administration", "IO-WRL-006 Systems Security Analysis", "IO-WRL-007 Technical Support", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-002 Digital Forensics", "PD-WRL-003 Incident Response", "PD-WRL-005 Insider Threat Analysis"]
 id: "RS.MA-02"
 function: "RS"
 category: "RS.MA"
@@ -26,6 +26,9 @@ Apply criteria to estimate the severity of an incident
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-005 Systems Administration|IO-WRL-005 – Systems Administration]]

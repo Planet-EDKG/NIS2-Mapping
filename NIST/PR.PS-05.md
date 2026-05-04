@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.1", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-001 Communications Security (COMSEC) Management", "OG-WRL-013 Systems Authorization", "PD-WRL-004 Infrastructure Support", "PD-WRL-007 Vulnerability Analysis"]
 id: "PR.PS-05"
 function: "PR"
 category: "PR.PS"
@@ -32,6 +32,9 @@ Configure platforms to allow the installation of organization-approved software 
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.1|A.6.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

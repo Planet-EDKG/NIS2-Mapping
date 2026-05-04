@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.8.33", "DD-WRL-004 Secure Systems Development", "DD-WRL-006 Systems Requirements Planning", "DD-WRL-007 Systems Testing and Evaluation", "DD-WRL-008 Technology Research and Development", "OG-WRL-016 Technology Program Auditing", "PD-WRL-003 Incident Response"]
 id: "ID.IM-01"
 function: "ID"
 category: "ID.IM"
@@ -29,6 +29,9 @@ Constantly evaluate compliance with selected cybersecurity requirements through 
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.8.33|A.8.33]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-004 Secure Systems Development|DD-WRL-004 – Secure Systems Development]]

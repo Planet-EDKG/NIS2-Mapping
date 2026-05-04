@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.3", "IO-WRL-007 Technical Support", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-003 Cybersecurity Workforce Management", "OG-WRL-004 Cybersecurity Curriculum Development", "OG-WRL-005 Cybersecurity Instruction"]
 id: "PR.AT-02"
 function: "PR"
 category: "PR.AT"
@@ -32,6 +32,9 @@ Require annual refreshers to reinforce existing practices and introduce new prac
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.3|A.6.3]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-007 Technical Support|IO-WRL-007 – Technical Support]]

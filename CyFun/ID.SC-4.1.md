@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "2.2 Compliance monitoring", "5.2 Directory of suppliers and service providers", "6.1 Security in acquisition of ICT services, ICT systems or ICT products", "6.5 Security testing"]
 id: "ID.SC-4.1"
 tier: "IMPORTANT"
 ---

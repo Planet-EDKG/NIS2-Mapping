@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.4", "IO-WRL-006 Systems Security Analysis", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-003 Incident Response", "PD-WRL-006 Threat Analysis"]
 id: "DE.AE-08"
 function: "DE"
 category: "DE.AE"
@@ -26,6 +26,9 @@ Take known false positives into account when applying incident criteria
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

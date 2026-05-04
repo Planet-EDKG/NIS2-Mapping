@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.5.9", "DD-WRL-002 Enterprise Architecture", "IO-WRL-002 Database Administration", "IO-WRL-003 Knowledge Management", "IO-WRL-004 Network Operations", "IO-WRL-005 Systems Administration", "OG-WRL-011 Secure Project Management", "OG-WRL-015 Technology Portfolio Management"]
 id: "ID.AM-04"
 function: "ID"
 category: "ID.AM"
@@ -26,6 +26,9 @@ Update the inventory when a new external service is going to be utilized to ensu
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.5.9|A.5.9]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.10.1", "A.10.2", "DD-WRL-003 Secure Software Development", "DD-WRL-004 Secure Systems Development", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-002 Database Administration", "IO-WRL-005 Systems Administration", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity"]
 id: "PR.DS-01"
 function: "PR"
 category: "PR.DS"
@@ -35,6 +35,10 @@ Physically secure removable media containing unencrypted sensitive information, 
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.10.1|A.10.1]] (✅ Exact)
+- [[ISO/A.10.2|A.10.2]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-003 Secure Software Development|DD-WRL-003 – Secure Software Development]]

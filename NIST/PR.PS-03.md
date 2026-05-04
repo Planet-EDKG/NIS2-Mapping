@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.2", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-013 Systems Authorization", "PD-WRL-004 Infrastructure Support"]
 id: "PR.PS-03"
 function: "PR"
 category: "PR.PS"
@@ -29,6 +29,9 @@ Perform hardware disposal in a secure, responsible, and auditable manner
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.2|A.6.2]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

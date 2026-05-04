@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "IO-WRL-006 Systems Security Analysis", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-007 Vulnerability Analysis"]
 id: "ID.RA-08"
 function: "ID"
 category: "ID.RA"

@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "13.1 Supporting utilities", "5.1 Supply chain security policy"]
 id: "ID.BE-1.1"
 tier: "IMPORTANT"
 ---

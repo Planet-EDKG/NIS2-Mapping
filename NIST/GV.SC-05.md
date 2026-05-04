@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.15.1", "IO-WRL-003 Knowledge Management", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-009 Product Support Management", "OG-WRL-012 Security Control Assessment", "OG-WRL-015 Technology Portfolio Management", "OG-WRL-016 Technology Program Auditing"]
 id: "GV.SC-05"
 function: "GV"
 category: "GV.SC"
@@ -50,6 +50,9 @@ Specify in contracts and other agreements the rights and responsibilities of the
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.15.1|A.15.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

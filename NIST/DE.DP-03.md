@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0"]
 id: "DE.DP-03"
 function: "DE"
 category: "DE.DP"

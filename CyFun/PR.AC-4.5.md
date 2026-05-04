@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "11.5 Identification", "3.2 Monitoring and logging"]
 id: "PR.AC-4.5"
 tier: "IMPORTANT"
 ---

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.4", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-005 Insider Threat Analysis", "PD-WRL-006 Threat Analysis", "PD-WRL-007 Vulnerability Analysis"]
 id: "DE.AE-06"
 function: "DE"
 category: "DE.AE"
@@ -32,6 +32,9 @@ Manually create and assign tickets in the organization's ticketing system when t
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

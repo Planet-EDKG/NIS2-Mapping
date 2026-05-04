@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.4", "DD-WRL-005 Software Security Assessment", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-006 Systems Security Analysis", "OG-WRL-016 Technology Program Auditing", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-004 Infrastructure Support"]
 id: "DE.CM-09"
 function: "DE"
 category: "DE.CM"
@@ -35,6 +35,9 @@ Use technologies with a presence on endpoints to detect cyber health issues (e.g
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.4|A.12.4]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-005 Software Security Assessment|DD-WRL-005 – Software Security Assessment]]

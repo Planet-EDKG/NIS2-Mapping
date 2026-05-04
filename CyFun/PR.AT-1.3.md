@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "8.1 Awareness raising and basic cyber hygiene practices", "8.2 Security training"]
 id: "PR.AT-1.3"
 tier: "ESSENTIAL"
 ---

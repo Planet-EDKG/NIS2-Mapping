@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.6", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-015 Technology Portfolio Management"]
 id: "GV.RM-07"
 function: "GV"
 category: "GV.RM"
@@ -29,6 +29,9 @@ Calculate, document, and prioritize positive risks alongside negative risks
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.6|A.12.6]] (❓ Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

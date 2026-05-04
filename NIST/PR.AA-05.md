@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.2", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-004 Secure Systems Development", "IO-WRL-003 Knowledge Management", "IO-WRL-005 Systems Administration", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-004 Infrastructure Support"]
 id: "PR.AA-05"
 function: "PR"
 category: "PR.AA"
@@ -32,6 +32,9 @@ Periodically review the privileges associated with critical business functions t
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.2|A.6.2]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

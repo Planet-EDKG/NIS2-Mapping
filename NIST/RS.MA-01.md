@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-003 Incident Response", "PD-WRL-004 Infrastructure Support"]
 id: "RS.MA-01"
 function: "RS"
 category: "RS.MA"
@@ -32,6 +32,9 @@ Initiate execution of additional cybersecurity plans as needed to support incide
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.16.1|A.16.1]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-005 Systems Administration|IO-WRL-005 – Systems Administration]]

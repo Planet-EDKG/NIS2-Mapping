@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.1", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "DD-WRL-003 Secure Software Development", "DD-WRL-005 Software Security Assessment", "DD-WRL-008 Technology Research and Development", "IO-WRL-005 Systems Administration", "OG-WRL-016 Technology Program Auditing", "PD-WRL-004 Infrastructure Support"]
 id: "PR.PS-06"
 function: "PR"
 category: "PR.PS"
@@ -29,6 +29,9 @@ Maintain the software used in production environments, and securely dispose of s
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.1|A.6.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

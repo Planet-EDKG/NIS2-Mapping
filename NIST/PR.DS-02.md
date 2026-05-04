@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.8.33", "DD-WRL-003 Secure Software Development", "DD-WRL-004 Secure Systems Development", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-002 Database Administration", "IO-WRL-004 Network Operations", "IO-WRL-005 Systems Administration", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity"]
 id: "PR.DS-02"
 function: "PR"
 category: "PR.DS"
@@ -32,6 +32,9 @@ Prevent reuse of sensitive data from production environments (e.g., customer rec
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.8.33|A.8.33]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-003 Secure Software Development|DD-WRL-003 – Secure Software Development]]

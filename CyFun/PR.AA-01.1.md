@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "10.1 Human resources security", "11.2 Management of access rights", "11.3 Privileged accounts and system administration accounts", "11.5 Identification"]
 id: "PR.AA-01.1"
 tier: "BASIC"
 ---

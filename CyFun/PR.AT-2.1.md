@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "1.2 Roles, responsibilities and authorities", "11.3 Privileged accounts and system administration accounts"]
 id: "PR.AT-2.1"
 tier: "IMPORTANT"
 ---

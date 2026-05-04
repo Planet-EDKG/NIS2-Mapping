@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.6", "IO-WRL-006 Systems Security Analysis", "OG-WRL-010 Program Management", "OG-WRL-011 Secure Project Management", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-006 Threat Analysis", "PD-WRL-007 Vulnerability Analysis"]
 id: "ID.RA-06"
 function: "ID"
 category: "ID.RA"
@@ -35,6 +35,9 @@ Communicate planned risk responses to affected stakeholders in priority order
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.6|A.12.6]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

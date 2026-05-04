@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.6", "DD-WRL-002 Enterprise Architecture", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-006 Cybersecurity Legal Advice", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-008 Privacy Compliance", "OG-WRL-010 Program Management", "OG-WRL-011 Secure Project Management", "OG-WRL-015 Technology Portfolio Management"]
 id: "GV.RM-03"
 function: "GV"
 category: "GV.RM"
@@ -29,6 +29,9 @@ Establish criteria for escalating cybersecurity risks within enterprise risk man
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.6|A.12.6]] (❓ Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

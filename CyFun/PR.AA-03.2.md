@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "11.6 Authentication", "11.7 Multi-factor authentication", "6.7 Network security"]
 id: "PR.AA-03.2"
 tier: "BASIC"
 ---

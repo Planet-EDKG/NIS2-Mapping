@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0", "ID.AM-08", "ID.IM-03", "PR.DS-01", "PR.DS-02", "PR.DS-10", "PR.PS-06"]
 id: "DD-WRL-003"
 opm: "621"
 category: "DESIGN and DEVELOPMENT"

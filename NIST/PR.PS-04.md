@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.1", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "IO-WRL-003 Knowledge Management", "IO-WRL-005 Systems Administration", "OG-WRL-013 Systems Authorization", "PD-WRL-004 Infrastructure Support"]
 id: "PR.PS-04"
 function: "PR"
 category: "PR.PS"
@@ -29,6 +29,9 @@ Configure log generators to record the data needed by zero-trust architectures
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.1|A.6.1]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

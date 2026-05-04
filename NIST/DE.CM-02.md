@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.4", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-005 Systems Administration", "IO-WRL-006 Systems Security Analysis", "OG-WRL-016 Technology Program Auditing", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-004 Infrastructure Support"]
 id: "DE.CM-02"
 function: "DE"
 category: "DE.CM"
@@ -32,6 +32,9 @@ Monitor the physical environment using alarm systems, cameras, and security guar
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.4|A.12.4]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-007 Systems Testing and Evaluation|DD-WRL-007 – Systems Testing and Evaluation]]

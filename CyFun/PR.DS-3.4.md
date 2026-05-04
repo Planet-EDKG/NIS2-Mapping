@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "12.3 Removable media policy"]
 id: "PR.DS-3.4"
 tier: "ESSENTIAL"
 ---

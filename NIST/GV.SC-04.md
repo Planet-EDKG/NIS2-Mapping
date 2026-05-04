@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.15.1", "IO-WRL-003 Knowledge Management", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-009 Product Support Management", "OG-WRL-015 Technology Portfolio Management", "OG-WRL-016 Technology Program Auditing"]
 id: "GV.SC-04"
 function: "GV"
 category: "GV.SC"
@@ -26,6 +26,9 @@ Keep a record of all suppliers, and prioritize suppliers based on the criticalit
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.15.1|A.15.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-003 Knowledge Management|IO-WRL-003 – Knowledge Management]]

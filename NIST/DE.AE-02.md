@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.4", "DD-WRL-008 Technology Research and Development", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-005 Insider Threat Analysis", "PD-WRL-006 Threat Analysis", "PD-WRL-007 Vulnerability Analysis"]
 id: "DE.AE-02"
 function: "DE"
 category: "DE.AE"
@@ -32,6 +32,9 @@ Use log analysis tools to generate reports on their findings
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.4|A.12.4]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-008 Technology Research and Development|DD-WRL-008 – Technology Research and Development]]

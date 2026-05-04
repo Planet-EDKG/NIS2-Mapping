@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "4.3 Crisis management", "7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures"]
 id: "PR.IP-8.1"
 tier: "IMPORTANT"
 ---

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "DD-WRL-001 Cybersecurity Architecture", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-014 Systems Security Management", "PD-WRL-003 Incident Response", "PD-WRL-004 Infrastructure Support"]
 id: "RS.MI-01"
 function: "RS"
 category: "RS.MI"

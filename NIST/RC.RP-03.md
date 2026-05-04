@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.17.1", "DD-WRL-002 Enterprise Architecture", "IO-WRL-002 Database Administration", "IO-WRL-005 Systems Administration", "OG-WRL-014 Systems Security Management", "OG-WRL-015 Technology Portfolio Management", "PD-WRL-003 Incident Response"]
 id: "RC.RP-03"
 function: "RC"
 category: "RC.RP"
@@ -23,6 +23,9 @@ Check restoration assets for indicators of compromise, file corruption, and othe
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.17.1|A.17.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

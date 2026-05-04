@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0", "DE.CM-01", "DE.CM-02", "DE.CM-03", "DE.CM-06", "DE.CM-09", "GV.OV-01", "GV.SC-01", "GV.SC-02", "GV.SC-03", "GV.SC-04", "GV.SC-05", "GV.SC-06", "GV.SC-07", "GV.SC-08", "GV.SC-09", "GV.SC-10", "ID.IM-01", "ID.IM-02", "ID.IM-03", "ID.IM-04", "ID.RA-10", "PR.PS-06"]
 id: "OG-WRL-016"
 opm: "805"
 category: "OVERSIGHT and GOVERNANCE"

@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0"]
 id: "IN-WRL-001"
 opm: "221"
 category: "INVESTIGATION"

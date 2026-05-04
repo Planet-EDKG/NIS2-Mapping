@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.6.1", "A.6.2", "DD-WRL-001 Cybersecurity Architecture", "IO-WRL-003 Knowledge Management", "IO-WRL-005 Systems Administration", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-004 Infrastructure Support"]
 id: "PR.AA-01"
 function: "PR"
 category: "PR.AA"
@@ -32,6 +32,10 @@ Physically label authorized hardware with an identifier for inventory and servic
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.6.1|A.6.1]] (✅ Exact)
+- [[ISO/A.6.2|A.6.2]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

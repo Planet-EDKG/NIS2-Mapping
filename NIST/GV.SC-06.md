@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.15.2", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-006 Cybersecurity Legal Advice", "OG-WRL-009 Product Support Management", "OG-WRL-012 Security Control Assessment", "OG-WRL-015 Technology Portfolio Management", "OG-WRL-016 Technology Program Auditing"]
 id: "GV.SC-06"
 function: "GV"
 category: "GV.SC"
@@ -32,6 +32,9 @@ Assess the authenticity, integrity, and security of critical products prior to a
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.15.2|A.15.2]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

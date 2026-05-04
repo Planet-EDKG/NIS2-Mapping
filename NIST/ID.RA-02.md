@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.12.6", "IO-WRL-006 Systems Security Analysis", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-006 Threat Analysis", "PD-WRL-007 Vulnerability Analysis"]
 id: "ID.RA-02"
 function: "ID"
 category: "ID.RA"
@@ -29,6 +29,9 @@ Monitor sources of cyber threat intelligence for information on the types of vul
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.12.6|A.12.6]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-006 Systems Security Analysis|IO-WRL-006 – Systems Security Analysis]]

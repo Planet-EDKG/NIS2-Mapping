@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.18.1", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-003 Cybersecurity Workforce Management", "OG-WRL-010 Program Management"]
 id: "GV.RR-04"
 function: "GV"
 category: "GV.RR"
@@ -32,6 +32,9 @@ Define and enforce obligations for personnel to be aware of, adhere to, and upho
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.18.1|A.18.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

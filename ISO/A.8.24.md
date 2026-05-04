@@ -2,7 +2,7 @@
 tags: [ISO]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 ISO 27001-2022", "30.2.10a §30 (2) Nr. 10", "30.2.8 §30 (2) Nr. 8"]
 id: "A.8.24"
 ---
 

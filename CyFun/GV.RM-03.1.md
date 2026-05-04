@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers", "6.1 Security in acquisition of ICT services, ICT systems or ICT products"]
 id: "GV.RM-03.1"
 tier: "BASIC"
 ---

@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "4.2 Backup management", "9.1 Cryptography"]
 id: "PR.DS-8.1"
 tier: "ESSENTIAL"
 ---

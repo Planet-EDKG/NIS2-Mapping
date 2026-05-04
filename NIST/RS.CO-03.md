@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.16.1", "OG-WRL-006 Cybersecurity Legal Advice", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-008 Privacy Compliance", "OG-WRL-010 Program Management", "OG-WRL-015 Technology Portfolio Management", "PD-WRL-003 Incident Response"]
 id: "RS.CO-03"
 function: "RS"
 category: "RS.CO"
@@ -38,6 +38,9 @@ Coordinate crisis communication methods between the organization and its critica
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-006 Cybersecurity Legal Advice|OG-WRL-006 – Cybersecurity Legal Advice]]

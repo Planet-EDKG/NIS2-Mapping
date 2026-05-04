@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.5.1", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-006 Cybersecurity Legal Advice", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "OG-WRL-014 Systems Security Management"]
 id: "GV.OC-04"
 function: "GV"
 category: "GV.OC"
@@ -29,6 +29,9 @@ Establish and communicate resilience objectives (e.g., recovery time objectives)
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.5.1|A.5.1]] (❓ Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

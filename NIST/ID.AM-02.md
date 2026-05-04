@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.5.9", "DD-WRL-002 Enterprise Architecture", "DD-WRL-005 Software Security Assessment", "DD-WRL-009 Operational Technology (OT) Cybersecurity Engineering", "IO-WRL-002 Database Administration", "IO-WRL-003 Knowledge Management", "IO-WRL-004 Network Operations", "IO-WRL-005 Systems Administration", "OG-WRL-015 Technology Portfolio Management"]
 id: "ID.AM-02"
 function: "ID"
 category: "ID.AM"
@@ -29,6 +29,9 @@ Maintain an inventory of the organization's systems
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.5.9|A.5.9]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-002 Enterprise Architecture|DD-WRL-002 – Enterprise Architecture]]

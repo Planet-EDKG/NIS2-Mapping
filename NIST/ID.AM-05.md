@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.5.9", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "IO-WRL-002 Database Administration", "IO-WRL-003 Knowledge Management", "IO-WRL-004 Network Operations", "IO-WRL-005 Systems Administration", "OG-WRL-011 Secure Project Management", "OG-WRL-015 Technology Portfolio Management"]
 id: "ID.AM-05"
 function: "ID"
 category: "ID.AM"
@@ -29,6 +29,9 @@ Track the asset priorities and update them periodically or when significant chan
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.5.9|A.5.9]] (✅ Exact)
 ## NICE Framework Work Roles
 
 - [[NICE/DD-WRL-001 Cybersecurity Architecture|DD-WRL-001 – Cybersecurity Architecture]]

@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "12.4 Asset inventory", "6.4 Change management, repairs and maintenance", "6.9 Protection against malicious and unauthorised software"]
 id: "ID.AM-02.1"
 tier: "BASIC"
 ---

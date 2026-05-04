@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.5.1", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-003 Cybersecurity Workforce Management", "OG-WRL-007 Executive Cybersecurity Leadership"]
 id: "GV.OV-03"
 function: "GV"
 category: "GV.OV"
@@ -29,6 +29,9 @@ Collect and communicate metrics on cybersecurity risk management with senior lea
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.5.1|A.5.1]] (❓ Partial)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

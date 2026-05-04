@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.15.2", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-009 Product Support Management", "OG-WRL-012 Security Control Assessment", "OG-WRL-015 Technology Portfolio Management", "OG-WRL-016 Technology Program Auditing"]
 id: "GV.SC-07"
 function: "GV"
 category: "GV.SC"
@@ -35,6 +35,9 @@ Plan for unexpected supplier and supply chain-related interruptions to ensure bu
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.15.2|A.15.2]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/OG-WRL-002 Cybersecurity Policy and Planning|OG-WRL-002 – Cybersecurity Policy and Planning]]

@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "OG-WRL-015 Technology Portfolio Management", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-003 Incident Response"]
 id: "RS.MA-05"
 function: "RS"
 category: "RS.MA"
@@ -26,6 +26,9 @@ Take the possible operational disruption of incident recovery activities into ac
 
 ---
 
+## ISO/IEC 27001:2022
+
+- [[ISO/A.16.1|A.16.1]] (⚠️ Related)
 ## NICE Framework Work Roles
 
 - [[NICE/IO-WRL-005 Systems Administration|IO-WRL-005 – Systems Administration]]

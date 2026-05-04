@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "13.1 Supporting utilities", "13.2 Protection against physical and environmental threats", "3.6 Post-incident reviews", "6.4 Change management, repairs and maintenance"]
 id: "RS.IM-2.1"
 tier: "IMPORTANT"
 ---

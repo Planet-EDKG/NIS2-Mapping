@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "1.1 Policy on the security of network and information systems", "1.2 Roles, responsibilities and authorities"]
 id: "PR.AT-4.1"
 tier: "IMPORTANT"
 ---

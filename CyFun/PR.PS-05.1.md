@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "6.9 Protection against malicious and unauthorised software"]
 id: "PR.PS-05.1"
 tier: "BASIC"
 ---

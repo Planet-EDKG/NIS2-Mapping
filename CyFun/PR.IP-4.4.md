@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "4.1 Business continuity and disaster recovery plan", "4.2 Backup management", "4.3 Crisis management"]
 id: "PR.IP-4.4"
 tier: "ESSENTIAL"
 ---

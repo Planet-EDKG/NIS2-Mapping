@@ -2,7 +2,7 @@
 tags: [ISO]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 ISO 27001-2022", "30.2.1b §30 (2) Nr. 1", "A.5.3"]
 id: "A.5.3"
 ---
 
@@ -12,6 +12,9 @@ id: "A.5.3"
 
 - [[NIS2/30.2.1b §30 (2) Nr. 1|§30 (2) Nr. 1]]
 
+## Bezug zu IT-Grundschutz
+
+- [[IT-Grundschutz/A.5.3|A.5.3]]
 ## Übergeordnet
 
 [[ISO/000 ISO 27001-2022|ISO 27001:2022]]

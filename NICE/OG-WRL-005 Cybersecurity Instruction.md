@@ -2,7 +2,7 @@
 tags: [NICE]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NICE Framework v2.2.0", "PR.AT-01", "PR.AT-02"]
 id: "OG-WRL-005"
 opm: "712"
 category: "OVERSIGHT and GOVERNANCE"

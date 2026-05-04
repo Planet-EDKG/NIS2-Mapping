@@ -2,7 +2,7 @@
 tags: [NIST]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 NIST CSF v2.0"]
 id: "ID.SC-01"
 function: "ID"
 category: "ID.SC"

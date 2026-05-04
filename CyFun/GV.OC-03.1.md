@@ -2,7 +2,7 @@
 tags: [CyFun]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 BE-CyFun 2025", "10.3 Termination or change of employment procedures", "10.4 Disciplinary process", "13.1 Supporting utilities"]
 id: "GV.OC-03.1"
 tier: "BASIC"
 ---

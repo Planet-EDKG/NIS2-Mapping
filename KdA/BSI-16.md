@@ -2,7 +2,7 @@
 tags: [KdA]
 status: "offen"
 owner: ""
-mapping_to: []
+mapping_to: ["000 KdA KRITIS", "30.1 §31 (1)", "30.1.2 §30 (1) Satz 3", "30.2.1a §30 (2) Nr. 1"]
 id: "BSI-16"
 ---
 
