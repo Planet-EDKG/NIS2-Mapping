@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "8.1 Awareness raising and basic cyber hygiene practices", "8.2 Security training"]
-id: "PR.AT-1.3"
-tier: "ESSENTIAL"
+id: PR.AT-1.3
+tier: ESSENTIAL
+category: Protect
 ---
 
 # BE-CyFun PR.AT-1.3 Personnel shall receive training to understand their specific roles, responsibilities, and priorities during a cybersecurity or information security incident, including the steps they need to follow to respond effectively.

@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.5c §30 (2) Nr. 5", "PR.IP-03"]
-id: "A.8.31"
+id: A.8.31
+category: Technische Kontrollen
 ---
 
 # ISO 27001:2022 – A.8.31

@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-08", "GV.OC-01", "GV.OC-02", "GV.OC-03", "GV.OC-04", "GV.OC-05", "GV.PO-01", "GV.PO-02", "GV.RM-02", "GV.RM-03", "GV.RM-04", "GV.RM-05", "GV.RM-06", "GV.RR-01", "GV.RR-02", "GV.RR-03", "GV.RR-04", "ID.IM-04", "ID.RA-06", "ID.RA-07", "RC.CO-03", "RC.CO-04", "RC.RP-06", "RS.CO-02", "RS.CO-03", "RS.MA-01", "RS.MA-05"]
-id: "OG-WRL-010"
-opm: "801"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-010
+category: Allgemeine Rollen
+opm: 801
 ---
 
 # OG-WRL-010 – Program Management

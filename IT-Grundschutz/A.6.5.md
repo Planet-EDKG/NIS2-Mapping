@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.7b §30 (2) Nr. 7", "30.2.9a §30 (2) Nr. 9", "A.5.11", "A.6.2", "A.6.5", "A.8.3"]
-id: "A.6.5"
+id: A.6.5
+category: Personelle Maßnahmen
 ---
 
 # A.6.5: Responsibilities After Termination or Change of Employment

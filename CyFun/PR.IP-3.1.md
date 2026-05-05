@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.4 Change management, repairs and maintenance", "6.5 Security testing"]
-id: "PR.IP-3.1"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.4 Change management", "repairs and maintenance", "6.5 Security testing"]
+id: PR.IP-3.1
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.IP-3.1

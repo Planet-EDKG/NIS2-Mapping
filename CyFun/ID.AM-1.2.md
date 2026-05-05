@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "12.4 Asset inventory", "6.4 Change management, repairs and maintenance"]
-id: "ID.AM-1.2"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "12.4 Asset inventory", "6.4 Change management", "repairs and maintenance"]
+id: ID.AM-1.2
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-1.2 The inventory of enterprise assets associated with information and information processing facilities shall reflect changes in the organisation’s context and include all information necessary for effective accountability.

@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.1b §30 (2) Nr. 1", "30.2.8 §30 (2) Nr. 8", "A.5.1", "GV.OC-01", "GV.OC-02", "GV.OC-03", "GV.OC-04", "GV.OC-05", "GV.OV-01", "GV.OV-02", "GV.OV-03", "GV.PO-01", "GV.PO-02", "ID.BE-01", "ID.BE-02", "ID.BE-03", "ID.BE-04", "ID.BE-05", "ID.GV-01", "ID.GV-02", "ID.GV-03", "ID.GV-04"]
-id: "A.5.1"
+id: A.5.1
+category: Organisatorische Kontrollen
 ---
 
 # ISO 27001:2022 – A.5.1

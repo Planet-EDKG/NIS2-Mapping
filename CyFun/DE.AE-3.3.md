@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.2 Monitoring and logging", "3.3 Event reporting", "3.4 Event assessment and classification"]
-id: "DE.AE-3.3"
-tier: "ESSENTIAL"
+id: DE.AE-3.3
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.AE-3.3 The organisation shall combine event analysis with information from vulnerability

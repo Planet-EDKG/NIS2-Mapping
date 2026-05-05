@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-04", "GV.OC-01", "GV.OC-02", "GV.OC-03", "GV.OC-04", "GV.OC-05", "GV.OV-01", "GV.OV-02", "GV.OV-03", "GV.PO-01", "GV.PO-02", "GV.RM-01", "GV.RM-02", "GV.RM-03", "GV.RM-04", "GV.RM-05", "GV.RM-06", "GV.RM-07", "GV.RR-01", "GV.RR-02", "GV.RR-03", "GV.RR-04", "GV.SC-01", "GV.SC-02", "GV.SC-03", "GV.SC-04", "GV.SC-05", "GV.SC-06", "GV.SC-07", "GV.SC-08", "GV.SC-09", "GV.SC-10", "PR.AA-05", "PR.AT-01", "PR.AT-02", "PR.IR-03", "RC.RP-01"]
-id: "OG-WRL-002"
-opm: "752"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-002
+category: Allgemeine Rollen
+opm: 752
 ---
 
 # OG-WRL-002 – Cybersecurity Policy and Planning

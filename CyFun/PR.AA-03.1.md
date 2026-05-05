@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "13.3 Perimeter and physical access control", "6.7 Network security", "6.8 Network segmentation"]
-id: "PR.AA-03.1"
-tier: "BASIC"
+id: PR.AA-03.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AA-03.1 All wireless access points used by the organisation, including those providing guest access, shall be securely configured, managed, and monitored to prevent unauthorised access and ensure network integrity.

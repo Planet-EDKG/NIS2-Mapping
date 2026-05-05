@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.2 Monitoring and logging", "3.3 Event reporting", "3.4 Event assessment and classification", "6.7 Network security"]
-id: "DE.CM-1.3"
-tier: "ESSENTIAL"
+id: DE.CM-1.3
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.CM-1.3 The organisation shall monitor and identify unauthorised use of its business critical systems through the detection of unauthorised local connections, network connections and remote connections.

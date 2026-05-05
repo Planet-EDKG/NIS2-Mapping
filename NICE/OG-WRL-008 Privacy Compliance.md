@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.OC-03", "GV.RM-01", "GV.RM-03", "GV.RM-05", "RC.CO-03", "RC.CO-04", "RS.CO-02", "RS.CO-03"]
-id: "OG-WRL-008"
-opm: "732"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-008
+category: Allgemeine Rollen
+opm: 732
 ---
 
 # OG-WRL-008 – Privacy Compliance

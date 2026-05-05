@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "10.3 Termination or change of employment procedures", "10.4 Disciplinary process", "13.1 Supporting utilities"]
-id: "GV.OC-03.1"
-tier: "BASIC"
+id: GV.OC-03.1
+tier: BASIC
+category: Governance
 ---
 
 # BE-CyFun GV.OC-03.1 Legal and regulatory requirements regarding information and cybersecurity shall be identified and implemented.

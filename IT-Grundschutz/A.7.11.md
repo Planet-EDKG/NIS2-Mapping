@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.7.5", "A.7.8", "A.8.14"]
-id: "A.7.11"
+id: A.7.11
+category: Technische Maßnahmen
 ---
 
 # A.7.11: Supporting Utilities

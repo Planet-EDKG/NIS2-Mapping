@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.7 Network security"]
-id: "PR.IR-01.1"
-tier: "BASIC"
+id: PR.IR-01.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.IR-01.1 Firewalls shall be installed, configured, and actively maintained on all networks used by the organisation to protect against unauthorised access and cyber threats.

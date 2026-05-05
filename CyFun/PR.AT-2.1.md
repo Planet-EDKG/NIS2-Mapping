@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "1.2 Roles, responsibilities and authorities", "11.3 Privileged accounts and system administration accounts"]
-id: "PR.AT-2.1"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "1.2 Roles", "responsibilities and authorities", "11.3 Privileged accounts and system administration accounts"]
+id: PR.AT-2.1
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.AT-2.1 Members of management bodies shall be able to demonstrate that they have completed training that gives them a solid understanding of information and cybersecurity and risk management so that they can assess information and cybersecurity risks and their consequences and propose the necessary risk mitigation, considering their roles, responsibilities and authorities.

@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.4 Asset inventory", "6.9 Protection against malicious and unauthorised software"]
-id: "ID.AM-2.4"
-tier: "IMPORTANT"
+id: ID.AM-2.4
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-2.4 When unauthorised software is detected, it shall be quarantined for possible exception handling, removed, or replaced, and the inventory shall be updated accordingly.

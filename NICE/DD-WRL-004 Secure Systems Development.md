@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-04", "ID.AM-08", "ID.IM-01", "ID.IM-02", "ID.IM-03", "ID.IM-04", "PR.AA-05", "PR.DS-01", "PR.DS-02", "PR.DS-10", "PR.IR-01", "PR.IR-02", "PR.IR-03", "PR.IR-04"]
-id: "DD-WRL-004"
-opm: "631 and 632"
-category: "DESIGN and DEVELOPMENT"
+id: DD-WRL-004
+category: Design
+opm: 631 and 632
 ---
 
 # DD-WRL-004 – Secure Systems Development

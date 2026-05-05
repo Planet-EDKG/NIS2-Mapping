@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.2 Monitoring and logging", "3.3 Event reporting"]
-id: "DE.AE-1.1"
-tier: "ESSENTIAL"
+id: DE.AE-1.1
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.AE-1.1 The organization shall ensure that a baseline of network operations and expected data flows for its critical systems is developed, documented and maintained to track events.

@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "10.1 Human resources security", "10.2 Verification of Background", "10.3 Termination or change of employment procedures", "11.1 Access control policy", "11.2 Management of access rights", "12.5 Deposit, return or deletion of assets upon termination of employment", "13.3 Perimeter and physical access control"]
-id: "GV.RR-04.1"
-tier: "BASIC"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "10.1 Human resources security", "10.2 Verification of Background", "10.3 Termination or change of employment procedures", "11.1 Access control policy", "11.2 Management of access rights", "12.5 Deposit", "return or deletion of assets upon termination of employment", "13.3 Perimeter and physical access control"]
+id: GV.RR-04.1
+tier: BASIC
+category: Governance
 ---
 
 # BE-CyFun GV.RR-04.1 Personnel with access to the organisation’s most critical information or technology shall be authenticated.

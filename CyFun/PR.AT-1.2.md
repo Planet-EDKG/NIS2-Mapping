@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.3 Event reporting", "6.7 Network security", "8.1 Awareness raising and basic cyber hygiene practices", "8.2 Security training"]
-id: "PR.AT-1.2"
-tier: "IMPORTANT"
+id: PR.AT-1.2
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.AT-1.2 The organisation shall include insider threat awareness and reporting in its cybersecurity training to help personnel recognise and respond to potential internal risks.

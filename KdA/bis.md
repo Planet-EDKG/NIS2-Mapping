@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9b §30 (2) Nr. 9"]
-id: "bis"
+id: bis
+category: Kritische Infrastruktur
 ---
 
 # KdA KRITIS – bis

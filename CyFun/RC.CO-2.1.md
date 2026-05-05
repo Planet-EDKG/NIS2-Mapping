@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "4.3 Crisis management"]
-id: "RC.CO-2.1"
-tier: "ESSENTIAL"
+id: RC.CO-2.1
+tier: ESSENTIAL
+category: Recover
 ---
 
 # BE-CyFun RC.CO-2.1

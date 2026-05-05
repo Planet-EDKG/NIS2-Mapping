@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.5.15", "DD-WRL-002 Enterprise Architecture", "IO-WRL-001 Data Analysis", "IO-WRL-002 Database Administration", "IO-WRL-003 Knowledge Management", "IO-WRL-005 Systems Administration", "OG-WRL-015 Technology Portfolio Management"]
-id: "ID.AM-07"
-function: "ID"
-category: "ID.AM"
+id: ID.AM-07
+category: Identify
+function: ID
 ---
 
 # NIST CSF ID.AM-07

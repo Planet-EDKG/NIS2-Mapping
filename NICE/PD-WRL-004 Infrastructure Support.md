@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.CM-01", "DE.CM-02", "DE.CM-03", "DE.CM-06", "DE.CM-09", "PR.AA-01", "PR.AA-02", "PR.AA-03", "PR.AA-04", "PR.AA-05", "PR.PS-01", "PR.PS-02", "PR.PS-03", "PR.PS-04", "PR.PS-05", "PR.PS-06", "RC.RP-02", "RC.RP-05", "RS.AN-03", "RS.AN-06", "RS.AN-07", "RS.AN-08", "RS.MA-01", "RS.MI-01", "RS.MI-02"]
-id: "PD-WRL-004"
-opm: "521"
-category: "PROTECTION and DEFENSE"
+id: PD-WRL-004
+category: Allgemeine Rollen
+opm: 521
 ---
 
 # PD-WRL-004 – Infrastructure Support

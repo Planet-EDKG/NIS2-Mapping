@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0"]
-id: "NF-COM-007"
-opm: ""
-category: "Competency Area"
+id: NF-COM-007
+category: Allgemeine Rollen
+opm: 
 ---
 
 # NF-COM-007 – Cyber Resiliency

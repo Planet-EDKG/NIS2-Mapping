@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.7 Network security", "6.9 Protection against malicious and unauthorised software"]
-id: "ID.RA-01.1"
-tier: "BASIC"
+id: ID.RA-01.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.RA-01.1 Threats and vulnerabilities shall be identified in all relevant assets, including software, network and system architectures, and facilities that house critical computing assets.

@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-005 Systems Administration", "IO-WRL-007 Technical Support", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-003 Incident Response", "PD-WRL-004 Infrastructure Support"]
-id: "RS.MA-01"
-function: "RS"
-category: "RS.MA"
+id: RS.MA-01
+category: Respond
+function: RS
 ---
 
 # NIST CSF RS.MA-01

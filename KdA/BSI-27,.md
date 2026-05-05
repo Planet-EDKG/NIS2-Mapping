@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.10a §30 (2) Nr. 10", "30.2.9b §30 (2) Nr. 9"]
-id: "BSI-27,"
+id: BSI-27,
+category: Kritische Infrastruktur
 ---
 
 # Sichere Anmeldeverfahren (IDM-08)

@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.2 §30 (2) Nr. 2"]
-id: "BSI-77,"
+id: BSI-77,
+category: Kritische Infrastruktur
 ---
 
 # Verantwortlichkeiten und Vorgehensmodell (SIM-01)

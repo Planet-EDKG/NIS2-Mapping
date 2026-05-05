@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.RM-03", "ID.AM-01", "ID.AM-02", "ID.AM-03", "ID.AM-04", "ID.AM-05", "ID.AM-07", "ID.AM-08", "PR.IR-01", "PR.IR-02", "PR.IR-03", "PR.IR-04", "PR.PS-01", "PR.PS-02", "PR.PS-03", "PR.PS-04", "PR.PS-05", "PR.PS-06", "RC.RP-01", "RC.RP-02", "RC.RP-03", "RC.RP-04", "RC.RP-05", "RC.RP-06"]
-id: "DD-WRL-002"
-opm: "651"
-category: "DESIGN and DEVELOPMENT"
+id: DD-WRL-002
+category: Design
+opm: 651
 ---
 
 # DD-WRL-002 – Enterprise Architecture

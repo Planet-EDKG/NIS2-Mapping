@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.5.5", "A.5.7"]
-id: "A.5.6"
+id: A.5.6
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.6: Contact with Special Interest Groups

@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9d §30 (2) Nr. 9"]
-id: "BSI-75"
+id: BSI-75
+category: Kritische Infrastruktur
 ---
 
 # Schutz vor Unterbrechungen durch Stromausfälle und andere derartige Risiken (PS-04)

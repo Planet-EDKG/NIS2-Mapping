@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "13.3 Perimeter and physical access control"]
-id: "PR.AA-05.2"
-tier: "BASIC"
+id: PR.AA-05.2
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AA-05.2 It shall be determined who needs access to the organisation's business-critical information and technology and the means to gain access.

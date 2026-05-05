@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.3 Configuration management", "6.4 Change management, repairs and maintenance"]
-id: "DE.CM-7.2"
-tier: "ESSENTIAL"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.3 Configuration management", "6.4 Change management", "repairs and maintenance"]
+id: DE.CM-7.2
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.CM-7.2

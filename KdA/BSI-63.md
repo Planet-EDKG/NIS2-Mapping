@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9b §30 (2) Nr. 9"]
-id: "BSI-63"
+id: BSI-63
+category: Kritische Infrastruktur
 ---
 
 # Identitäts- und Berechtigungsmanagement – Administratoren (IDM-06)

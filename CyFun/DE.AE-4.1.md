@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "3.4 Event assessment and classification"]
-id: "DE.AE-4.1"
-tier: "ESSENTIAL"
+id: DE.AE-4.1
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.AE-4.1 The organisation shall assess the negative impacts of detected events on its operations, assets, and individuals, and shall link these impacts to the results of its risk assessments.

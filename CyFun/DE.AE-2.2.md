@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.4 Event assessment and classification"]
-id: "DE.AE-2.2"
-tier: "ESSENTIAL"
+id: DE.AE-2.2
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.AE-2.2 The organisation shall implement automated mechanisms where feasible to review and analyse detected events.

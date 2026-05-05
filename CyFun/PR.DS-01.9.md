@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.3 Removable media policy"]
-id: "PR.DS-01.9"
-tier: "BASIC"
+id: PR.DS-01.9
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.DS-01.9 Enterprise assets shall be disposed of safely

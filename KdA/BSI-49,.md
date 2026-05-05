@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5c §30 (2) Nr. 5"]
-id: "BSI-49,"
+id: BSI-49,
+category: Kritische Infrastruktur
 ---
 
 # Testen der Änderungen (BEI-07)

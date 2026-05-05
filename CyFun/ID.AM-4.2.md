@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.4 Change management, repairs and maintenance"]
-id: "ID.AM-4.2"
-tier: "ESSENTIAL"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.4 Change management", "repairs and maintenance"]
+id: ID.AM-4.2
+tier: ESSENTIAL
+category: Identify
 ---
 
 # BE-CyFun ID.AM-4.2 The organisation shall map, document and authorise the flow of information to/from external systems and update the flow when changes occur.

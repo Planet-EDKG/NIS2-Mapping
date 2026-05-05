@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1a §30 (2) Nr. 1"]
-id: "BSI-87,"
+id: BSI-87,
+category: Kritische Infrastruktur
 ---
 
 # Prüfungen in anderen, anderweitig vorgegebenen Prüfzyklen – interne IT-Prüfungen (SPN-03)

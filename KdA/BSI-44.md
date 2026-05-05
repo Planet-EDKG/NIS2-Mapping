@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5b §30 (2) Nr. 5"]
-id: "BSI-44"
+id: BSI-44
+category: Kritische Infrastruktur
 ---
 
 # Auslagerung der Entwicklung (BEI-02)

@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.12.6", "A.12.7", "DD-WRL-005 Software Security Assessment", "IO-WRL-006 Systems Security Analysis", "OG-WRL-012 Security Control Assessment", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-007 Vulnerability Analysis"]
-id: "ID.RA-01"
-function: "ID"
-category: "ID.RA"
+id: ID.RA-01
+category: Identify
+function: ID
 ---
 
 # NIST CSF ID.RA-01

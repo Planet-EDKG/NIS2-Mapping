@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.3 Removable media policy", "3.2 Monitoring and logging"]
-id: "PR.PS-04.1"
-tier: "BASIC"
+id: PR.PS-04.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.PS-04.1 Logs shall be maintained, documented, and monitored.

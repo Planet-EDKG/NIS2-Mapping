@@ -4,7 +4,14 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+      "icon": "lucide-album",
+      "name": "Excalidraw: Create new drawing - IN A NEW TAB",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],

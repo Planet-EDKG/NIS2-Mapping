@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.5b §30 (2) Nr. 5", "30.2.9a §30 (2) Nr. 9", "A.5.1", "A.5.8", "A.8.25"]
-id: "A.5.8"
+id: A.5.8
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.8: Information Security in Project Management

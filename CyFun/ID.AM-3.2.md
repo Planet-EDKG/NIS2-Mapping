@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.3 Configuration management"]
-id: "ID.AM-3.2"
-tier: "IMPORTANT"
+id: ID.AM-3.2
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-3.2 The organisation's network communication and internal data flows shall be mapped, documented, authorised, and updated when changes occur.

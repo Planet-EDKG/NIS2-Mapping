@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "PR.AT-01", "PR.AT-02"]
-id: "OG-WRL-004"
-opm: "711"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-004
+category: Allgemeine Rollen
+opm: 711
 ---
 
 # OG-WRL-004 – Cybersecurity Curriculum Development

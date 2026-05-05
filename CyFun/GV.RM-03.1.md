@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers", "6.1 Security in acquisition of ICT services, ICT systems or ICT products"]
-id: "GV.RM-03.1"
-tier: "BASIC"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers", "6.1 Security in acquisition of ICT services", "ICT systems or ICT products"]
+id: GV.RM-03.1
+tier: BASIC
+category: Governance
 ---
 
 # BE-CyFun GV.RM-03.1 As part of the organisation-wide risk management strategy, a comprehensive strategy to manage information and cybersecurity risks shall be developed and updated when changes occur.

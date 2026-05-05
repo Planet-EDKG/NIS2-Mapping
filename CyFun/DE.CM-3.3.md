@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.1 Access control policy"]
-id: "DE.CM-3.3"
-tier: "IMPORTANT"
+id: DE.CM-3.3
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.CM-3.3

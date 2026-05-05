@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9b §30 (2) Nr. 9"]
-id: "BSI-29,"
+id: BSI-29,
+category: Kritische Infrastruktur
 ---
 
 # Passwortanforderungen und Validierungsparameter (IDM-11)

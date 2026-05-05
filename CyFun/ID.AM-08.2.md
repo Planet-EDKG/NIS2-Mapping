@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.6 Security patch management"]
-id: "ID.AM-08.2"
-tier: "BASIC"
+id: ID.AM-08.2
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.AM-08.2 Patches and security updates for Operating Systems and critical system components shall be installed.

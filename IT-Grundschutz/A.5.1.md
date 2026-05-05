@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.1b §30 (2) Nr. 1", "30.2.8 §30 (2) Nr. 8", "A.5.1", "A.5.2", "A.5.3"]
-id: "A.5.1"
+id: A.5.1
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.1: Policies for Information Security

@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.8.1-10", "A.8.25-34"]
-id: "A.8.11-24"
+id: A.8.11-24
+category: Technische Maßnahmen
 ---
 
 # A.8.11-A.8.24: Datenschutz, Backup und Kryptographie

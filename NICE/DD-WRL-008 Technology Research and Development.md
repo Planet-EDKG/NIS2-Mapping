@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-02", "DE.AE-07", "ID.IM-01", "ID.RA-05", "PR.PS-06"]
-id: "DD-WRL-008"
-opm: "661"
-category: "DESIGN and DEVELOPMENT"
+id: DD-WRL-008
+category: Design
+opm: 661
 ---
 
 # DD-WRL-008 – Technology Research and Development

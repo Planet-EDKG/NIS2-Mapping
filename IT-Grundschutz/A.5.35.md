@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "39.1 §39 (1)", "A.5.35", "A.5.36", "A.9.2"]
-id: "A.5.35"
+id: A.5.35
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.35: Independent Review of Information Security

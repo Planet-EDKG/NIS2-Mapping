@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "DD-WRL-001 Cybersecurity Architecture", "DD-WRL-002 Enterprise Architecture", "DD-WRL-004 Secure Systems Development", "DD-WRL-006 Systems Requirements Planning", "DD-WRL-009 Operational Technology (OT) Cybersecurity Engineering", "IO-WRL-004 Network Operations", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-014 Systems Security Management"]
-id: "PR.IR-03"
-function: "PR"
-category: "PR.IR"
+id: PR.IR-03
+category: Protect
+function: PR
 ---
 
 # NIST CSF PR.IR-03

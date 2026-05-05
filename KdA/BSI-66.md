@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5a §30 (2) Nr. 5"]
-id: "BSI-66"
+id: BSI-66
+category: Kritische Infrastruktur
 ---
 
 # Überprüfung und Freigabe von Richtlinien und Anweisungen (SA-02)

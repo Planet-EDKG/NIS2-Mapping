@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.3c §30 (2) Nr. 3"]
-id: "BSI-19"
+id: BSI-19
+category: Kritische Infrastruktur
 ---
 
 # Verifizierung, Aktualisierung und Test der Betriebskontinuität (BCM-04)

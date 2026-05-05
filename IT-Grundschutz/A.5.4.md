@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.1.1 §30 (1) Satz 1", "30.2.1b §30 (2) Nr. 1", "A.5.1", "A.5.2", "A.5.4", "A.7.1"]
-id: "A.5.4"
+id: A.5.4
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.4: Management Responsibilities

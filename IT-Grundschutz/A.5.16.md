@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.5.15", "A.5.17", "A.5.18", "A.8.5"]
-id: "A.5.16"
+id: A.5.16
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.16: Identity Management

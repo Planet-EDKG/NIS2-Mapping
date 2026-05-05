@@ -1,8 +1,9 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
-mapping_to: []
+tags: ["NICE"]
+status: offen
+owner: 
+mapping_to: [""]
+category: Allgemeine Rollen
 ---
 ```dataview
 TABLE file.link AS Datei, status AS Status, owner AS Owner, mapping_to AS Mapping

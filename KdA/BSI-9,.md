@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9c §30 (2) Nr. 9"]
-id: "BSI-9,"
+id: BSI-9,
+category: Kritische Infrastruktur
 ---
 
 # Klassifikation von Informationen (AM-05)

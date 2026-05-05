@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.1 Access control policy", "13.3 Perimeter and physical access control", "3.2 Monitoring and logging", "3.3 Event reporting", "3.4 Event assessment and classification"]
-id: "DE.AE-3.2"
-tier: "IMPORTANT"
+id: DE.AE-3.2
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.AE-3.2 The organisation shall ensure that event data from critical systems is collected and correlated using information from multiple relevant sources.

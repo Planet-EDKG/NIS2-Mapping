@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.4a §30 (2) Nr. 4", "30.2.4b §30 (2) Nr. 4", "A.5.19", "A.5.20", "A.5.21"]
-id: "A.5.21"
+id: A.5.21
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.21: Managing Information Security in the ICT Supply Chain

@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.3a §30 (2) Nr. 3"]
-id: "BSI-15,"
+id: BSI-15,
+category: Kritische Infrastruktur
 ---
 
 # Richtlinien zur Folgeabschätzung (BCM-02)

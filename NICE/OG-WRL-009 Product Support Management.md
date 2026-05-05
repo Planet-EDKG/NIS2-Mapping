@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.RM-05", "GV.SC-01", "GV.SC-02", "GV.SC-03", "GV.SC-04", "GV.SC-05", "GV.SC-06", "GV.SC-07", "GV.SC-08", "GV.SC-09", "GV.SC-10", "ID.IM-02", "ID.RA-10", "RC.RP-01"]
-id: "OG-WRL-009"
-opm: "803"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-009
+category: Allgemeine Rollen
+opm: 803
 ---
 
 # OG-WRL-009 – Product Support Management

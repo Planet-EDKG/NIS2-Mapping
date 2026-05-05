@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.3 Event reporting"]
-id: "RS.CO-5.1"
-tier: "IMPORTANT"
+id: RS.CO-5.1
+tier: IMPORTANT
+category: Respond
 ---
 
 # BE-CyFun RS.CO-5.1

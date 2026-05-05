@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9d §30 (2) Nr. 9", "A.7.1", "A.7.2", "A.7.3"]
-id: "A.7.2"
+id: A.7.2
+category: Technische Maßnahmen
 ---
 
 # A.7.2: Physical Entry

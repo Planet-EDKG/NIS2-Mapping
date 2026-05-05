@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.9 Protection against malicious and unauthorised software"]
-id: "PR.MA-1.6"
-tier: "ESSENTIAL"
+id: PR.MA-1.6
+tier: ESSENTIAL
+category: Protect
 ---
 
 # BE-CyFun PR.MA-1.6

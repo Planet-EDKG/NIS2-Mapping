@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.12.4", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-006 Systems Security Analysis", "OG-WRL-016 Technology Program Auditing", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-004 Infrastructure Support"]
-id: "DE.CM-06"
-function: "DE"
-category: "DE.CM"
+id: DE.CM-06
+category: Detect
+function: DE
 ---
 
 # NIST CSF DE.CM-06

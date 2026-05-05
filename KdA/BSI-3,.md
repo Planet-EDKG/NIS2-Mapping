@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.1.1 §30 (1) Satz 1", "30.2.1b §30 (2) Nr. 1"]
-id: "BSI-3,"
+id: BSI-3,
+category: Kritische Infrastruktur
 ---
 
 # Zuständigkeiten und Verantwortungen im Rahmen der Informationssicherheit (OIS-03)

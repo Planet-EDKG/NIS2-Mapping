@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "13.3 Perimeter and physical access control", "6.7 Network security"]
-id: "PR.AA-06.1"
-tier: "BASIC"
+id: PR.AA-06.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AA-06.1 Physical access to all organisational assets, including critical zones, shall be managed, monitored, and enforced based on risk.

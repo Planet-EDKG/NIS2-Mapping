@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.RM-01", "GV.RM-02", "GV.RM-03", "ID.AM-04", "ID.AM-05", "ID.RA-06", "ID.RA-07", "RC.CO-03", "RC.RP-04"]
-id: "OG-WRL-011"
-opm: "802"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-011
+category: Allgemeine Rollen
+opm: 802
 ---
 
 # OG-WRL-011 – Secure Project Management

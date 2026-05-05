@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5a §30 (2) Nr. 5", "30.2.5b §30 (2) Nr. 5"]
-id: "BSI-43,"
+id: BSI-43,
+category: Kritische Infrastruktur
 ---
 
 # Richtlinien zur Entwicklung/Beschaffung von Informationssystemen (BEI-01)

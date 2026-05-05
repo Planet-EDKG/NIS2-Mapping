@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.12.4", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity", "PD-WRL-005 Insider Threat Analysis", "PD-WRL-006 Threat Analysis", "PD-WRL-007 Vulnerability Analysis"]
-id: "DE.AE-06"
-function: "DE"
-category: "DE.AE"
+id: DE.AE-06
+category: Detect
+function: DE
 ---
 
 # NIST CSF DE.AE-06

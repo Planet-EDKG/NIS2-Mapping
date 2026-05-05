@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "4.1 Business continuity and disaster recovery plan", "4.2 Backup management", "6.3 Configuration management"]
-id: "PR.DS-11.1"
-tier: "BASIC"
+id: PR.DS-11.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.DS-11.1 Backups for the organisation's business-critical data shall be performed and stored on a different system from the device on which the original data resides.

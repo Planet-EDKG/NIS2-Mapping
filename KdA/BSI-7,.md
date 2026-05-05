@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9c §30 (2) Nr. 9"]
-id: "BSI-7,"
+id: BSI-7,
+category: Kritische Infrastruktur
 ---
 
 # Nutzungsanweisungen für Assets (AM-03)

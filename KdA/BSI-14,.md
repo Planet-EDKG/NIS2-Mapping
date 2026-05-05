@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1a §30 (2) Nr. 1"]
-id: "BSI-14,"
+id: BSI-14,
+category: Kritische Infrastruktur
 ---
 
 # Identifikation, Analyse, Beurteilung und Folgeabschätzung von IT-Risiken (OIS-07)

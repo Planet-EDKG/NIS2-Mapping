@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9a §30 (2) Nr. 9"]
-id: "BSI-57,"
+id: BSI-57,
+category: Kritische Infrastruktur
 ---
 
 # Einstellung und Beschäftigungsvereinbarungen (HR-02)

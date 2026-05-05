@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.5.1", "A.8.9"]
-id: "A.5.37"
+id: A.5.37
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.37: Documented Operating Procedures

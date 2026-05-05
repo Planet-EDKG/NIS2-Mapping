@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.5.5"]
-id: "A.5.24-34"
+id: A.5.24-34
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.24-A.5.34: Incident Management & Business Continuity

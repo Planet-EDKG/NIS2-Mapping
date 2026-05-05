@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.1a §30 (2) Nr. 1", "30.2.6 §30 (2) Nr. 6", "39.1 §39 (1)", "A.5.1", "A.5.35", "A.5.36"]
-id: "A.5.36"
+id: A.5.36
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.36: Compliance with Policies, Rules and Standards for Information Security

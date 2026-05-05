@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.1 Incident handling policy", "4.2 Backup management"]
-id: "RC.RP-01.1"
-tier: "IMPORTANT"
+id: RC.RP-01.1
+tier: IMPORTANT
+category: Recover
 ---
 
 # BE-CyFun RC.RP-01.1 A recovery process for disasters and information/cybersecurity incidents shall be developed and executed.

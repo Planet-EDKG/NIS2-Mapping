@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.8.1"]
-id: "ID.AM-06"
-function: "ID"
-category: "ID.AM"
+id: ID.AM-06
+category: Identify
+function: ID
 ---
 
 # NIST CSF ID.AM-06

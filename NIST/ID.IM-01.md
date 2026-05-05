@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.8.33", "DD-WRL-004 Secure Systems Development", "DD-WRL-006 Systems Requirements Planning", "DD-WRL-007 Systems Testing and Evaluation", "DD-WRL-008 Technology Research and Development", "OG-WRL-016 Technology Program Auditing", "PD-WRL-003 Incident Response"]
-id: "ID.IM-01"
-function: "ID"
-category: "ID.IM"
+id: ID.IM-01
+category: Identify
+function: ID
 ---
 
 # NIST CSF ID.IM-01

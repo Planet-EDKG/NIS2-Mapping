@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9d §30 (2) Nr. 9", "A.7.3", "A.7.6", "A.7.7"]
-id: "A.7.6"
+id: A.7.6
+category: Technische Maßnahmen
 ---
 
 # A.7.6: Working in Secure Areas

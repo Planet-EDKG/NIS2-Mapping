@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.3b §30 (2) Nr. 3"]
-id: "BSI-20,"
+id: BSI-20,
+category: Kritische Infrastruktur
 ---
 
 # Notwendige/ausreichende Personal- und IT-Ressourcen (Betrieb und IT-Sicherheit) (RB-01, RB-02)

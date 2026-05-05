@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.10.1", "A.10.2", "DD-WRL-003 Secure Software Development", "DD-WRL-004 Secure Systems Development", "DD-WRL-007 Systems Testing and Evaluation", "IO-WRL-002 Database Administration", "IO-WRL-005 Systems Administration", "IO-WRL-006 Systems Security Analysis", "PD-WRL-001 Defensive Cybersecurity"]
-id: "PR.DS-01"
-function: "PR"
-category: "PR.DS"
+id: PR.DS-01
+category: Protect
+function: PR
 ---
 
 # NIST CSF PR.DS-01

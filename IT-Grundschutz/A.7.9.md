@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9c §30 (2) Nr. 9", "A.6.7", "A.7.10", "A.7.9", "A.8.12"]
-id: "A.7.9"
+id: A.7.9
+category: Technische Maßnahmen
 ---
 
 # A.7.9: Security of Assets Off-Premises

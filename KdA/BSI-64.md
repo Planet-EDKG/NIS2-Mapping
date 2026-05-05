@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.10a §30 (2) Nr. 10"]
-id: "BSI-64"
+id: BSI-64
+category: Kritische Infrastruktur
 ---
 
 # Identitäts- und Berechtigungsmanagement – Notfallbenutzer (IDM-09)

@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.7a §30 (2) Nr. 7", "30.2.7b §30 (2) Nr. 7", "30.2.9a §30 (2) Nr. 9", "38.3 §38 (3)", "A.6.2", "A.6.3", "A.6.4", "A.7.7"]
-id: "A.6.3"
+id: A.6.3
+category: Personelle Maßnahmen
 ---
 
 # A.6.3: Information Security Awareness, Education and Training

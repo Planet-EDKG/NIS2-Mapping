@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers"]
-id: "ID.RA-05.1"
-tier: "BASIC"
+id: ID.RA-05.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.RA-05.1 The organisation shall conduct risk assessments in which risk is determined by threats, vulnerabilities and the impact on business processes and assets.

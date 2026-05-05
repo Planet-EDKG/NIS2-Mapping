@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.OC-02", "GV.OC-04", "GV.OC-05", "GV.RM-01", "GV.RM-02", "GV.RM-05", "GV.RM-06", "ID.RA-01", "ID.RA-02", "ID.RA-03", "ID.RA-04", "ID.RA-05", "ID.RA-06", "ID.RA-07", "ID.RA-08", "ID.RA-09", "ID.RA-10", "PR.AA-01", "PR.AA-02", "PR.AA-03", "PR.AA-04", "PR.AA-05", "PR.AA-06", "PR.IR-01", "PR.IR-02", "PR.IR-03", "PR.IR-04", "RC.RP-01", "RC.RP-02", "RC.RP-03", "RC.RP-04", "RC.RP-05", "RC.RP-06", "RS.MI-01", "RS.MI-02"]
-id: "OG-WRL-014"
-opm: "722"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-014
+category: Allgemeine Rollen
+opm: 722
 ---
 
 # OG-WRL-014 – Systems Security Management

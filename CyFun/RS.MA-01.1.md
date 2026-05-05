@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "1.2 Roles, responsibilities and authorities", "3.1 Incident handling policy", "3.5 Incident response"]
-id: "RS.MA-01.1"
-tier: "BASIC"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "1.2 Roles", "responsibilities and authorities", "3.1 Incident handling policy", "3.5 Incident response"]
+id: RS.MA-01.1
+tier: BASIC
+category: Respond
 ---
 
 # BE-CyFun RS.MA-01.1 An incident response plan, including defined roles, responsibilities, and authorities, shall be executed during or after a cybersecurity event affecting the organisation's critical systems.

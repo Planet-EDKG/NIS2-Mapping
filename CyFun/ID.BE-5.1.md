@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "4.1 Business continuity and disaster recovery plan", "6.5 Security testing"]
-id: "ID.BE-5.1"
-tier: "BASIC"
+id: ID.BE-5.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.BE-5.1

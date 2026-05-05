@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "6.1 Security in acquisition of ICT services, ICT systems or ICT products"]
-id: "ID.GV-4.2"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "6.1 Security in acquisition of ICT services", "ICT systems or ICT products"]
+id: ID.GV-4.2
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.GV-4.2

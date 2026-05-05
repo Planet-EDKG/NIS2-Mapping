@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.5c §30 (2) Nr. 5", "A.7.11", "A.7.13", "A.7.8"]
-id: "A.7.13"
+id: A.7.13
+category: Technische Maßnahmen
 ---
 
 # A.7.13: Equipment Maintenance

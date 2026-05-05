@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.3 Event reporting", "3.5 Incident response", "4.3 Crisis management"]
-id: "RS.CO-2.2"
-tier: "ESSENTIAL"
+id: RS.CO-2.2
+tier: ESSENTIAL
+category: Respond
 ---
 
 # BE-CyFun RS.CO-2.2 Cybersecurity incidents shall be shared with relevant external stakeholders within the timeframes defined in the Incident Response Plan, including reporting significant incidents to authorities as required by law.

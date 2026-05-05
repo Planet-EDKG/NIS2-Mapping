@@ -1,8 +1,9 @@
 ---
-tags: [NIS2]
-status: "offen"
-owner: ""
-mapping_to: []
+tags: ["NIS2"]
+status: offen
+owner: 
+mapping_to: [""]
+category: Allgemeine Anforderungen
 ---
 ```dataview
 TABLE file.link AS Datei, status AS Status, owner AS Owner, mapping_to AS Mapping

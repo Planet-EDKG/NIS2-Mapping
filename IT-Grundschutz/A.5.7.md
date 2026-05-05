@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.5d §30 (2) Nr. 5", "A.5.24", "A.5.6", "A.5.7", "A.8.8"]
-id: "A.5.7"
+id: A.5.7
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.7: Threat Intelligence

@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-04", "GV.RM-01", "GV.RM-06", "GV.SC-01", "GV.SC-02", "GV.SC-03", "GV.SC-05", "GV.SC-06", "GV.SC-07", "GV.SC-08", "GV.SC-09", "GV.SC-10", "ID.RA-01", "RS.AN-03", "RS.AN-08"]
-id: "OG-WRL-012"
-opm: "612"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-012
+category: Allgemeine Rollen
+opm: 612
 ---
 
 # OG-WRL-012 – Security Control Assessment

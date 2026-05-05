@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets"]
-id: "ID.AM-07.1"
-tier: "BASIC"
+id: ID.AM-07.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.AM-07.1 Data that the organisation stores and uses shall be identified.

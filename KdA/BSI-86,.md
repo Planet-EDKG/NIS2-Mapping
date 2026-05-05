@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1a §30 (2) Nr. 1"]
-id: "BSI-86,"
+id: BSI-86,
+category: Kritische Infrastruktur
 ---
 
 # Interne Überprüfungen der Compliance von IT-Prozessen mit internen

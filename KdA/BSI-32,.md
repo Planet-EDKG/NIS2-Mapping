@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.8 §30 (2) Nr. 8"]
-id: "BSI-32,"
+id: BSI-32,
+category: Kritische Infrastruktur
 ---
 
 # Richtlinie zur Nutzung von Verschlüsselungsverfahren und Schlüsselverwaltung (KRY-01)

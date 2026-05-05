@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.15.1", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-009 Product Support Management", "OG-WRL-012 Security Control Assessment", "OG-WRL-015 Technology Portfolio Management", "OG-WRL-016 Technology Program Auditing"]
-id: "GV.SC-03"
-function: "GV"
-category: "GV.SC"
+id: GV.SC-03
+category: Governance
+function: GV
 ---
 
 # NIST CSF GV.SC-03

@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "33.1 §33 (1)", "33.2 §33 (2)", "34.1 §34 (1)", "A.5.24", "A.5.5", "A.5.6"]
-id: "A.5.5"
+id: A.5.5
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.5: Contact with Authorities

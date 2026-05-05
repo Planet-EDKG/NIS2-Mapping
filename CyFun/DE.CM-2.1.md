@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "13.1 Supporting utilities", "13.3 Perimeter and physical access control", "3.3 Event reporting"]
-id: "DE.CM-2.1"
-tier: "IMPORTANT"
+id: DE.CM-2.1
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.CM-2.1 The physical environment shall be monitored to find potentially adverse events.

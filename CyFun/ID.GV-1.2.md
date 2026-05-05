@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "1.1 Policy on the security of network and information systems", "10.1 Human resources security", "11.1 Access control policy", "11.2 Management of access rights", "12.3 Removable media policy", "13.3 Perimeter and physical access control", "2.2 Compliance monitoring", "5.1 Supply chain security policy", "6.2 Secure development life cycle", "6.4 Change management, repairs and maintenance"]
-id: "ID.GV-1.2"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "1.1 Policy on the security of network and information systems", "10.1 Human resources security", "11.1 Access control policy", "11.2 Management of access rights", "12.3 Removable media policy", "13.3 Perimeter and physical access control", "2.2 Compliance monitoring", "5.1 Supply chain security policy", "6.2 Secure development life cycle", "6.4 Change management", "repairs and maintenance"]
+id: ID.GV-1.2
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.GV-1.2

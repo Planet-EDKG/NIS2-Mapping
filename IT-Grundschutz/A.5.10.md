@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9c §30 (2) Nr. 9", "A.5.1", "A.5.10", "A.6.2", "A.7.7"]
-id: "A.5.10"
+id: A.5.10
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.10: Acceptable Use of Information and Other Associated Assets

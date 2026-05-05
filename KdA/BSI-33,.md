@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.10b §30 (2) Nr. 10", "30.2.8 §30 (2) Nr. 8"]
-id: "BSI-33,"
+id: BSI-33,
+category: Kritische Infrastruktur
 ---
 
 # Verschlüsselung von Daten bei der Übertragung (Transportverschlüsselung) (KRY-02)

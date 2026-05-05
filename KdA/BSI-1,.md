@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1b §30 (2) Nr. 1", "30.2.6 §30 (2) Nr. 6"]
-id: "BSI-1,"
+id: BSI-1,
+category: Kritische Infrastruktur
 ---
 
 # Managementsystem für Informationssicherheit (OIS-01)

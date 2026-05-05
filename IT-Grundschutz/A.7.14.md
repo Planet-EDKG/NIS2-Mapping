@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9c §30 (2) Nr. 9", "A.7.10", "A.7.14", "A.8.10", "A.8.13"]
-id: "A.7.14"
+id: A.7.14
+category: Technische Maßnahmen
 ---
 
 # A.7.14: Secure Disposal or Re-use of Equipment

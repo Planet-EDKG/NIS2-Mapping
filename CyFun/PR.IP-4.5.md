@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "4.1 Business continuity and disaster recovery plan", "4.2 Backup management", "6.8 Network segmentation"]
-id: "PR.IP-4.5"
-tier: "ESSENTIAL"
+id: PR.IP-4.5
+tier: ESSENTIAL
+category: Protect
 ---
 
 # BE-CyFun PR.IP-4.5

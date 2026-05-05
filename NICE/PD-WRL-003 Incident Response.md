@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-08", "GV.SC-08", "ID.IM-01", "ID.IM-02", "ID.IM-03", "ID.IM-04", "RC.CO-03", "RC.CO-04", "RC.RP-01", "RC.RP-02", "RC.RP-03", "RC.RP-04", "RC.RP-05", "RC.RP-06", "RS.AN-03", "RS.AN-06", "RS.AN-07", "RS.AN-08", "RS.CO-02", "RS.CO-03", "RS.MA-01", "RS.MA-02", "RS.MA-03", "RS.MA-04", "RS.MA-05", "RS.MI-01", "RS.MI-02"]
-id: "PD-WRL-003"
-opm: "531"
-category: "PROTECTION and DEFENSE"
+id: PD-WRL-003
+category: Allgemeine Rollen
+opm: 531
 ---
 
 # PD-WRL-003 – Incident Response

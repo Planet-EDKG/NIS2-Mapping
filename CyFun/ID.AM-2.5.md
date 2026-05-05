@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.9 Protection against malicious and unauthorised software"]
-id: "ID.AM-2.5"
-tier: "ESSENTIAL"
+id: ID.AM-2.5
+tier: ESSENTIAL
+category: Identify
 ---
 
 # BE-CyFun ID.AM-2.5 Mechanisms for detecting the presence of unauthorised software within the organisation’s ICT/OT environment shall be identified.

@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.10a §30 (2) Nr. 10", "A.5.16", "A.5.17", "A.5.18", "A.8.5"]
-id: "A.5.17"
+id: A.5.17
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.17: Authentication Information

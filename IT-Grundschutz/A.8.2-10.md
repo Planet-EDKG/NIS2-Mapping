@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.8.1", "A.8.11-20"]
-id: "A.8.2-10"
+id: A.8.2-10
+category: Technische Maßnahmen
 ---
 
 # A.8.2-A.8.10: Zugriff, Authentifizierung und Malware-Schutz

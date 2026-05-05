@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "5.2 Directory of suppliers and service providers"]
-id: "ID.BE-4.1"
-tier: "IMPORTANT"
+id: ID.BE-4.1
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.BE-4.1

@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.14.1"]
-id: "PR.IP-12"
-function: "PR"
-category: "PR.IP"
+id: PR.IP-12
+category: Protect
+function: PR
 ---
 
 # NIST CSF PR.IP-12

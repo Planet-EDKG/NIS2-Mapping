@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9a §30 (2) Nr. 9", "A.6.1", "A.6.2", "A.6.3", "A.6.5"]
-id: "A.6.2"
+id: A.6.2
+category: Personelle Maßnahmen
 ---
 
 # A.6.2: Terms and Conditions of Employment

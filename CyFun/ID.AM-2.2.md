@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "12.4 Asset inventory", "6.4 Change management, repairs and maintenance"]
-id: "ID.AM-2.2"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "12.4 Asset inventory", "6.4 Change management", "repairs and maintenance"]
+id: ID.AM-2.2
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-2.2 The inventory reflecting which software, services and systems are used in the organisation shall reflect changes in the organisation’s context and include all information necessary for effective accountability.

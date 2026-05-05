@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.5 Security testing"]
-id: "ID.RA-1.3"
-tier: "ESSENTIAL"
+id: ID.RA-1.3
+tier: ESSENTIAL
+category: Identify
 ---
 
 # BE-CyFun ID.RA-1.3 The organisation shall establish and maintain a documented process that enables continuous review, analysis and remediation of vulnerabilities and provides form information sharing where applicable.

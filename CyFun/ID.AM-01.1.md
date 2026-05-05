@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "12.4 Asset inventory", "6.4 Change management, repairs and maintenance"]
-id: "ID.AM-01.1"
-tier: "BASIC"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "12.2 Handling of assets", "12.4 Asset inventory", "6.4 Change management", "repairs and maintenance"]
+id: ID.AM-01.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.AM-01.1 An inventory of physical and virtual infrastructure assets — such as hardware, network devices, and cloud-hosted environments — that support information processing shall be documented, reviewed, and updated as changes occur.

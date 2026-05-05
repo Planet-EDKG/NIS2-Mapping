@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.7.9", "A.8.2", "A.8.5"]
-id: "A.8.1"
+id: A.8.1
+category: Technische Maßnahmen
 ---
 
 # A.8.1: User Endpoint Devices

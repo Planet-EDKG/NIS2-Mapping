@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.1 Access control policy", "11.4 Administration systems", "6.7 Network security", "6.8 Network segmentation"]
-id: "PR.AC-5.4"
-tier: "IMPORTANT"
+id: PR.AC-5.4
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.AC-5.4

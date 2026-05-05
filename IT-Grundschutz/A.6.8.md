@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.2 §30 (2) Nr. 2", "A.5.24", "A.6.3", "A.6.8"]
-id: "A.6.8"
+id: A.6.8
+category: Personelle Maßnahmen
 ---
 
 # A.6.8: Information Security Event Reporting

@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "2.1 Risk management framework", "3.1 Incident handling policy"]
-id: "RS.MI-1.1"
-tier: "IMPORTANT"
+id: RS.MI-1.1
+tier: IMPORTANT
+category: Respond
 ---
 
 # BE-CyFun RS.MI-1.1 Cybersecurity incidents shall be contained and eliminated. Any decision to accept and retain certain cybersecurity risks shall be formally documented.

@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "PR.IR-01", "PR.PS-05"]
-id: "OG-WRL-001"
-opm: "723"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-001
+category: Allgemeine Rollen
+opm: 723
 ---
 
 # OG-WRL-001 – Communications Security (COMSEC) Management

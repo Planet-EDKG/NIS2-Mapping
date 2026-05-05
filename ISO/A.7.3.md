@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.9d §30 (2) Nr. 9", "A.7.3", "PR.PT-03"]
-id: "A.7.3"
+id: A.7.3
+category: Physische Kontrollen
 ---
 
 # ISO 27001:2022 – A.7.3

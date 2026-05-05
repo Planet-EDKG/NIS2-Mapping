@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.4 Administration systems"]
-id: "PR.AA-05.4"
-tier: "BASIC"
+id: PR.AA-05.4
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AA-05.4 No one shall have administrative privileges for routine day-to-day tasks.

@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.11.2"]
-id: "PR.MA-01"
-function: "PR"
-category: "PR.MA"
+id: PR.MA-01
+category: Protect
+function: PR
 ---
 
 # NIST CSF PR.MA-01

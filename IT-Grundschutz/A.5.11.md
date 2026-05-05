@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9c §30 (2) Nr. 9", "A.5.11", "A.5.9", "A.6.5", "A.8.10"]
-id: "A.5.11"
+id: A.5.11
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.11: Return of Assets

@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-03", "DE.AE-07", "ID.AM-07", "ID.AM-08", "RS.AN-03", "RS.AN-06", "RS.AN-07", "RS.AN-08"]
-id: "IO-WRL-001"
-opm: "422"
-category: "IMPLEMENTATION and OPERATION"
+id: IO-WRL-001
+category: Allgemeine Rollen
+opm: 422
 ---
 
 # IO-WRL-001 – Data Analysis

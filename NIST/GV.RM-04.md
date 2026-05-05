@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.12.6", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-010 Program Management", "OG-WRL-015 Technology Portfolio Management"]
-id: "GV.RM-04"
-function: "GV"
-category: "GV.RM"
+id: GV.RM-04
+category: Governance
+function: GV
 ---
 
 # NIST CSF GV.RM-04

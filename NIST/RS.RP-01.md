@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0"]
-id: "RS.RP-01"
-function: "RS"
-category: "RS.RP"
+id: RS.RP-01
+category: Respond
+function: RS
 ---
 
 # NIST CSF RS.RP-01

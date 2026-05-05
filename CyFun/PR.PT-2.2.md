@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.3 Removable media policy"]
-id: "PR.PT-2.2"
-tier: "IMPORTANT"
+id: PR.PT-2.2
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.PT-2.2

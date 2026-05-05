@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.1 §31 (1)", "30.2.3a §30 (2) Nr. 3"]
-id: "BSI-17,"
+id: BSI-17,
+category: Kritische Infrastruktur
 ---
 
 # Verantwortung der gesetzlichen Vertreter des Betreibers der Kritischen Infrastruktur (BCM-01)

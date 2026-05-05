@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.2 §30 (2) Nr. 2", "30.2.3b §30 (2) Nr. 3", "31.2 §31 (2)"]
-id: "A.8.16"
+id: A.8.16
+category: Technische Kontrollen
 ---
 
 # ISO 27001:2022 – A.8.16

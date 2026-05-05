@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0"]
-id: "NF-COM-006"
-opm: ""
-category: "Competency Area"
+id: NF-COM-006
+category: Allgemeine Rollen
+opm: 
 ---
 
 # NF-COM-006 – Cryptography

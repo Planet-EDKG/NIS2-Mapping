@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.1 Access control policy", "13.1 Supporting utilities", "13.3 Perimeter and physical access control", "2.3 Independent review of information and network security", "3.2 Monitoring and logging"]
-id: "DE.CM-2.2"
-tier: "ESSENTIAL"
+id: DE.CM-2.2
+tier: ESSENTIAL
+category: Detect
 ---
 
 # BE-CyFun DE.CM-2.2 Physical access to the organisation's critical systems and devices, in addition to physical access monitoring to the facility, shall be supplemented by physical intrusion alarms, surveillance equipment, and independent monitoring teams.

@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.5 Security testing"]
-id: "PR.P-4.2"
-tier: "IMPORTANT"
+id: PR.P-4.2
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.P-4.2

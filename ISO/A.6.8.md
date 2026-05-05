@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.2 §30 (2) Nr. 2", "A.6.8"]
-id: "A.6.8"
+id: A.6.8
+category: Personenorientierte Kontrollen
 ---
 
 # ISO 27001:2022 – A.6.8

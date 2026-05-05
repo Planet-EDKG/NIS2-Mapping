@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.RM-02", "GV.RM-05", "GV.RM-06", "ID.IM-01", "ID.IM-02", "ID.IM-03", "ID.IM-04", "PR.IR-01", "PR.IR-02", "PR.IR-03", "PR.IR-04", "PR.PS-02"]
-id: "DD-WRL-006"
-opm: "641"
-category: "DESIGN and DEVELOPMENT"
+id: DD-WRL-006
+category: Design
+opm: 641
 ---
 
 # DD-WRL-006 – Systems Requirements Planning

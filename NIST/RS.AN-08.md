@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.16.1", "IO-WRL-001 Data Analysis", "IO-WRL-003 Knowledge Management", "IO-WRL-006 Systems Security Analysis", "OG-WRL-012 Security Control Assessment", "PD-WRL-003 Incident Response", "PD-WRL-004 Infrastructure Support"]
-id: "RS.AN-08"
-function: "RS"
-category: "RS.AN"
+id: RS.AN-08
+category: Respond
+function: RS
 ---
 
 # NIST CSF RS.AN-08

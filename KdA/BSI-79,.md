@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.2 §30 (2) Nr. 2"]
-id: "BSI-79,"
+id: BSI-79,
+category: Kritische Infrastruktur
 ---
 
 # Dokumentation und Berichterstattung über Sicherheitsvorfälle (SIM-04)

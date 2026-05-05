@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.7.8", "A.7.9", "A.8.5"]
-id: "A.6.7"
+id: A.6.7
+category: Personelle Maßnahmen
 ---
 
 # A.6.7: Remote Working

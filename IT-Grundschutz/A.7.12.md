@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "A.7.11", "A.7.13", "A.8.20"]
-id: "A.7.12"
+id: A.7.12
+category: Technische Maßnahmen
 ---
 
 # A.7.12: Cabling Security

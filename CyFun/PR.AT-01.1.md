@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.3 Event reporting", "8.1 Awareness raising and basic cyber hygiene practices", "8.2 Security training"]
-id: "PR.AT-01.1"
-tier: "BASIC"
+id: PR.AT-01.1
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AT-01.1 The organisation shall establish and maintain a cybersecurity awareness and training programme to ensure that all personnel understand how to perform their tasks securely and responsibly.

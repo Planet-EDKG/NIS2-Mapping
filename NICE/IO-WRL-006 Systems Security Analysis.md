@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.AE-02", "DE.AE-03", "DE.AE-04", "DE.AE-06", "DE.AE-07", "DE.AE-08", "DE.CM-01", "DE.CM-02", "DE.CM-03", "DE.CM-06", "DE.CM-09", "GV.RM-06", "ID.IM-03", "ID.RA-01", "ID.RA-02", "ID.RA-03", "ID.RA-04", "ID.RA-05", "ID.RA-06", "ID.RA-07", "ID.RA-08", "ID.RA-09", "ID.RA-10", "PR.DS-01", "PR.DS-02", "PR.DS-10", "PR.DS-11", "RS.AN-03", "RS.AN-06", "RS.AN-07", "RS.AN-08", "RS.MA-02", "RS.MA-03", "RS.MA-04"]
-id: "IO-WRL-006"
-opm: "461"
-category: "IMPLEMENTATION and OPERATION"
+id: IO-WRL-006
+category: Allgemeine Rollen
+opm: 461
 ---
 
 # IO-WRL-006 – Systems Security Analysis

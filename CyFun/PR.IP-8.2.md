@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures"]
-id: "PR.IP-8.2"
-tier: "IMPORTANT"
+id: PR.IP-8.2
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.IP-8.2

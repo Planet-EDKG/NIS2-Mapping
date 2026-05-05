@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.10b §30 (2) Nr. 10", "30.2.5e §30 (2) Nr. 5"]
-id: "BSI-36,"
+id: BSI-36,
+category: Kritische Infrastruktur
 ---
 
 # Technische Schutzmaßnahmen (KOS-01)

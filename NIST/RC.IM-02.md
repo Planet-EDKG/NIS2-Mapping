@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.17.1"]
-id: "RC.IM-02"
-function: "RC"
-category: "RC.IM"
+id: RC.IM-02
+category: Recover
+function: RC
 ---
 
 # NIST CSF RC.IM-02

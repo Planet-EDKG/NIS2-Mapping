@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0"]
-id: "IN-WRL-002"
-opm: "211"
-category: "INVESTIGATION"
+id: IN-WRL-002
+category: Investigate
+opm: 211
 ---
 
 # IN-WRL-002 – Digital Evidence Analysis

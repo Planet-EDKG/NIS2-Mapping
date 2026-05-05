@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "10.1 Human resources security", "10.3 Termination or change of employment procedures", "11.2 Management of access rights", "11.3 Privileged accounts and system administration accounts", "13.3 Perimeter and physical access control"]
-id: "PR.AA-05.3"
-tier: "BASIC"
+id: PR.AA-05.3
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.AA-05.3 Access rights, privileges and authorisations shall be restricted to the systems and specific information needed to perform the tasks (the principle of Least Privilege).

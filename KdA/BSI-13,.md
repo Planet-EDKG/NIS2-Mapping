@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.0 §30 (2) Satz 1", "30.2.1a §30 (2) Nr. 1"]
-id: "BSI-13,"
+id: BSI-13,
+category: Kritische Infrastruktur
 ---
 
 # Richtlinie für die Organisation des Risikomanagements (OIS-06)

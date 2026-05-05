@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "12.4 Asset inventory"]
-id: "ID.AM-1.3"
-tier: "IMPORTANT"
+id: ID.AM-1.3
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-1.3 When unauthorised hardware is detected, it shall be quarantined for possible exception handling, removed, or replaced, and the inventory shall be updated accordingly.

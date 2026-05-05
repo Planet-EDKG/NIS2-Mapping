@@ -1,9 +1,10 @@
 ---
-tags: [ISO]
-status: "offen"
-owner: ""
+tags: ["ISO"]
+status: offen
+owner: 
 mapping_to: ["000 ISO 27001-2022", "30.2.9c §30 (2) Nr. 9", "A.5.13"]
-id: "A.5.13"
+id: A.5.13
+category: Organisatorische Kontrollen
 ---
 
 # ISO 27001:2022 – A.5.13

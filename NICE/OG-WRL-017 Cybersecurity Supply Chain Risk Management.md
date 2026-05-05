@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0"]
-id: "OG-WRL-017"
-opm: "TBD"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-017
+category: Allgemeine Rollen
+opm: TBD
 ---
 
 # OG-WRL-017 – Cybersecurity Supply Chain Risk Management

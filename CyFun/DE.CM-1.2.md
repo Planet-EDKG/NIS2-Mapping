@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.2 Monitoring and logging", "6.7 Network security"]
-id: "DE.CM-1.2"
-tier: "IMPORTANT"
+id: DE.CM-1.2
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.CM-1.2 Anti-virus, -spyware, and other -malware programs shall be installed and updated.

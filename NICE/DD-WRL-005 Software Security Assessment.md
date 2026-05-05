@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "DE.CM-09", "ID.AM-02", "ID.RA-01", "PR.PS-02", "PR.PS-06"]
-id: "DD-WRL-005"
-opm: "622"
-category: "DESIGN and DEVELOPMENT"
+id: DD-WRL-005
+category: Design
+opm: 622
 ---
 
 # DD-WRL-005 – Software Security Assessment

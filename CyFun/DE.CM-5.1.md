@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.9 Protection against malicious and unauthorised software"]
-id: "DE.CM-5.1"
-tier: "IMPORTANT"
+id: DE.CM-5.1
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.CM-5.1

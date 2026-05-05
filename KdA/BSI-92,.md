@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.2 §30 (2) Nr. 2", "31.2 §31 (2)"]
-id: "BSI-92,"
+id: BSI-92,
+category: Kritische Infrastruktur
 ---
 
 # Systematische Log-Auswertung – Aufbewahrung (RB-13)

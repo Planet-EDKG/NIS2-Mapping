@@ -10,5 +10,6 @@
   "cmdr",
   "obsidian-hider",
   "obsidian-banners",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-linter"
 ]

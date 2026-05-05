@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "1.1 Policy on the security of network and information systems", "10.1 Human resources security", "11.1 Access control policy", "11.2 Management of access rights", "13.3 Perimeter and physical access control", "6.4 Change management, repairs and maintenance"]
-id: "GV.PO-01.1"
-tier: "BASIC"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "1.1 Policy on the security of network and information systems", "10.1 Human resources security", "11.1 Access control policy", "11.2 Management of access rights", "13.3 Perimeter and physical access control", "6.4 Change management", "repairs and maintenance"]
+id: GV.PO-01.1
+tier: BASIC
+category: Governance
 ---
 
 # BE-CyFun GV.PO-01.1 Policies and procedures for managing information and cybersecurity shall be established, documented, reviewed, approved, updated when changes occur, communicated and enforced.

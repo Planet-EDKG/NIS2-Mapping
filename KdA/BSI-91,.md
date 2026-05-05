@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "31.2 §31 (2)"]
-id: "BSI-91,"
+id: BSI-91,
+category: Kritische Infrastruktur
 ---
 
 # Systematische Log-Auswertung – kritische Assets (RB-12)

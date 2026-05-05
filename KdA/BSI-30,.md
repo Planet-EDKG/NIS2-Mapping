@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5e §30 (2) Nr. 5", "30.2.9b §30 (2) Nr. 9"]
-id: "BSI-30,"
+id: BSI-30,
+category: Kritische Infrastruktur
 ---
 
 # Einschränkung und Kontrolle administrativer Software (IDM-12)

@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.9c §30 (2) Nr. 9", "A.5.10", "A.5.12", "A.5.13", "A.5.9"]
-id: "A.5.12"
+id: A.5.12
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.12: Classification of Information

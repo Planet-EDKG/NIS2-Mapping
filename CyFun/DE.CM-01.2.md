@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.9 Protection against malicious and unauthorised software"]
-id: "DE.CM-01.2"
-tier: "BASIC"
+id: DE.CM-01.2
+tier: BASIC
+category: Detect
 ---
 
 # BE-CyFun DE.CM-01.2 Anti-virus, -spyware, and other -malware programs shall be installed and updated.

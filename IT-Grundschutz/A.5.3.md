@@ -1,9 +1,10 @@
 ---
-tags: [IT-Grundschutz]
-status: "offen"
-owner: ""
+tags: ["IT-Grundschutz"]
+status: offen
+owner: 
 mapping_to: ["000 IT-Grundschutz-Mapping", "30.2.1b §30 (2) Nr. 1", "A.5.2", "A.5.3", "A.8.2"]
-id: "A.5.3"
+id: A.5.3
+category: Organisatorische Maßnahmen
 ---
 
 # A.5.3: Segregation of Duties

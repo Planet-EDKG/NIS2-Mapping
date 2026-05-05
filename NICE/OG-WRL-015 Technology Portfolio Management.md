@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "GV.OC-01", "GV.RM-01", "GV.RM-02", "GV.RM-03", "GV.RM-04", "GV.RM-05", "GV.RM-06", "GV.RM-07", "GV.SC-01", "GV.SC-02", "GV.SC-03", "GV.SC-04", "GV.SC-05", "GV.SC-06", "GV.SC-07", "GV.SC-08", "GV.SC-09", "GV.SC-10", "ID.AM-01", "ID.AM-02", "ID.AM-03", "ID.AM-04", "ID.AM-05", "ID.AM-07", "ID.AM-08", "ID.RA-09", "ID.RA-10", "RC.CO-03", "RC.CO-04", "RC.RP-01", "RC.RP-02", "RC.RP-03", "RC.RP-04", "RC.RP-05", "RC.RP-06", "RS.CO-02", "RS.CO-03", "RS.MA-05"]
-id: "OG-WRL-015"
-opm: "804"
-category: "OVERSIGHT and GOVERNANCE"
+id: OG-WRL-015
+category: Allgemeine Rollen
+opm: 804
 ---
 
 # OG-WRL-015 – Technology Portfolio Management

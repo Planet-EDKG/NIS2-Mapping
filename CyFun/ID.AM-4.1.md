@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.4 Change management, repairs and maintenance"]
-id: "ID.AM-4.1"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.4 Change management", "repairs and maintenance"]
+id: ID.AM-4.1
+tier: IMPORTANT
+category: Identify
 ---
 
 # BE-CyFun ID.AM-4.1 Organisations shall keep a clear and up-to-date list of all external services it uses, including how they connect to their systems. These services shall be reviewed and approved before use, and the list shall be updated whenever changes happen.

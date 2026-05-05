@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.16.1", "OG-WRL-006 Cybersecurity Legal Advice", "OG-WRL-007 Executive Cybersecurity Leadership", "OG-WRL-008 Privacy Compliance", "OG-WRL-010 Program Management", "OG-WRL-015 Technology Portfolio Management", "PD-WRL-003 Incident Response"]
-id: "RS.CO-03"
-function: "RS"
-category: "RS.CO"
+id: RS.CO-03
+category: Respond
+function: RS
 ---
 
 # NIST CSF RS.CO-03

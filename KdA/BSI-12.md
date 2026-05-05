@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9c §30 (2) Nr. 9"]
-id: "BSI-12"
+id: BSI-12
+category: Kritische Infrastruktur
 ---
 
 # Überführung und Entfernung von Assets (AM-08)

@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.9d §30 (2) Nr. 9"]
-id: "BSI-73,"
+id: BSI-73,
+category: Kritische Infrastruktur
 ---
 
 # Physischer Zutrittsschutz (PS-02)

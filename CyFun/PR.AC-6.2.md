@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "11.5 Identification", "11.6 Authentication"]
-id: "PR.AC-6.2"
-tier: "ESSENTIAL"
+id: PR.AC-6.2
+tier: ESSENTIAL
+category: Protect
 ---
 
 # BE-CyFun PR.AC-6.2

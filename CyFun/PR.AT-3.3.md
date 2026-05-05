@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "2.2 Compliance monitoring"]
-id: "PR.AT-3.3"
-tier: "IMPORTANT"
+id: PR.AT-3.3
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.AT-3.3

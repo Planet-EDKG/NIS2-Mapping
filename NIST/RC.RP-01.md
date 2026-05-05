@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.17.1", "DD-WRL-002 Enterprise Architecture", "IO-WRL-005 Systems Administration", "OG-WRL-002 Cybersecurity Policy and Planning", "OG-WRL-009 Product Support Management", "OG-WRL-014 Systems Security Management", "OG-WRL-015 Technology Portfolio Management", "PD-WRL-003 Incident Response"]
-id: "RC.RP-01"
-function: "RC"
-category: "RC.RP"
+id: RC.RP-01
+category: Recover
+function: RC
 ---
 
 # NIST CSF RC.RP-01

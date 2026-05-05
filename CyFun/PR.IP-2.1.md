@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.1 Security in acquisition of ICT services, ICT systems or ICT products", "6.2 Secure development life cycle"]
-id: "PR.IP-2.1"
-tier: "IMPORTANT"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.1 Security in acquisition of ICT services", "ICT systems or ICT products", "6.2 Secure development life cycle"]
+id: PR.IP-2.1
+tier: IMPORTANT
+category: Protect
 ---
 
 # BE-CyFun PR.IP-2.1

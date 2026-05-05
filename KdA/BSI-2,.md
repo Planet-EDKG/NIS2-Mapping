@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1b §30 (2) Nr. 1"]
-id: "BSI-2,"
+id: BSI-2,
+category: Kritische Infrastruktur
 ---
 
 # Strategische Vorgaben zur Informationssicherheit und Verantwortung der Unternehmensleitung (OIS-02)

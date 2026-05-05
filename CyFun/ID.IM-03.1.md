@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "13.1 Supporting utilities", "13.2 Protection against physical and environmental threats", "2.2 Compliance monitoring", "3.4 Event assessment and classification", "3.6 Post-incident reviews", "7.1 Policies and procedures to assess the effectiveness of cybersecurity risk-management measures"]
-id: "ID.IM-03.1"
-tier: "BASIC"
+id: ID.IM-03.1
+tier: BASIC
+category: Identify
 ---
 
 # BE-CyFun ID.IM-03.1 The organisation shall conduct post-incident evaluations to analyse lessons learnedfrom incident response and recovery, and consequently improve processes / procedures / technologies to enhance its cyber resilience.

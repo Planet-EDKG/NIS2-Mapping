@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.3b §30 (2) Nr. 3"]
-id: "BSI-22,"
+id: BSI-22,
+category: Kritische Infrastruktur
 ---
 
 # Datensicherung und Wiederherstellung (RB-06, RB-09)

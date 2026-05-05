@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.1a §30 (2) Nr. 1", "30.2.6 §30 (2) Nr. 6"]
-id: "BSI-85,"
+id: BSI-85,
+category: Kritische Infrastruktur
 ---
 
 # Informieren der Unternehmensleitung (SPN-01)

@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.5d §30 (2) Nr. 5"]
-id: "BSI-95,"
+id: BSI-95,
+category: Kritische Infrastruktur
 ---
 
 # Penetrationstest (RB-18)

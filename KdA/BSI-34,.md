@@ -1,9 +1,10 @@
 ---
-tags: [KdA]
-status: "offen"
-owner: ""
+tags: ["KdA"]
+status: offen
+owner: 
 mapping_to: ["000 KdA KRITIS", "30.2.8 §30 (2) Nr. 8"]
-id: "BSI-34,"
+id: BSI-34,
+category: Kritische Infrastruktur
 ---
 
 # Verschlüsselung von sensiblen Daten bei der Speicherung (KRY-03)

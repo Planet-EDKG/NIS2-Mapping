@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.6.2", "DD-WRL-001 Cybersecurity Architecture", "IO-WRL-002 Database Administration", "IO-WRL-003 Knowledge Management", "IO-WRL-005 Systems Administration", "OG-WRL-013 Systems Authorization", "OG-WRL-014 Systems Security Management", "PD-WRL-004 Infrastructure Support"]
-id: "PR.AA-03"
-function: "PR"
-category: "PR.AA"
+id: PR.AA-03
+category: Protect
+function: PR
 ---
 
 # NIST CSF PR.AA-03

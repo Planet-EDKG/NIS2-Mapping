@@ -1,11 +1,11 @@
 ---
-tags: [NIST]
-status: "offen"
-owner: ""
+tags: ["NIST"]
+status: offen
+owner: 
 mapping_to: ["000 NIST CSF v2.0", "A.12.4"]
-id: "DE.CM-04"
-function: "DE"
-category: "DE.CM"
+id: DE.CM-04
+category: Detect
+function: DE
 ---
 
 # NIST CSF DE.CM-04

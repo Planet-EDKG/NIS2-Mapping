@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "3.2 Monitoring and logging"]
-id: "DE.AE-03.1"
-tier: "BASIC"
+id: DE.AE-03.1
+tier: BASIC
+category: Detect
 ---
 
 # BE-CyFun DE.AE-03.1 The logging functionality of protection and detection tools shall be enabled. Logs shall be backed up and retained for a predefined period and regularly reviewed to identify unusual or potentially harmful activity.

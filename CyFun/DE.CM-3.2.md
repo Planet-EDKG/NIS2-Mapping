@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.7 Network security"]
-id: "DE.CM-3.2"
-tier: "IMPORTANT"
+id: DE.CM-3.2
+tier: IMPORTANT
+category: Detect
 ---
 
 # BE-CyFun DE.CM-3.2 End point and network protection tools that monitor end-user behaviour for dangerous activity shall be managed.

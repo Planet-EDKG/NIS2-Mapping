@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "4.3 Crisis management"]
-id: "RS.CO-02.1"
-tier: "BASIC"
+id: RS.CO-02.1
+tier: BASIC
+category: Respond
 ---
 
 # BE-CyFun RS.CO-02.1 Information about cybersecurity incidents shall be communicated to employees in a way that is clear and easy to understand.

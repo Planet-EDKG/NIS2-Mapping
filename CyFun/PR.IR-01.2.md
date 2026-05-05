@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
+tags: ["CyFun"]
+status: offen
+owner: 
 mapping_to: ["000 BE-CyFun 2025", "6.7 Network security", "6.8 Network segmentation"]
-id: "PR.IR-01.2"
-tier: "BASIC"
+id: PR.IR-01.2
+tier: BASIC
+category: Protect
 ---
 
 # BE-CyFun PR.IR-01.2 To safeguard critical systems, organisations shall implement network segmentation and segregation aligned with trust boundaries and asset criticality, thereby limiting threat propagation and enforcing strict access control

@@ -1,11 +1,11 @@
 ---
-tags: [NICE]
-status: "offen"
-owner: ""
+tags: ["NICE"]
+status: offen
+owner: 
 mapping_to: ["000 NICE Framework v2.2.0", "RS.AN-03", "RS.AN-06", "RS.AN-07", "RS.MA-02", "RS.MA-03"]
-id: "PD-WRL-002"
-opm: "212"
-category: "PROTECTION and DEFENSE"
+id: PD-WRL-002
+category: Allgemeine Rollen
+opm: 212
 ---
 
 # PD-WRL-002 – Digital Forensics

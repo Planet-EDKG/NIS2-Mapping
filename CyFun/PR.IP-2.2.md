@@ -1,10 +1,11 @@
 ---
-tags: [CyFun]
-status: "offen"
-owner: ""
-mapping_to: ["000 BE-CyFun 2025", "6.2 Secure development life cycle", "6.3 Configuration management", "6.4 Change management, repairs and maintenance", "6.5 Security testing"]
-id: "PR.IP-2.2"
-tier: "ESSENTIAL"
+tags: ["CyFun"]
+status: offen
+owner: 
+mapping_to: ["000 BE-CyFun 2025", "6.2 Secure development life cycle", "6.3 Configuration management", "6.4 Change management", "repairs and maintenance", "6.5 Security testing"]
+id: PR.IP-2.2
+tier: ESSENTIAL
+category: Protect
 ---
 
 # BE-CyFun PR.IP-2.2
