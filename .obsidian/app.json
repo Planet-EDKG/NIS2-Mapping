@@ -2,5 +2,6 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": false
 }

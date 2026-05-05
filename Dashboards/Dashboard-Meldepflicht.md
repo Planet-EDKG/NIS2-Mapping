@@ -24,7 +24,7 @@ SORT tags[0], file.name ASC
 ```dataview
 TABLE WITHOUT ID
 tags[0] AS "Framework",
-length(file.link) AS "Anzahl"
+length(rows) AS "Anzahl"
 FROM ""
 WHERE category = "Meldepflicht"
 GROUP BY tags[0]
